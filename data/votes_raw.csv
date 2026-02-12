@@ -1,1013 +1,385 @@
-name_x,party,symbol,seat,time,votes
-Kapil Krishna Mandal,BNP,ধানের শীষ,Bagerhat-1,2025-02-12 06:27:28,120576
-S. M. Golam Sorrowar,JaPa,লাঙ্গল,Bagerhat-1,2025-02-12 23:21:16,95848
-Md. Mashiur Rahman Khan,Jamaat,দাঁড়িপাল্লা,Bagerhat-1,2025-02-12 17:34:26,54122
-Sheikh Mohammad Zakir Hossain,BNP,ধানের শীষ,Bagerhat-2,2025-02-12 09:52:20,132099
-Sheikh Atiyar Rahman,Islami Andolan Bangladesh,হাতপাখা,Bagerhat-2,2025-02-12 16:22:56,81502
-Sheikh Manjurul Haque (Rahad),Jamaat,দাঁড়িপাল্লা,Bagerhat-2,2025-02-12 00:10:20,80804
-Sheikh Faridul Islam,BNP,ধানের শীষ,Bagerhat-3,2025-02-12 01:19:02,55013
-Sheikh Zillur Rahman,Islami Andolan Bangladesh,হাতপাখা,Bagerhat-3,2025-02-12 04:59:07,106033
-Mohammed Abdul Wadud Sheikh,Jamaat,দাঁড়িপাল্লা,Bagerhat-3,2025-02-12 14:35:13,31700
-Md. Nazrul Islam Molla,BNP,ধানের শীষ,Barguna-1,2025-02-12 14:34:52,178347
-Md. Ali Ullah,Islami Andolan Bangladesh,হাতপাখা,Barguna-1,2025-02-12 01:48:09,97088
-Md. Jahangir Hossain,Khelafat Majlish,দেওয়াল ঘড়ি,Barguna-1,2025-02-12 00:00:21,86872
-Md. Nurul Islam,BNP,ধানের শীষ,Barguna-2,2025-02-12 20:23:44,62280
-Md. Mizanur Rahman,Islami Andolan Bangladesh,হাতপাখা,Barguna-2,2025-02-12 04:49:32,93072
-Abdul Latif Farazi,JaPa,লাঙ্গল,Barguna-2,2025-02-12 18:47:06,48403
-Dr. Sultan Ahmed,Jamaat,দাঁড়িপাল্লা,Barguna-2,2025-02-12 21:34:03,99806
-Zahir Uddin Swapan,BNP,ধানের শীষ,Barisal-1,2025-02-12 06:28:38,48425
-Md. Russell Sardar,Islami Andolan Bangladesh,হাতপাখা,Barisal-1,2025-02-12 23:25:19,49325
-Md. Kamrul Islam Khan,Jamaat,দাঁড়িপাল্লা,Barisal-1,2025-02-12 17:27:17,94131
-Sardar Sarfuddin Ahmed,BNP,ধানের শীষ,Barisal-2,2025-02-12 19:05:18,150688
-Mohammad Nesar Uddin,Islami Andolan Bangladesh,হাতপাখা,Barisal-2,2025-02-12 06:01:09,63212
-A. A. Jalil,JaPa,লাঙ্গল,Barisal-2,2025-02-12 08:31:09,122346
-A. Haq,JaPa,লাঙ্গল,Barisal-2,2025-02-12 17:31:25,92350
-Abdul Mannan,Jamaat,দাঁড়িপাল্লা,Barisal-2,2025-02-12 01:19:52,114716
-Mohammad Asaduzzaman Bhuiyan,AB Party,ঈগল,Barisal-3,2025-02-12 13:32:01,33979
-Zainul Abedin,BNP,ধানের শীষ,Barisal-3,2025-02-12 00:47:20,71727
-Muhammad Sirajul Islam,Islami Andolan Bangladesh,হাতপাখা,Barisal-3,2025-02-12 07:47:10,90206
-Golam Kibria Tipu,JaPa,লাঙ্গল,Barisal-3,2025-02-12 20:55:44,98934
-Md. Rajib Ahsan,BNP,ধানের শীষ,Barisal-4,2025-02-12 20:02:14,88177
-Syed Ishaq Md. Abul Khair,Islami Andolan Bangladesh,হাতপাখা,Barisal-4,2025-02-12 05:48:23,107982
-Mohammad Abdul Jabbar,Jamaat,দাঁড়িপাল্লা,Barisal-4,2025-02-12 11:54:55,104420
-Md. Mujibur Rahman Sarwar,BNP,ধানের শীষ,Barisal-5,2025-02-12 09:03:25,103346
-Mufti Syed Md. Faizul Karim,Islami Andolan Bangladesh,হাতপাখা,Barisal-5,2025-02-12 19:21:55,57902
-Akhtar Rahman,JaPa,লাঙ্গল,Barisal-5,2025-02-12 08:30:38,129289
-Abul Hossain Khan,BNP,ধানের শীষ,Barisal-6,2025-02-12 19:40:19,74018
-Mufti Syed Md. Faizul Karim,Islami Andolan Bangladesh,হাতপাখা,Barisal-6,2025-02-12 12:42:06,100811
-Md. Mahmudunnabi,Jamaat,দাঁড়িপাল্লা,Barisal-6,2025-02-12 11:30:06,101717
-Md. Obaidul Rahman,Islami Andolan Bangladesh,হাতপাখা,Bhola-1,2025-02-12 17:11:43,74871
-Md. Akbar Hossain,JaPa,লাঙ্গল,Bhola-1,2025-02-12 07:40:42,117846
-Md. Nazrul Islam,Jamaat,দাঁড়িপাল্লা,Bhola-1,2025-02-12 22:46:46,75689
-Md. Hafiz Ibrahim,BNP,ধানের শীষ,Bhola-2,2025-02-12 00:31:36,152785
-Advocate Md. Jahangir Alam Rintu,JaPa,লাঙ্গল,Bhola-2,2025-02-12 00:57:07,109514
-Mohammad Fazlul Karim,Jamaat,দাঁড়িপাল্লা,Bhola-2,2025-02-12 23:53:44,82400
-Hafiz Uddin Ahmed,BNP,ধানের শীষ,Bhola-3,2025-02-12 10:08:23,129343
-Md. Mosleh Uddin,Islami Andolan Bangladesh,হাতপাখা,Bhola-3,2025-02-12 08:19:26,87703
-Md. Kamal Uddin,JaPa,লাঙ্গল,Bhola-3,2025-02-12 14:29:06,151791
-Mohammad Nurul Islam,BNP,ধানের শীষ,Bhola-4,2025-02-12 20:37:24,177934
-Abul Mukarram Md. Kamal Uddin,Islami Andolan Bangladesh,হাতপাখা,Bhola-4,2025-02-12 13:04:32,58417
-Md. Mizanur Rahman,JaPa,লাঙ্গল,Bhola-4,2025-02-12 10:55:06,54334
-Mohammad Mustafa Kamal,Jamaat,দাঁড়িপাল্লা,Bhola-4,2025-02-12 05:00:39,81133
-Kazi Rafiqul Islam,BNP,ধানের শীষ,Bogra-1,2025-02-12 04:15:50,117385
-A. B. M. Mustafa Kemal Pasha,Islami Andolan Bangladesh,হাতপাখা,Bogra-1,2025-02-12 23:27:44,132314
-Md. Shahabuddin,Jamaat,দাঁড়িপাল্লা,Bogra-1,2025-02-12 00:14:56,101531
-Mir Shah Alam,BNP,ধানের শীষ,Bogra-2,2025-02-12 04:11:01,56331
-Md. Jamal Uddin,Islami Andolan Bangladesh,হাতপাখা,Bogra-2,2025-02-12 22:16:51,59690
-Shariful Islam Jinnah,JaPa,লাঙ্গল,Bogra-2,2025-02-12 13:56:47,84518
-Abul Azad Mohammad Shahaduzzaman,Jamaat,দাঁড়িপাল্লা,Bogra-2,2025-02-12 14:45:11,81656
-Mahmudur Rahman Manna,Nagorik Oikko,কেটলি,Bogra-2,2025-02-12 04:52:32,40493
-Md. Abdul Mohit Talukder,BNP,ধানের শীষ,Bogra-3,2025-02-12 21:41:18,117428
-Md. Shahjahan Ali Talukder,Islami Andolan Bangladesh,হাতপাখা,Bogra-3,2025-02-12 05:21:23,84889
-Md. Shahinul Islam,JaPa,লাঙ্গল,Bogra-3,2025-02-12 16:33:01,37417
-Md. Noor Mohammad,Jamaat,দাঁড়িপাল্লা,Bogra-3,2025-02-12 00:19:06,56129
-Md. Mosharraf Hossain,BNP,ধানের শীষ,Bogra-4,2025-02-12 05:37:28,86674
-Md. Idris Ali,Islami Andolan Bangladesh,হাতপাখা,Bogra-4,2025-02-12 03:58:21,140030
-Shahin Mustafa Kamal,JaPa,লাঙ্গল,Bogra-4,2025-02-12 17:58:02,75737
-Md. Mustafa Faisal,Jamaat,দাঁড়িপাল্লা,Bogra-4,2025-02-12 00:47:08,104167
-Gulam Mohammad Siraj,BNP,ধানের শীষ,Bogra-5,2025-02-12 13:16:38,117508
-Mir Md. Mahmudur Rahman,Islami Andolan Bangladesh,হাতপাখা,Bogra-5,2025-02-12 10:36:54,152023
-Md. Dabibur Rahman,Jamaat,দাঁড়িপাল্লা,Bogra-5,2025-02-12 11:02:45,178567
-Tarique Rahman,BNP,ধানের শীষ,Bogra-6,2025-02-12 10:25:34,172462
-Abu Numan Md. Mamunur Rashid,Islami Andolan Bangladesh,হাতপাখা,Bogra-6,2025-02-12 14:50:58,132341
-Md. Abidur Rahman,Jamaat,দাঁড়িপাল্লা,Bogra-6,2025-02-12 06:34:56,86477
-Morshed Milton,BNP,ধানের শীষ,Bogra-7,2025-02-12 06:52:00,160007
-Md. Shafiqul Islam,Islami Andolan Bangladesh,হাতপাখা,Bogra-7,2025-02-12 02:27:24,184792
-Md. Golam Rabbani,Jamaat,দাঁড়িপাল্লা,Bogra-7,2025-02-12 09:13:02,55144
-M. A. Hannan,BNP,ধানের শীষ,Brahmanbaria-1,2025-02-12 23:51:03,100
-Hussain Ahmed,Islami Andolan Bangladesh,হাতপাখা,Brahmanbaria-1,2025-02-12 01:36:16,100
-Md. Shah Alam,JaPa,লাঙ্গল,Brahmanbaria-1,2025-02-12 23:22:45,100
-A. K. M. Aminul Islam,Jamaat,দাঁড়িপাল্লা,Brahmanbaria-1,2025-02-12 10:39:44,100
-Nesar Ahmad,Islami Andolan Bangladesh,হাতপাখা,Brahmanbaria-2,2025-02-12 21:36:22,100
-Ed. Md. Ziaul Haque Mridha,JaPa,লাঙ্গল,Brahmanbaria-2,2025-02-12 11:58:49,100
-Mohammed Junaid Al Habib,Jamiat Ulama-e-Islam Bangladesh,খেজুর গাছ,Brahmanbaria-2,2025-02-12 05:24:33,100
-Ashraf Uddin,NCP,শাপলা কলি,Brahmanbaria-2,2025-02-12 14:21:41,100
-Md. Khaled Hossain Mahbub,BNP,ধানের শীষ,Brahmanbaria-3,2025-02-12 20:22:20,100
-Niazul Karim,Islami Andolan Bangladesh,হাতপাখা,Brahmanbaria-3,2025-02-12 20:20:32,100
-Md. Rezaul Islam Bhuiyan,JaPa,লাঙ্গল,Brahmanbaria-3,2025-02-12 09:57:03,100
-Ataullah,NCP,শাপলা কলি,Brahmanbaria-3,2025-02-12 03:44:11,100
-Mushfiqur Rahman,BNP,ধানের শীষ,Brahmanbaria-4,2025-02-12 18:28:23,100
-Md. Jasim,Islami Andolan Bangladesh,হাতপাখা,Brahmanbaria-4,2025-02-12 01:08:10,100
-Md. Zahirul Haque Khan,JaPa,লাঙ্গল,Brahmanbaria-4,2025-02-12 11:39:09,100
-Md. Ataur Rahman Sarker,Jamaat,দাঁড়িপাল্লা,Brahmanbaria-4,2025-02-12 19:44:13,100
-Md. Abdul Mannan,BNP,ধানের শীষ,Brahmanbaria-5,2025-02-12 17:43:53,100
-Amjad Hossain,Bangladesh Khelafat Majlish,রিক্সা,Brahmanbaria-5,2025-02-12 04:22:17,100
-Nazrul Islam,Islami Andolan Bangladesh,হাতপাখা,Brahmanbaria-5,2025-02-12 23:57:20,100
-Mohammad Kamrul Islam,JaPa,লাঙ্গল,Brahmanbaria-5,2025-02-12 01:17:17,100
-Md. Jonayed Abdur Rahim Saki,Ganosamhati Andolon (Saki),মাথাল,Brahmanbaria-6,2025-02-12 20:09:08,100
-Saeed Uddin Khan,Islami Andolan Bangladesh,হাতপাখা,Brahmanbaria-6,2025-02-12 20:58:24,100
-Md. Mohsin,Jamaat,দাঁড়িপাল্লা,Brahmanbaria-6,2025-02-12 18:08:03,100
-A N M Ehsanul Hoque Milon,BNP,ধানের শীষ,Chandpur-1,2025-02-12 09:15:55,100
-Habib Khan,JaPa,লাঙ্গল,Chandpur-1,2025-02-12 14:45:42,100
-Abu Nasar Mohammad Makbol Ahmad,Jamaat,দাঁড়িপাল্লা,Chandpur-1,2025-02-12 19:59:53,100
-Md. Jalal Uddin,BNP,ধানের শীষ,Chandpur-2,2025-02-12 01:14:37,100
-Mansur,Islami Andolan Bangladesh,হাতপাখা,Chandpur-2,2025-02-12 07:17:35,100
-Md. Amran Hossain Mia,JaPa,লাঙ্গল,Chandpur-2,2025-02-12 07:23:28,100
-Md. Billal Hosion,LDP,ছাতা,Chandpur-2,2025-02-12 15:53:05,100
-Sk Farid Ahmed,BNP,ধানের শীষ,Chandpur-3,2025-02-12 02:47:10,100
-Md. Jaynal Abdin Shakh,Islami Andolan Bangladesh,হাতপাখা,Chandpur-3,2025-02-12 07:47:24,100
-Md. Shahjahan Miah,Jamaat,দাঁড়িপাল্লা,Chandpur-3,2025-02-12 09:58:22,100
-Md. Harunur Rashid,BNP,ধানের শীষ,Chandpur-4,2025-02-12 02:15:07,100
-Mokbul Hossain,Islami Andolan Bangladesh,হাতপাখা,Chandpur-4,2025-02-12 01:40:49,100
-Mahmud Alam,JaPa,লাঙ্গল,Chandpur-4,2025-02-12 13:16:11,100
-Md. Billal Hossain Miaji,Jamaat,দাঁড়িপাল্লা,Chandpur-4,2025-02-12 19:56:30,100
-Md. Maminul Haque,BNP,ধানের শীষ,Chandpur-5,2025-02-12 01:21:49,100
-Mohammad Ali Patwary,Islami Andolan Bangladesh,হাতপাখা,Chandpur-5,2025-02-12 23:50:56,100
-Mirza Gious Uddin,JaPa,লাঙ্গল,Chandpur-5,2025-02-12 19:28:15,100
-Md. Neamul Bashir,LDP,ছাতা,Chandpur-5,2025-02-12 03:53:02,100
-Md. Shahjahan Mia,BNP,ধানের শীষ,Chapai Nawabganj-1,2025-02-12 18:49:19,134691
-Md. Monirul Islam (Moniur),Islami Andolan Bangladesh,হাতপাখা,Chapai Nawabganj-1,2025-02-12 09:14:49,156106
-Md. Afzal Hossain,JaPa,লাঙ্গল,Chapai Nawabganj-1,2025-02-12 18:22:02,104803
-Md. Keramat Ali,Jamaat,দাঁড়িপাল্লা,Chapai Nawabganj-1,2025-02-12 07:23:27,86574
-Md. Aminul Islam,BNP,ধানের শীষ,Chapai Nawabganj-2,2025-02-12 16:52:53,180073
-Md. Ibrahim Khalil,Islami Andolan Bangladesh,হাতপাখা,Chapai Nawabganj-2,2025-02-12 13:28:05,82197
-Mohamod Khurshid Alam,JaPa,লাঙ্গল,Chapai Nawabganj-2,2025-02-12 07:58:19,174835
-Md. Mizanur Rahman,Jamaat,দাঁড়িপাল্লা,Chapai Nawabganj-2,2025-02-12 08:57:58,179659
-Md. Harunur Rashid,BNP,ধানের শীষ,Chapai Nawabganj-3,2025-02-12 01:16:28,77968
-Md. Monirul Islam,Islami Andolan Bangladesh,হাতপাখা,Chapai Nawabganj-3,2025-02-12 13:13:49,65043
-Md. Nurul Islam,Jamaat,দাঁড়িপাল্লা,Chapai Nawabganj-3,2025-02-12 22:43:04,64221
-Nurul Amin,BNP,ধানের শীষ,Chittagong-1,2025-02-12 19:52:10,100
-Ferdaus Ahmed Chowdhury,Islami Andolan Bangladesh,হাতপাখা,Chittagong-1,2025-02-12 23:40:46,100
-Syed Sahadat Hossain,JaPa,লাঙ্গল,Chittagong-1,2025-02-12 08:07:56,100
-Mohammad Saifur Rahaman,Jamaat,দাঁড়িপাল্লা,Chittagong-1,2025-02-12 10:55:50,100
-Sayeed Al Noman,BNP,ধানের শীষ,Chittagong-10,2025-02-12 18:00:34,100
-Muhammed Jannatul Islam,Islami Andolan Bangladesh,হাতপাখা,Chittagong-10,2025-02-12 11:44:43,100
-Muhammad Emdad Hossain,JaPa,লাঙ্গল,Chittagong-10,2025-02-12 02:45:45,100
-Muhammad Shamsuzzaman Helaly,Jamaat,দাঁড়িপাল্লা,Chittagong-10,2025-02-12 17:29:05,100
-Amir Khosru Mahmud Chowdhury,BNP,ধানের শীষ,Chittagong-11,2025-02-12 12:20:14,100
-Md. Nur Uddin,Islami Andolan Bangladesh,হাতপাখা,Chittagong-11,2025-02-12 18:27:04,100
-Abu Taher,JaPa,লাঙ্গল,Chittagong-11,2025-02-12 21:57:11,100
-Mohammad Shafiul Alam,Jamaat,দাঁড়িপাল্লা,Chittagong-11,2025-02-12 15:57:45,100
-Md Enamul Hoque,BNP,ধানের শীষ,Chittagong-12,2025-02-12 09:36:44,100
-SM Belal Nur,Islami Andolan Bangladesh,হাতপাখা,Chittagong-12,2025-02-12 15:31:25,100
-Farid Ahammed Chowdhury,JaPa,লাঙ্গল,Chittagong-12,2025-02-12 14:39:15,100
-Md Faridul Alam,Jamaat,দাঁড়িপাল্লা,Chittagong-12,2025-02-12 11:22:26,100
-Sarwar Jamal Nizam,BNP,ধানের শীষ,Chittagong-13,2025-02-12 02:36:56,100
-Abdur Rob Chowdhury,JaPa,লাঙ্গল,Chittagong-13,2025-02-12 11:38:54,100
-Mahmudul Hassan,Jamaat,দাঁড়িপাল্লা,Chittagong-13,2025-02-12 11:36:39,100
-Alhajj Jashim Uddin Ahammed,BNP,ধানের শীষ,Chittagong-14,2025-02-12 02:22:10,100
-Mohammad Abdul Hamid,Islami Andolan Bangladesh,হাতপাখা,Chittagong-14,2025-02-12 04:11:07,100
-Mohammad Badsha Meah,JaPa,লাঙ্গল,Chittagong-14,2025-02-12 15:52:18,100
-Omar Faruq,LDP,ছাতা,Chittagong-14,2025-02-12 08:58:42,100
-Najmul Mostafa Amin,BNP,ধানের শীষ,Chittagong-15,2025-02-12 05:41:58,100
-Shariful Alam Chowdhury,Islami Andolan Bangladesh,হাতপাখা,Chittagong-15,2025-02-12 14:17:55,100
-Shahjahan Chowdhury,Jamaat,দাঁড়িপাল্লা,Chittagong-15,2025-02-12 08:33:38,100
-Miskatul Islam Chowdhury,BNP,ধানের শীষ,Chittagong-16,2025-02-12 15:55:47,100
-Haez Rufiullah,Islami Andolan Bangladesh,হাতপাখা,Chittagong-16,2025-02-12 19:27:54,100
-Mohammad Zahirul Islam,Jamaat,দাঁড়িপাল্লা,Chittagong-16,2025-02-12 15:08:13,100
-Md. Sarowar Alamgir,BNP,ধানের শীষ,Chittagong-2,2025-02-12 16:04:22,100
-Mohammed Julfikar Ali Mannan,Islami Andolan Bangladesh,হাতপাখা,Chittagong-2,2025-02-12 12:12:54,100
-Mohammad Nurul Amin,Jamaat,দাঁড়িপাল্লা,Chittagong-2,2025-02-12 11:54:54,100
-Mostafa Kamal Pasha,BNP,ধানের শীষ,Chittagong-3,2025-02-12 09:26:24,100
-Mohammad Amzad Hossain,Islami Andolan Bangladesh,হাতপাখা,Chittagong-3,2025-02-12 06:24:55,100
-Muhammed Ala Uddin,Jamaat,দাঁড়িপাল্লা,Chittagong-3,2025-02-12 13:04:21,100
-Md Aslam Chowdhury,BNP,ধানের শীষ,Chittagong-4,2025-02-12 01:19:59,100
-Md. Didarul Mowla,Islami Andolan Bangladesh,হাতপাখা,Chittagong-4,2025-02-12 05:16:35,100
-Md. Anwar Siddique,Jamaat,দাঁড়িপাল্লা,Chittagong-4,2025-02-12 06:38:27,100
-Mir Mohammed Helal Uddin,BNP,ধানের শীষ,Chittagong-5,2025-02-12 18:45:24,100
-Md. Nasir Uddin,Bangladesh Khelafat Majlish,রিক্সা,Chittagong-5,2025-02-12 21:37:59,100
-Mati Ullah Noori,Islami Andolan Bangladesh,হাতপাখা,Chittagong-5,2025-02-12 17:29:32,100
-Gias Uddin Quader Chowdhury,BNP,ধানের শীষ,Chittagong-6,2025-02-12 10:53:56,100
-Md. Shahajahan Monjo,Jamaat,দাঁড়িপাল্লা,Chittagong-6,2025-02-12 11:32:36,100
-Humam Quader Chowdhury,BNP,ধানের শীষ,Chittagong-7,2025-02-12 11:08:53,100
-Abdullah Al Harun,Islami Andolan Bangladesh,হাতপাখা,Chittagong-7,2025-02-12 22:45:49,100
-Md. Mahade Rashed,JaPa,লাঙ্গল,Chittagong-7,2025-02-12 08:35:12,100
-A T M Rezaul Karim,Jamaat,দাঁড়িপাল্লা,Chittagong-7,2025-02-12 08:06:53,100
-Ershad Ullah,BNP,ধানের শীষ,Chittagong-8,2025-02-12 00:54:20,100
-Mohammad Nurul Alam,Islami Andolan Bangladesh,হাতপাখা,Chittagong-8,2025-02-12 04:52:02,100
-Md. Abu Naser,Jamaat,দাঁড়িপাল্লা,Chittagong-8,2025-02-12 22:44:12,100
-Md. Jubairul Hasan Arif,NCP,শাপলা কলি,Chittagong-8,2025-02-12 03:17:10,100
-Muhammad Abu Sufian,BNP,ধানের শীষ,Chittagong-9,2025-02-12 07:26:33,100
-Abdus Sukkur,Islami Andolan Bangladesh,হাতপাখা,Chittagong-9,2025-02-12 19:07:38,100
-Dr. A. K. M. Fazlul Hoque,Jamaat,দাঁড়িপাল্লা,Chittagong-9,2025-02-12 03:44:11,100
-Md. Sharifuzzaman,BNP,ধানের শীষ,Chuadanga-1,2025-02-12 08:48:07,159706
-Mohammad Zahurul Islam,Islami Andolan Bangladesh,হাতপাখা,Chuadanga-1,2025-02-12 23:29:14,198055
-Md. Masud Parves,Jamaat,দাঁড়িপাল্লা,Chuadanga-1,2025-02-12 08:41:40,175669
-Mahmud Hasan Khan,BNP,ধানের শীষ,Chuadanga-2,2025-02-12 03:39:54,75721
-Md. Hasanuzzaman,Islami Andolan Bangladesh,হাতপাখা,Chuadanga-2,2025-02-12 13:30:37,149140
-Md. Ruhul Amin,Jamaat,দাঁড়িপাল্লা,Chuadanga-2,2025-02-12 23:09:12,126141
-Dr. Khandaker Mosharraf Hossain,BNP,ধানের শীষ,Comilla-1,2025-02-12 05:08:55,100
-Bashir Ahmed,Islami Andolan Bangladesh,হাতপাখা,Comilla-1,2025-02-12 18:19:47,100
-Sayed Md. Iftaker Ahsan,JaPa,লাঙ্গল,Comilla-1,2025-02-12 17:44:28,100
-Md. Moniruzzaman,Jamaat,দাঁড়িপাল্লা,Comilla-1,2025-02-12 08:47:02,100
-Md. Mobasher Alam Bhuiyan,BNP,ধানের শীষ,Comilla-10,2025-02-12 15:20:14,100
-Md. Shamsuddoha,Islami Andolan Bangladesh,হাতপাখা,Comilla-10,2025-02-12 22:26:53,100
-Muhammad Yasin Arafath,Jamaat,দাঁড়িপাল্লা,Comilla-10,2025-02-12 11:42:29,100
-Md. Kamrul Huda,BNP,ধানের শীষ,Comilla-11,2025-02-12 21:14:58,100
-Md. Mohiuddin (Shohid),Islami Andolan Bangladesh,হাতপাখা,Comilla-11,2025-02-12 00:11:55,100
-Md. Main Uddin,JaPa,লাঙ্গল,Comilla-11,2025-02-12 00:06:46,100
-Syed Abdullah Mohammed Taher,Jamaat,দাঁড়িপাল্লা,Comilla-11,2025-02-12 09:36:55,100
-Md. Selim Bhuiyan,BNP,ধানের শীষ,Comilla-2,2025-02-12 16:22:25,100
-Mohammad Ashraful Alam,Islami Andolan Bangladesh,হাতপাখা,Comilla-2,2025-02-12 05:37:14,100
-Md. Amir Hossain,JaPa,লাঙ্গল,Comilla-2,2025-02-12 20:08:43,100
-Md. Nazim Uddin,Jamaat,দাঁড়িপাল্লা,Comilla-2,2025-02-12 04:24:03,100
-Kazi Shah Mofazzal Hossain (Kaikobad),BNP,ধানের শীষ,Comilla-3,2025-02-12 11:54:32,100
-Ahmad Abdul Kaiyum,Islami Andolan Bangladesh,হাতপাখা,Comilla-3,2025-02-12 10:45:44,100
-Md. Yousuf Sohel,Jamaat,দাঁড়িপাল্লা,Comilla-3,2025-02-12 16:25:10,100
-Md. A. Jasim Uddin,GOP (Nuru),ট্রাক,Comilla-4,2025-02-12 00:22:16,100
-Abdul Karim,Islami Andolan Bangladesh,হাতপাখা,Comilla-4,2025-02-12 23:41:42,100
-Md. Abul Hasnat,NCP,শাপলা কলি,Comilla-4,2025-02-12 18:18:41,100
-Md. Jashim Uddin,BNP,ধানের শীষ,Comilla-5,2025-02-12 19:39:50,100
-Md. Rashedul Islam,Islami Andolan Bangladesh,হাতপাখা,Comilla-5,2025-02-12 09:39:53,100
-Md. Emranul Hoque,JaPa,লাঙ্গল,Comilla-5,2025-02-12 17:38:40,100
-Mobarak Hossen,Jamaat,দাঁড়িপাল্লা,Comilla-5,2025-02-12 23:55:11,100
-Md. Monirul Haque Chowdhury,BNP,ধানের শীষ,Comilla-6,2025-02-12 04:47:51,100
-Mohammad Harunur Rashid,Islami Andolan Bangladesh,হাতপাখা,Comilla-6,2025-02-12 15:48:06,100
-Kazi Din Mohammed,Jamaat,দাঁড়িপাল্লা,Comilla-6,2025-02-12 13:42:06,100
-Redwan Ahmed,BNP,ধানের শীষ,Comilla-7,2025-02-12 09:15:14,100
-Maolana Ehteshamul Hoque,Islami Andolan Bangladesh,হাতপাখা,Comilla-7,2025-02-12 04:08:42,100
-Soliman Khan,Khelafat Majlish,দেওয়াল ঘড়ি,Comilla-7,2025-02-12 22:14:30,100
-Zakaria Taher,BNP,ধানের শীষ,Comilla-8,2025-02-12 01:06:44,100
-Mohammad Golam Shadek,Islami Andolan Bangladesh,হাতপাখা,Comilla-8,2025-02-12 12:20:13,100
-H M M Erfan,JaPa,লাঙ্গল,Comilla-8,2025-02-12 05:16:35,100
-Md. Shafiqul Alam Helal,Jamaat,দাঁড়িপাল্লা,Comilla-8,2025-02-12 01:25:29,100
-Md. Abul Kalam,BNP,ধানের শীষ,Comilla-9,2025-02-12 10:32:53,100
-Salim Mahmud,Islami Andolan Bangladesh,হাতপাখা,Comilla-9,2025-02-12 13:25:54,100
-Md. Golam Mostafa Kamal,JaPa,লাঙ্গল,Comilla-9,2025-02-12 16:44:40,100
-Syed A. K. M. Sarowar Uddin Seddique,Jamaat,দাঁড়িপাল্লা,Comilla-9,2025-02-12 07:54:32,100
-Salahuddin Ahmed,BNP,ধানের শীষ,Cox's Bazar-1,2025-02-12 03:13:30,100
-Md. Sarwar Alam Kotobi,Islami Andolan Bangladesh,হাতপাখা,Cox's Bazar-1,2025-02-12 17:10:06,100
-Abdullah Al Faruk,Jamaat,দাঁড়িপাল্লা,Cox's Bazar-1,2025-02-12 11:04:57,100
-Alamgir Mohammad Mahfuzullah Farid,BNP,ধানের শীষ,Cox's Bazar-2,2025-02-12 00:47:18,100
-Ziaul Haque,Islami Andolan Bangladesh,হাতপাখা,Cox's Bazar-2,2025-02-12 22:00:09,100
-Md. Mahmudul Karim,JaPa,লাঙ্গল,Cox's Bazar-2,2025-02-12 14:00:13,100
-A. H. M. Hamidur Rahaman Azad,Jamaat,দাঁড়িপাল্লা,Cox's Bazar-2,2025-02-12 12:00:10,100
-Lutfur Rahman,BNP,ধানের শীষ,Cox's Bazar-3,2025-02-12 15:15:08,100
-Amirul Islam,Islami Andolan Bangladesh,হাতপাখা,Cox's Bazar-3,2025-02-12 11:20:59,100
-Shahidul Alam (Bahadur),Jamaat,দাঁড়িপাল্লা,Cox's Bazar-3,2025-02-12 09:18:04,100
-Shahjahan Chowdhury,BNP,ধানের শীষ,Cox's Bazar-4,2025-02-12 16:52:35,100
-Nurul Haque,Islami Andolan Bangladesh,হাতপাখা,Cox's Bazar-4,2025-02-12 13:56:34,100
-Nur Ahmed Anwary,Jamaat,দাঁড়িপাল্লা,Cox's Bazar-4,2025-02-12 02:45:01,100
-Khondaker Abu Ashfaque,BNP,ধানের শীষ,Dhaka-1,2025-02-12 21:55:52,100
-Nurul Islam,Islami Andolan Bangladesh,হাতপাখা,Dhaka-1,2025-02-12 03:41:39,100
-Md. Nasir Uddin Mollah,JaPa,লাঙ্গল,Dhaka-1,2025-02-12 16:28:14,100
-Mohammad Nazrul Islam,Jamaat,দাঁড়িপাল্লা,Dhaka-1,2025-02-12 00:47:10,100
-Shaikh Rabiul Alam,BNP,ধানের শীষ,Dhaka-10,2025-02-12 18:46:02,100
-Md. Abdul Awal,Islami Andolan Bangladesh,হাতপাখা,Dhaka-10,2025-02-12 01:53:14,100
-Banhi Bepari,JaPa,লাঙ্গল,Dhaka-10,2025-02-12 05:39:48,100
-Md. Jashim Uddin Sarker,Jamaat,দাঁড়িপাল্লা,Dhaka-10,2025-02-12 14:18:26,100
-M. A. Quayum,BNP,ধানের শীষ,Dhaka-11,2025-02-12 22:32:00,100
-Shake Md. Fazlay Bari Masud,Islami Andolan Bangladesh,হাতপাখা,Dhaka-11,2025-02-12 02:28:57,100
-Shameem Ahmed,JaPa,লাঙ্গল,Dhaka-11,2025-02-12 22:58:14,100
-Md. Saiful Alam,Jamaat,দাঁড়িপাল্লা,Dhaka-12,2025-02-12 03:11:37,100
-Saiful Haq,Revolutionary Workers Party of Bangladesh,কোদাল,Dhaka-12,2025-02-12 14:17:51,100
-Bobby Hajjaj,BNP,ধানের শীষ,Dhaka-13,2025-02-12 20:22:31,100
-Md Mamunul Haque,Bangladesh Khelafat Majlish,রিক্সা,Dhaka-13,2025-02-12 04:29:59,100
-Sanjida Islam,BNP,ধানের শীষ,Dhaka-14,2025-02-12 05:18:12,100
-Md. Abu Yousuf,Islami Andolan Bangladesh,হাতপাখা,Dhaka-14,2025-02-12 15:07:05,100
-Md. Helal Uddin,JaPa,লাঙ্গল,Dhaka-14,2025-02-12 15:29:03,100
-Mir Ahmad Binqasem,Jamaat,দাঁড়িপাল্লা,Dhaka-14,2025-02-12 10:59:29,100
-Md. Shafiqul Islam Khan,BNP,ধানের শীষ,Dhaka-15,2025-02-12 09:50:52,100
-Md. Shamsul Haque,JaPa,লাঙ্গল,Dhaka-15,2025-02-12 01:07:51,100
-Dr. Md. Shafiqur Rahman,Jamaat,দাঁড়িপাল্লা,Dhaka-15,2025-02-12 20:46:09,100
-Md. Aminul Haque,BNP,ধানের শীষ,Dhaka-16,2025-02-12 00:47:49,100
-Md. Saiful Islam,Islami Andolan Bangladesh,হাতপাখা,Dhaka-16,2025-02-12 18:26:10,100
-Md. Sultan Ahmed Selim,JaPa,লাঙ্গল,Dhaka-16,2025-02-12 18:07:35,100
-Md. Abdul Baten,Jamaat,দাঁড়িপাল্লা,Dhaka-16,2025-02-12 03:43:41,100
-Tarique Rahman,BNP,ধানের শীষ,Dhaka-17,2025-02-12 13:43:46,100
-Mohammad Ullah,Islami Andolan Bangladesh,হাতপাখা,Dhaka-17,2025-02-12 21:55:31,100
-Atique Ahmed,JaPa,লাঙ্গল,Dhaka-17,2025-02-12 14:12:47,100
-Tapu Raihan,JaPa,লাঙ্গল,Dhaka-17,2025-02-12 14:14:47,100
-S. M. Khaliduzzaman,Jamaat,দাঁড়িপাল্লা,Dhaka-17,2025-02-12 17:57:25,100
-S. M. Jahangir Hossain,BNP,ধানের শীষ,Dhaka-18,2025-02-12 07:48:42,100
-Md. Anwar Hossain,Islami Andolan Bangladesh,হাতপাখা,Dhaka-18,2025-02-12 21:38:18,100
-Md. Jakir Hossain,JaPa,লাঙ্গল,Dhaka-18,2025-02-12 15:09:20,100
-Ariful Islam,NCP,শাপলা কলি,Dhaka-18,2025-02-12 22:11:58,100
-Dewan Mohammad Salahuddin,BNP,ধানের শীষ,Dhaka-19,2025-02-12 11:22:20,100
-Mohammad Faruq Khan,Islami Andolan Bangladesh,হাতপাখা,Dhaka-19,2025-02-12 14:19:36,100
-Md. Bahadur Islam,JaPa,লাঙ্গল,Dhaka-19,2025-02-12 01:40:25,100
-Dilshana Parul,NCP,শাপলা কলি,Dhaka-19,2025-02-12 01:23:17,100
-Md. Amanullah Aman,BNP,ধানের শীষ,Dhaka-2,2025-02-12 21:40:45,100
-Md. Jahirul Islam,Islami Andolan Bangladesh,হাতপাখা,Dhaka-2,2025-02-12 23:19:19,100
-Md. Abdul Haque,Jamaat,দাঁড়িপাল্লা,Dhaka-2,2025-02-12 14:51:59,100
-Md. Tamiz Uddin,BNP,ধানের শীষ,Dhaka-20,2025-02-12 17:23:24,100
-Ahsan Khan,JaPa,লাঙ্গল,Dhaka-20,2025-02-12 04:36:17,100
-Goyasawar Chandra Roy,BNP,ধানের শীষ,Dhaka-3,2025-02-12 07:23:33,100
-Md. Sultan Ahamed Khan,Islami Andolan Bangladesh,হাতপাখা,Dhaka-3,2025-02-12 19:34:15,100
-Md. Faruk,JaPa,লাঙ্গল,Dhaka-3,2025-02-12 15:15:49,100
-Md. Shahinur Islam,Jamaat,দাঁড়িপাল্লা,Dhaka-3,2025-02-12 01:59:09,100
-Tanveer Ahmed,BNP,ধানের শীষ,Dhaka-4,2025-02-12 22:55:37,100
-Syed Md. Mosaddek Billah,Islami Andolan Bangladesh,হাতপাখা,Dhaka-4,2025-02-12 22:21:58,100
-Syed Joynul Abedin,Jamaat,দাঁড়িপাল্লা,Dhaka-4,2025-02-12 00:55:04,100
-Md. Nabi Ullah,BNP,ধানের শীষ,Dhaka-5,2025-02-12 10:19:19,100
-Md. Ibrahim,Islami Andolan Bangladesh,হাতপাখা,Dhaka-5,2025-02-12 20:17:17,100
-Mir Abdus Sabur,JaPa,লাঙ্গল,Dhaka-5,2025-02-12 09:31:31,100
-Mohammed Kamal Hossain,Jamaat,দাঁড়িপাল্লা,Dhaka-5,2025-02-12 06:51:35,100
-Ishraque Hossain,BNP,ধানের শীষ,Dhaka-6,2025-02-12 22:17:56,100
-Amir Uddin Ahmed (Dalu),JaPa,লাঙ্গল,Dhaka-6,2025-02-12 20:45:48,100
-Md. Abdul Mannan,Jamaat,দাঁড়িপাল্লা,Dhaka-6,2025-02-12 18:07:51,100
-Hamidur Rahman,BNP,ধানের শীষ,Dhaka-7,2025-02-12 10:27:17,100
-Md. Abdur Rahman,Islami Andolan Bangladesh,হাতপাখা,Dhaka-7,2025-02-12 08:53:26,100
-Mohammad Saifuddin Ahmed Milon,JaPa,লাঙ্গল,Dhaka-7,2025-02-12 05:51:05,100
-Md. Enayat Ullah,Jamaat,দাঁড়িপাল্লা,Dhaka-7,2025-02-12 13:12:18,100
-Mirza Abbas Uddin Ahmed,BNP,ধানের শীষ,Dhaka-8,2025-02-12 15:28:52,100
-Kafait Ullah,Islami Andolan Bangladesh,হাতপাখা,Dhaka-8,2025-02-12 06:51:28,100
-Md. Zuber Alam Khan,JaPa,লাঙ্গল,Dhaka-8,2025-02-12 13:48:32,100
-Muhammad Nasiruddin Patwary,NCP,শাপলা কলি,Dhaka-8,2025-02-12 01:40:37,100
-Habibur Rashid,BNP,ধানের শীষ,Dhaka-9,2025-02-12 14:21:15,100
-Shah Iftekhar Ahsan,Islami Andolan Bangladesh,হাতপাখা,Dhaka-9,2025-02-12 15:33:58,100
-Kazi Abul Khair,JaPa,লাঙ্গল,Dhaka-9,2025-02-12 22:30:49,100
-Mohammad Javed Mia,NCP,শাপলা কলি,Dhaka-9,2025-02-12 08:50:28,100
-Md. Monjurul Islam,BNP,ধানের শীষ,Dinajpur-1,2025-02-12 07:01:03,128863
-Md. Chan Mia,Islami Andolan Bangladesh,হাতপাখা,Dinajpur-1,2025-02-12 01:51:40,106629
-Md. Shahinur Islam,JaPa,লাঙ্গল,Dinajpur-1,2025-02-12 23:04:23,84916
-Md. Matiur Rahman,Jamaat,দাঁড়িপাল্লা,Dinajpur-1,2025-02-12 10:56:40,162347
-Md. Sadiq Reaz,BNP,ধানের শীষ,Dinajpur-2,2025-02-12 19:13:28,142518
-Muha Redwanul Karim Rabid,Islami Andolan Bangladesh,হাতপাখা,Dinajpur-2,2025-02-12 10:59:00,63526
-Md. Zulfikar Hossain,JaPa,লাঙ্গল,Dinajpur-2,2025-02-12 20:58:51,114509
-A. K. M. Afjalul Anam,Jamaat,দাঁড়িপাল্লা,Dinajpur-2,2025-02-12 02:24:41,51778
-Syed Jahangir Alam,BNP,ধানের শীষ,Dinajpur-3,2025-02-12 13:49:08,134970
-Md. Khairuzzaman,Islami Andolan Bangladesh,হাতপাখা,Dinajpur-3,2025-02-12 08:00:14,161170
-Ahmed Shafi Rubel,JaPa,লাঙ্গল,Dinajpur-3,2025-02-12 09:59:19,137745
-Md. Maynul Alam,Jamaat,দাঁড়িপাল্লা,Dinajpur-3,2025-02-12 06:21:50,126944
-Akhtaruzzaman Mia,BNP,ধানের শীষ,Dinajpur-4,2025-02-12 18:39:37,76461
-Md. Anwar Hossain,Islami Andolan Bangladesh,হাতপাখা,Dinajpur-4,2025-02-12 06:13:38,85990
-Md. Nurul Amin Shah,JaPa,লাঙ্গল,Dinajpur-4,2025-02-12 10:34:03,70429
-Md. Aftab Uddin Mollah,Jamaat,দাঁড়িপাল্লা,Dinajpur-4,2025-02-12 11:04:39,57818
-AKM Qamruzzaman,BNP,ধানের শীষ,Dinajpur-5,2025-02-12 05:18:10,128815
-Md. Kazi Abdul Gafur,JaPa,লাঙ্গল,Dinajpur-5,2025-02-12 05:03:40,70264
-Md. Abdul Ahad,NCP,শাপলা কলি,Dinajpur-5,2025-02-12 03:05:43,49607
-Abu Zafar Md. Zahid Hossain,BNP,ধানের শীষ,Dinajpur-6,2025-02-12 22:34:45,172351
-Md. Nur Alam Siddik,Islami Andolan Bangladesh,হাতপাখা,Dinajpur-6,2025-02-12 14:45:02,106387
-Md. Rezaul Haque,JaPa,লাঙ্গল,Dinajpur-6,2025-02-12 12:49:46,133419
-Md. Anowarul Islam,Jamaat,দাঁড়িপাল্লা,Dinajpur-6,2025-02-12 04:20:53,102976
-Khandaker Nasirul Islam,BNP,ধানের শীষ,Faridpur-1,2025-02-12 23:43:02,100
-Sultan Ahmed Khan,JaPa,লাঙ্গল,Faridpur-1,2025-02-12 02:38:26,100
-Md. Elias Molla,Jamaat,দাঁড়িপাল্লা,Faridpur-1,2025-02-12 20:01:46,100
-Shama Obaid Islam,BNP,ধানের শীষ,Faridpur-2,2025-02-12 02:31:14,100
-Shah Md. Jamal Uddin,Islami Andolan Bangladesh,হাতপাখা,Faridpur-2,2025-02-12 09:54:45,100
-Nayab Yusuf Ahmed,BNP,ধানের শীষ,Faridpur-3,2025-02-12 14:40:59,100
-K. M. Sarowar,Islami Andolan Bangladesh,হাতপাখা,Faridpur-3,2025-02-12 03:44:58,100
-Md. Abdut Tawab,Jamaat,দাঁড়িপাল্লা,Faridpur-3,2025-02-12 21:46:38,100
-Md. Shahidul Islam,BNP,ধানের শীষ,Faridpur-4,2025-02-12 14:03:09,100
-Mizanur Rahman,Bangladesh Khelafat Majlish,রিক্সা,Faridpur-4,2025-02-12 17:27:46,100
-Md. Ishaq Chokder,Islami Andolan Bangladesh,হাতপাখা,Faridpur-4,2025-02-12 12:51:34,100
-Raihan Jamil,JaPa,লাঙ্গল,Faridpur-4,2025-02-12 20:38:02,100
-Md. Sarwar Hossain,Jamaat,দাঁড়িপাল্লা,Faridpur-4,2025-02-12 19:52:47,100
-Munshi Rafiqul Alam,BNP,ধানের শীষ,Feni-1,2025-02-12 17:33:13,100
-Kazi Golam Kibria,Islami Andolan Bangladesh,হাতপাখা,Feni-1,2025-02-12 06:44:31,100
-Motaher Hossain Chowdhury,JaPa,লাঙ্গল,Feni-1,2025-02-12 08:51:37,100
-S. M. Kamal Uddin,Jamaat,দাঁড়িপাল্লা,Feni-1,2025-02-12 02:10:22,100
-Mohammad Mujibur Rahman Bhuiyan,AB Party,ঈগল,Feni-2,2025-02-12 01:19:11,100
-Joynal Abdin,BNP,ধানের শীষ,Feni-2,2025-02-12 14:17:22,100
-Mohammad Ekramul Haque Bhuiyan,Islami Andolan Bangladesh,হাতপাখা,Feni-2,2025-02-12 15:42:14,100
-Mr. Abdul Awal Mintu,BNP,ধানের শীষ,Feni-3,2025-02-12 11:43:05,100
-Md. Saif Uddin,Islami Andolan Bangladesh,হাতপাখা,Feni-3,2025-02-12 23:43:16,100
-Md. Abu Sufian,JaPa,লাঙ্গল,Feni-3,2025-02-12 22:50:14,100
-Mohammad Fakhruddin,Jamaat,দাঁড়িপাল্লা,Feni-3,2025-02-12 13:19:20,100
-Khandoker Ziaul Islam Mohammad Ali,BNP,ধানের শীষ,Gaibandha-1,2025-02-12 23:32:39,111128
-Md. Ramzan Ali,Islami Andolan Bangladesh,হাতপাখা,Gaibandha-1,2025-02-12 05:15:06,123163
-Shameem haider patwary,JaPa,লাঙ্গল,Gaibandha-1,2025-02-12 10:46:50,138242
-Md. Mazedur Rahman,Jamaat,দাঁড়িপাল্লা,Gaibandha-1,2025-02-12 12:19:40,141534
-Md. Anisuzzaman Khan Babu,BNP,ধানের শীষ,Gaibandha-2,2025-02-12 22:11:47,123815
-Mohammad Abdul Majed,Islami Andolan Bangladesh,হাতপাখা,Gaibandha-2,2025-02-12 05:33:03,142616
-Md. Abdur Rashid Sarker,JaPa,লাঙ্গল,Gaibandha-2,2025-02-12 07:50:53,101074
-Md. Abdul Karim,Jamaat,দাঁড়িপাল্লা,Gaibandha-2,2025-02-12 21:31:33,82488
-Professor Dr. Syed Mainul Hassain Sadik,BNP,ধানের শীষ,Gaibandha-3,2025-02-12 08:26:18,139496
-ATM Aowlad Hossain,Islami Andolan Bangladesh,হাতপাখা,Gaibandha-3,2025-02-12 14:58:17,144852
-Moinur Rabbi Chowdhury,JaPa,লাঙ্গল,Gaibandha-3,2025-02-12 10:01:24,190192
-Abul Kausar Mohammad Nazrul Islam,Jamaat,দাঁড়িপাল্লা,Gaibandha-3,2025-02-12 02:08:34,152748
-Mohammad Shamim Kaiser,BNP,ধানের শীষ,Gaibandha-4,2025-02-12 04:40:01,171083
-Said Touhidul Islam Tuhin,Islami Andolan Bangladesh,হাতপাখা,Gaibandha-4,2025-02-12 12:58:45,104314
-Kazi Md. Mashiur Rahman,JaPa,লাঙ্গল,Gaibandha-4,2025-02-12 00:32:03,170730
-Md. Abdur Rahim Sarkar,Jamaat,দাঁড়িপাল্লা,Gaibandha-4,2025-02-12 03:48:44,164272
-Md. Faruk Alam Sarker,BNP,ধানের শীষ,Gaibandha-5,2025-02-12 01:26:15,92201
-Md. Azizul Islam,Islami Andolan Bangladesh,হাতপাখা,Gaibandha-5,2025-02-12 21:24:19,55623
-Shameem Haider Patwary,JaPa,লাঙ্গল,Gaibandha-5,2025-02-12 10:59:32,136299
-Md. Abdul Wares,Jamaat,দাঁড়িপাল্লা,Gaibandha-5,2025-02-12 08:39:48,126927
-Md. Muzibur Rahman,BNP,ধানের শীষ,Gazipur-1,2025-02-12 16:14:40,100
-Ruhul Amin,Islami Andolan Bangladesh,হাতপাখা,Gazipur-1,2025-02-12 08:21:46,100
-S.M. Shafiqul Islam,JaPa,লাঙ্গল,Gazipur-1,2025-02-12 03:14:00,100
-Md. Shah Alam Bakshi,Jamaat,দাঁড়িপাল্লা,Gazipur-1,2025-02-12 10:02:33,100
-M. Manjurul Karim Roni,BNP,ধানের শীষ,Gazipur-2,2025-02-12 14:12:49,100
-Hanif Sorker,Islami Andolan Bangladesh,হাতপাখা,Gazipur-2,2025-02-12 20:44:59,100
-Md. Mahbub Alam,JaPa,লাঙ্গল,Gazipur-2,2025-02-12 02:35:25,100
-Ali Naser Khan,NCP,শাপলা কলি,Gazipur-2,2025-02-12 17:24:39,100
-S. M. Rafiqul Islam,BNP,ধানের শীষ,Gazipur-3,2025-02-12 14:52:37,100
-Muhammad Ehsanul Haque,Bangladesh Khelafat Majlish,রিক্সা,Gazipur-3,2025-02-12 08:21:41,100
-Alamgir Hossain,Islami Andolan Bangladesh,হাতপাখা,Gazipur-3,2025-02-12 19:34:09,100
-Md. Nazim Uddin,JaPa,লাঙ্গল,Gazipur-3,2025-02-12 18:12:31,100
-Shah Reazul Hannan,BNP,ধানের শীষ,Gazipur-4,2025-02-12 22:28:59,100
-Md. Kazim Uddn,Islami Andolan Bangladesh,হাতপাখা,Gazipur-4,2025-02-12 23:34:43,100
-Anamul Kabir,JaPa,লাঙ্গল,Gazipur-4,2025-02-12 01:05:07,100
-Salah Uddin,Jamaat,দাঁড়িপাল্লা,Gazipur-4,2025-02-12 17:25:03,100
-A. K. M. Fazlul Haque Milan,BNP,ধানের শীষ,Gazipur-5,2025-02-12 09:16:54,100
-Gazi Ataur Rahman,Islami Andolan Bangladesh,হাতপাখা,Gazipur-5,2025-02-12 14:51:45,100
-Md. Khairul Hassan,Jamaat,দাঁড়িপাল্লা,Gazipur-5,2025-02-12 05:34:57,100
-Md. Selimuzzaman Mollah,BNP,ধানের শীষ,Gopalganj-1,2025-02-12 13:15:34,100
-Md. Mizanur Rahaman,Islami Andolan Bangladesh,হাতপাখা,Gopalganj-1,2025-02-12 08:35:55,100
-Sultan Jaman Khan,JaPa,লাঙ্গল,Gopalganj-1,2025-02-12 08:17:38,100
-Muhammad Abdul Hamid Molla,Jamaat,দাঁড়িপাল্লা,Gopalganj-1,2025-02-12 19:32:34,100
-K. M. Babar,BNP,ধানের শীষ,Gopalganj-2,2025-02-12 15:26:18,100
-Shuaib Ibrahim,Bangladesh Khelafat Majlish,রিক্সা,Gopalganj-2,2025-02-12 09:45:44,100
-Taslim Sikder,Islami Andolan Bangladesh,হাতপাখা,Gopalganj-2,2025-02-12 21:27:09,100
-S. M. Zilany,BNP,ধানের শীষ,Gopalganj-3,2025-02-12 16:26:29,100
-Abdul Aziz,Bangladesh Khelafat Majlish,রিক্সা,Gopalganj-3,2025-02-12 03:08:03,100
-Md. Maruf Sheikh,Islami Andolan Bangladesh,হাতপাখা,Gopalganj-3,2025-02-12 07:34:55,100
-Reza Kibria,BNP,ধানের শীষ,Habiganj-1,2025-02-12 19:52:21,100
-Maulana Sirajul Islam,Bangladesh Khelafat Majlish,রিক্সা,Habiganj-1,2025-02-12 00:22:27,100
-Abu Mansur Sakhawat Hasan,BNP,ধানের শীষ,Habiganj-2,2025-02-12 03:53:44,100
-Abdul Muktadir Chowdhury,JaPa,লাঙ্গল,Habiganj-2,2025-02-12 12:32:58,100
-Abdul Basit Azad,Khelafat Majlish,দেওয়াল ঘড়ি,Habiganj-2,2025-02-12 09:25:51,100
-Alhaj Md. G.K. Gaus,BNP,ধানের শীষ,Habiganj-3,2025-02-12 18:49:30,100
-Mohib Uddin Ahmed Sohel,Islami Andolan Bangladesh,হাতপাখা,Habiganj-3,2025-02-12 16:35:41,100
-Abdul Mumin Chowdhury,JaPa,লাঙ্গল,Habiganj-3,2025-02-12 13:04:09,100
-Kazi Mohsin Ahmed,Jamaat,দাঁড়িপাল্লা,Habiganj-3,2025-02-12 04:12:19,100
-S. M. Faisal,BNP,ধানের শীষ,Habiganj-4,2025-02-12 00:21:41,100
-Ahmed Abdul Quader,Khelafat Majlish,দেওয়াল ঘড়ি,Habiganj-4,2025-02-12 23:38:27,100
-M Rashiduzzaman Millat,BNP,ধানের শীষ,Jamalpur-1,2025-02-12 16:02:40,155346
-Md. Abdur Rouf Talukder,Islami Andolan Bangladesh,হাতপাখা,Jamalpur-1,2025-02-12 00:27:54,121640
-A. K. M. Fazlul Hoque,JaPa,লাঙ্গল,Jamalpur-1,2025-02-12 01:34:10,57507
-Muhammad Nazmul Haque Sayeedi,Jamaat,দাঁড়িপাল্লা,Jamalpur-1,2025-02-12 18:05:52,68042
-A. E. Sultan Mahmud Babu,BNP,ধানের শীষ,Jamalpur-2,2025-02-12 11:05:11,60234
-Sultan Mahmud,Islami Andolan Bangladesh,হাতপাখা,Jamalpur-2,2025-02-12 20:06:33,89426
-Md. Samiul Haque,Jamaat,দাঁড়িপাল্লা,Jamalpur-2,2025-02-12 21:01:52,46836
-Md. Mustafizur Rahman Babul,BNP,ধানের শীষ,Jamalpur-3,2025-02-12 03:21:50,112760
-Mohammad Daulatuzzaman Ansary,Islami Andolan Bangladesh,হাতপাখা,Jamalpur-3,2025-02-12 09:08:28,209208
-Mir Samsul Alam,JaPa,লাঙ্গল,Jamalpur-3,2025-02-12 11:50:58,55207
-Md. Mujibur Rahman Azadi,Jamaat,দাঁড়িপাল্লা,Jamalpur-3,2025-02-12 19:39:31,189618
-Md. Faridul Kabir Talukder,BNP,ধানের শীষ,Jamalpur-4,2025-02-12 17:27:22,88661
-Md. Ali Akbor,Islami Andolan Bangladesh,হাতপাখা,Jamalpur-4,2025-02-12 04:12:01,77144
-Shah Md. Wares Ali Mamun,BNP,ধানের শীষ,Jamalpur-5,2025-02-12 21:39:32,58272
-Syed Younus Ahmed,Islami Andolan Bangladesh,হাতপাখা,Jamalpur-5,2025-02-12 03:26:24,128650
-Muhammad Abdus Sattar,Jamaat,দাঁড়িপাল্লা,Jamalpur-5,2025-02-12 02:12:17,129528
-Md. Nuruzzaman Liton,BNP,ধানের শীষ,Jessore-1,2025-02-12 23:38:19,53896
-Md. Baktiar Rahman,Islami Andolan Bangladesh,হাতপাখা,Jessore-1,2025-02-12 04:39:00,76978
-Md. Jahangir Alam Chanchal,JaPa,লাঙ্গল,Jessore-1,2025-02-12 22:00:59,107514
-Muhammad Azizur Rahman,Jamaat,দাঁড়িপাল্লা,Jessore-1,2025-02-12 08:44:37,118966
-Ms. Sabira Sultana,BNP,ধানের শীষ,Jessore-2,2025-02-12 22:43:37,134985
-Md. Idris Ali,Islami Andolan Bangladesh,হাতপাখা,Jessore-2,2025-02-12 07:59:26,62623
-Mohammad Moslehuddin Farid,Jamaat,দাঁড়িপাল্লা,Jessore-2,2025-02-12 02:02:34,176256
-Anindya Islam Amit,BNP,ধানের শীষ,Jessore-3,2025-02-12 11:55:45,123023
-Muhammad Shoaib Hossain,Islami Andolan Bangladesh,হাতপাখা,Jessore-3,2025-02-12 21:45:08,64195
-Md. Khabir Gazi,JaPa,লাঙ্গল,Jessore-3,2025-02-12 00:24:39,236974
-Md. Abdul Quader,Jamaat,দাঁড়িপাল্লা,Jessore-3,2025-02-12 22:03:11,125788
-Matiar Rahman Faraji,BNP,ধানের শীষ,Jessore-4,2025-02-12 00:11:49,82401
-Bayezid Hossain,Islami Andolan Bangladesh,হাতপাখা,Jessore-4,2025-02-12 15:56:24,96042
-Md. Zahurul Haque,JaPa,লাঙ্গল,Jessore-4,2025-02-12 07:18:21,144867
-Md. Golam Rasul,Jamaat,দাঁড়িপাল্লা,Jessore-4,2025-02-12 10:31:06,81440
-Rashid Ahmad,BNP,ধানের শীষ,Jessore-5,2025-02-12 23:35:06,54951
-Md. Joynal Abedin,Islami Andolan Bangladesh,হাতপাখা,Jessore-5,2025-02-12 23:28:38,54467
-M.A. Halim,JaPa,লাঙ্গল,Jessore-5,2025-02-12 15:30:34,145867
-Gazi Enamul Haque,Jamaat,দাঁড়িপাল্লা,Jessore-5,2025-02-12 23:32:02,53425
-Abul Hossain Azad,BNP,ধানের শীষ,Jessore-6,2025-02-12 04:04:30,86226
-Md. Shahidul Islam,Islami Andolan Bangladesh,হাতপাখা,Jessore-6,2025-02-12 14:55:41,73749
-GM Hassan,JaPa,লাঙ্গল,Jessore-6,2025-02-12 03:22:34,32935
-Md. Moktar Ali,Jamaat,দাঁড়িপাল্লা,Jessore-6,2025-02-12 20:53:14,74195
-Rafiqul Islam Jamal,BNP,ধানের শীষ,Jhalokati-1,2025-02-12 21:54:40,74792
-Ibrahim,Islami Andolan Bangladesh,হাতপাখা,Jhalokati-1,2025-02-12 11:25:19,74219
-Md. Kamruzzaman Khan,JaPa,লাঙ্গল,Jhalokati-1,2025-02-12 00:53:42,83323
-Md. Rubel Howlader,JaPa,লাঙ্গল,Jhalokati-1,2025-02-12 14:51:49,76656
-Fayzul Huq,Jamaat,দাঁড়িপাল্লা,Jhalokati-1,2025-02-12 16:59:15,60585
-Esrat Sultana Elen Bhutto,BNP,ধানের শীষ,Jhalokati-2,2025-02-12 04:08:48,96731
-Muhammad Sirajul Islam Siraji,Islami Andolan Bangladesh,হাতপাখা,Jhalokati-2,2025-02-12 12:25:02,122500
-SM Neamul Karim,Jamaat,দাঁড়িপাল্লা,Jhalokati-2,2025-02-12 20:09:01,133241
-Md. Asaduzzaman,BNP,ধানের শীষ,Jhenaidah-1,2025-02-12 11:07:47,45319
-Monika Alam,JaPa,লাঙ্গল,Jhenaidah-1,2025-02-12 20:39:32,83131
-Abu Salah Md. Motiur Rahman,Jamaat,দাঁড়িপাল্লা,Jhenaidah-1,2025-02-12 08:36:18,35437
-Md. Abdul Mazid,BNP,ধানের শীষ,Jhenaidah-2,2025-02-12 10:32:44,53772
-H.M. Momtazur Rahman,Islami Andolan Bangladesh,হাতপাখা,Jhenaidah-2,2025-02-12 13:34:57,51484
-Shawgatul Islam,JaPa,লাঙ্গল,Jhenaidah-2,2025-02-12 11:14:46,168844
-Ali Azam Md. Abu Bakr,Jamaat,দাঁড়িপাল্লা,Jhenaidah-2,2025-02-12 14:06:25,122737
-Mohammad Mahadi Hassan,BNP,ধানের শীষ,Jhenaidah-3,2025-02-12 16:22:50,68197
-Mao. Sorwar Hossain,Islami Andolan Bangladesh,হাতপাখা,Jhenaidah-3,2025-02-12 13:33:16,152547
-Md. Motiar Rahman,Jamaat,দাঁড়িপাল্লা,Jhenaidah-3,2025-02-12 08:53:18,149873
-Md. Rashed Khan,BNP,ধানের শীষ,Jhenaidah-4,2025-02-12 23:05:58,43740
-Abdul Jalil,Islami Andolan Bangladesh,হাতপাখা,Jhenaidah-4,2025-02-12 04:36:36,98517
-Amdadul Islam (Bacchu),JaPa,লাঙ্গল,Jhenaidah-4,2025-02-12 02:23:19,36758
-Md. Abu Taleb,Jamaat,দাঁড়িপাল্লা,Jhenaidah-4,2025-02-12 10:23:34,43056
-Md. Masud Rana Prodhan,BNP,ধানের শীষ,Joypurhat-1,2025-02-12 21:42:06,168020
-Md. Fazlur Rahman Sayed,Jamaat,দাঁড়িপাল্লা,Joypurhat-1,2025-02-12 16:55:35,134587
-Md. Abdul Bari,BNP,ধানের শীষ,Joypurhat-2,2025-02-12 15:26:04,56514
-SM Rashedul Alom,Jamaat,দাঁড়িপাল্লা,Joypurhat-2,2025-02-12 12:50:50,81266
-Amir Ezaz Khan,BNP,ধানের শীষ,Khulna-1,2025-02-12 20:22:40,49817
-Md. Abu Saeed,Islami Andolan Bangladesh,হাতপাখা,Khulna-1,2025-02-12 00:34:05,73993
-Md. Jahangir Hossain,JaPa,লাঙ্গল,Khulna-1,2025-02-12 11:21:34,102863
-Krishno Nandy,Jamaat,দাঁড়িপাল্লা,Khulna-1,2025-02-12 07:04:51,44981
-Nazrul Islam Manju,BNP,ধানের শীষ,Khulna-2,2025-02-12 13:26:32,74766
-Amanullah,Islami Andolan Bangladesh,হাতপাখা,Khulna-2,2025-02-12 22:58:36,84762
-Sk. Zahangir Hossain Helal,Jamaat,দাঁড়িপাল্লা,Khulna-2,2025-02-12 03:51:46,50427
-Rakibul Islam,BNP,ধানের শীষ,Khulna-3,2025-02-12 21:04:23,75433
-Md. Abdul Aual,Islami Andolan Bangladesh,হাতপাখা,Khulna-3,2025-02-12 06:28:51,60132
-Md. Abdullah Al Mamun,JaPa,লাঙ্গল,Khulna-3,2025-02-12 00:05:31,97499
-Mohammad Mahfuzur Rahman,Jamaat,দাঁড়িপাল্লা,Khulna-3,2025-02-12 04:09:01,89901
-Azizul Baree Helal,BNP,ধানের শীষ,Khulna-4,2025-02-12 23:54:27,75709
-Younus Ahammad Sheikh,Islami Andolan Bangladesh,হাতপাখা,Khulna-4,2025-02-12 02:59:57,98803
-Mohammad Ali Asghar,BNP,ধানের শীষ,Khulna-5,2025-02-12 17:59:57,138232
-Shamim Ara Parvin (Yasmin),JaPa,লাঙ্গল,Khulna-5,2025-02-12 09:14:29,94266
-Mia Golam Porwar,Jamaat,দাঁড়িপাল্লা,Khulna-5,2025-02-12 18:38:50,115682
-S M Monirul Hassan (Bappi),BNP,ধানের শীষ,Khulna-6,2025-02-12 18:52:19,134283
-Md. Asadullah Fakir,Islami Andolan Bangladesh,হাতপাখা,Khulna-6,2025-02-12 11:44:40,150187
-Md. Mostafa Kamal Jahangir,JaPa,লাঙ্গল,Khulna-6,2025-02-12 06:21:07,116657
-Md. Abul Kalam Azad,Jamaat,দাঁড়িপাল্লা,Khulna-6,2025-02-12 00:22:55,141683
-Mohammad Mazharul Islam,BNP,ধানের শীষ,Kishoreganj-1,2025-02-12 07:12:59,100
-Hedayatullah Hadi,Bangladesh Khelafat Majlish,রিক্সা,Kishoreganj-1,2025-02-12 17:50:26,100
-Advocat Md. Jalal Uddin,BNP,ধানের শীষ,Kishoreganj-2,2025-02-12 03:57:36,100
-Md. Abul Basar Rajoan,Islami Andolan Bangladesh,হাতপাখা,Kishoreganj-2,2025-02-12 10:48:12,100
-Md. Afzal Hussain Bhuyan,JaPa,লাঙ্গল,Kishoreganj-2,2025-02-12 20:46:21,100
-Mohammed Shafiqul Islam,Jamaat,দাঁড়িপাল্লা,Kishoreganj-2,2025-02-12 05:29:20,100
-Dr. Muhammad Osman Farruk,BNP,ধানের শীষ,Kishoreganj-3,2025-02-12 14:33:14,100
-Md. Alomgir Hossain,Islami Andolan Bangladesh,হাতপাখা,Kishoreganj-3,2025-02-12 04:16:39,100
-Md. Abu Bokor Siddique,JaPa,লাঙ্গল,Kishoreganj-3,2025-02-12 22:58:01,100
-Zehad Khan,Jamaat,দাঁড়িপাল্লা,Kishoreganj-3,2025-02-12 20:35:00,100
-Md. Fazlur Rahman,BNP,ধানের শীষ,Kishoreganj-4,2025-02-12 18:48:54,100
-Billal Ahmed Majumder,Islami Andolan Bangladesh,হাতপাখা,Kishoreganj-4,2025-02-12 17:12:41,100
-Md. Rokan Reza Sheikh,Jamaat,দাঁড়িপাল্লা,Kishoreganj-4,2025-02-12 04:05:14,100
-Sayed Ehsanul Huda,BNP,ধানের শীষ,Kishoreganj-5,2025-02-12 05:27:07,100
-Mohammad Delawar Hossain,Islami Andolan Bangladesh,হাতপাখা,Kishoreganj-5,2025-02-12 20:52:39,100
-Md. Mahabobul Alam,JaPa,লাঙ্গল,Kishoreganj-5,2025-02-12 18:10:42,100
-Md. Ramjan Ali,Jamaat,দাঁড়িপাল্লা,Kishoreganj-5,2025-02-12 13:27:42,100
-Md. Shariful Alam,BNP,ধানের শীষ,Kishoreganj-6,2025-02-12 17:11:42,100
-Ataullah Amin,Bangladesh Khelafat Majlish,রিক্সা,Kishoreganj-6,2025-02-12 03:16:38,100
-Muhammed Musa Khan,Islami Andolan Bangladesh,হাতপাখা,Kishoreganj-6,2025-02-12 01:16:02,100
-Mohammed Ayub Hussain,JaPa,লাঙ্গল,Kishoreganj-6,2025-02-12 07:37:20,100
-Saifur Rahman Rana,BNP,ধানের শীষ,Kurigram-1,2025-02-12 08:46:05,126737
-Md. Haresul Bari,Islami Andolan Bangladesh,হাতপাখা,Kurigram-1,2025-02-12 11:00:02,125370
-A K M Mostafizur Rahman,JaPa,লাঙ্গল,Kurigram-1,2025-02-12 10:26:49,115876
-Md. Anwarul Islam,Jamaat,দাঁড়িপাল্লা,Kurigram-1,2025-02-12 03:28:50,127972
-Md. Sohel Hosnain Kaikobad,BNP,ধানের শীষ,Kurigram-2,2025-02-12 22:49:08,75182
-Md. Nur Bakta Mian,Islami Andolan Bangladesh,হাতপাখা,Kurigram-2,2025-02-12 15:16:53,137973
-Md. Atiqur Rahman,JaPa,লাঙ্গল,Kurigram-2,2025-02-12 14:04:54,201052
-Panir Uddin Ahmed,JaPa,লাঙ্গল,Kurigram-2,2025-02-12 12:17:50,169506
-Atiqur Rahman Mujahid,NCP,শাপলা কলি,Kurigram-2,2025-02-12 15:25:22,162722
-Tasvir Ul Islam,BNP,ধানের শীষ,Kurigram-3,2025-02-12 13:30:36,135131
-Dr. Md. Akkas Ali Sarkar,Islami Andolan Bangladesh,হাতপাখা,Kurigram-3,2025-02-12 14:28:40,99170
-Abdus Sobhan,JaPa,লাঙ্গল,Kurigram-3,2025-02-12 08:29:30,102977
-Md. Mahbubul Alam,Jamaat,দাঁড়িপাল্লা,Kurigram-3,2025-02-12 18:37:47,53811
-Md. Azizur Rahman,BNP,ধানের শীষ,Kurigram-4,2025-02-12 16:31:42,112394
-Md. Hafizur Rahman,Islami Andolan Bangladesh,হাতপাখা,Kurigram-4,2025-02-12 20:43:53,120890
-K. M. Fazlul Haque Mandul,JaPa,লাঙ্গল,Kurigram-4,2025-02-12 23:07:50,53640
-Md. Mostafizur Rahman,Jamaat,দাঁড়িপাল্লা,Kurigram-4,2025-02-12 04:01:11,121716
-Reza Ahammed,BNP,ধানের শীষ,Kushtia-1,2025-02-12 04:32:44,115470
-Md. Aminul Islam,Islami Andolan Bangladesh,হাতপাখা,Kushtia-1,2025-02-12 01:50:08,95748
-Md. Shahriar Jamil,JaPa,লাঙ্গল,Kushtia-1,2025-02-12 04:22:44,135203
-Muhommad Belal Uddin,Jamaat,দাঁড়িপাল্লা,Kushtia-1,2025-02-12 21:52:08,85496
-Raghib Rauf Chowdhury,BNP,ধানের শীষ,Kushtia-2,2025-02-12 01:36:14,80498
-Muhammad Ali,Islami Andolan Bangladesh,হাতপাখা,Kushtia-2,2025-02-12 12:10:54,125352
-Md. Abdul Gafur,Jamaat,দাঁড়িপাল্লা,Kushtia-2,2025-02-12 02:16:38,133127
-Md. Zakir Hossain Sarker,BNP,ধানের শীষ,Kushtia-3,2025-02-12 05:53:23,46455
-Md. Abdullah Akhunda,Islami Andolan Bangladesh,হাতপাখা,Kushtia-3,2025-02-12 17:45:10,173667
-Md. Amir Hamza,Jamaat,দাঁড়িপাল্লা,Kushtia-3,2025-02-12 18:23:10,68457
-Syed Mehdi Ahmed Roomy,BNP,ধানের শীষ,Kushtia-4,2025-02-12 10:24:15,82270
-Anwar Khan,Islami Andolan Bangladesh,হাতপাখা,Kushtia-4,2025-02-12 03:24:50,121621
-Md. Afjal Hossain,Jamaat,দাঁড়িপাল্লা,Kushtia-4,2025-02-12 12:55:09,121210
-Md. Shahadat Hossain,BNP,ধানের শীষ,Lakshmipur-1,2025-02-12 21:35:43,100
-Md. Zakir Hossain Patwary,Islami Andolan Bangladesh,হাতপাখা,Lakshmipur-1,2025-02-12 02:27:53,100
-Mohammad Mahmudur Rahman Mahmud,JaPa,লাঙ্গল,Lakshmipur-1,2025-02-12 12:56:22,100
-Md. Mahbub Alam,NCP,শাপলা কলি,Lakshmipur-1,2025-02-12 19:00:57,100
-Md. Abul Khair Bhuiyan,BNP,ধানের শীষ,Lakshmipur-2,2025-02-12 18:24:13,100
-Helal Uddin,Islami Andolan Bangladesh,হাতপাখা,Lakshmipur-2,2025-02-12 13:57:02,100
-S. U. M Ruhul Amin Bhuiyan,Jamaat,দাঁড়িপাল্লা,Lakshmipur-2,2025-02-12 06:58:16,100
-Md. Shahiduddin Chowdhury Annie,BNP,ধানের শীষ,Lakshmipur-3,2025-02-12 22:42:21,100
-Md. Ibrahim,Islami Andolan Bangladesh,হাতপাখা,Lakshmipur-3,2025-02-12 02:00:04,100
-A. K. M. Mohi Uddin,JaPa,লাঙ্গল,Lakshmipur-3,2025-02-12 01:25:42,100
-Md. Rezaul Karim,Jamaat,দাঁড়িপাল্লা,Lakshmipur-3,2025-02-12 17:40:00,100
-A. B. M Ashraf Uddin (Nizan),BNP,ধানের শীষ,Lakshmipur-4,2025-02-12 19:18:14,100
-Khaled Saifullah,Islami Andolan Bangladesh,হাতপাখা,Lakshmipur-4,2025-02-12 06:47:16,100
-Md. Ashrafur Rahman Hafizullah,Jamaat,দাঁড়িপাল্লা,Lakshmipur-4,2025-02-12 13:57:10,100
-Md. Hasan Rajib Prodhan,BNP,ধানের শীষ,Lalmonirhat-1,2025-02-12 15:33:07,52239
-Muhammad Fazlul Karim Shaharia,Islami Andolan Bangladesh,হাতপাখা,Lalmonirhat-1,2025-02-12 11:32:21,155080
-Md. Mashiur Rahman Ranga,JaPa,লাঙ্গল,Lalmonirhat-1,2025-02-12 23:59:14,144499
-Md. Anwarul Islam Raju,Jamaat,দাঁড়িপাল্লা,Lalmonirhat-1,2025-02-12 17:04:51,58938
-Md. Rokon Uddin Babul,BNP,ধানের শীষ,Lalmonirhat-2,2025-02-12 00:34:35,68415
-Md. Mahfuzur Rahman,Islami Andolan Bangladesh,হাতপাখা,Lalmonirhat-2,2025-02-12 05:06:23,135513
-Md. Elahan Uddin,JaPa,লাঙ্গল,Lalmonirhat-2,2025-02-12 07:25:52,109287
-Md. Firoz Haider,Jamaat,দাঁড়িপাল্লা,Lalmonirhat-2,2025-02-12 12:04:09,113542
-Asadul Habib Dulu,BNP,ধানের শীষ,Lalmonirhat-3,2025-02-12 13:55:42,117361
-Md. Aminul Islam,Islami Andolan Bangladesh,হাতপাখা,Lalmonirhat-3,2025-02-12 03:12:34,119244
-Md. Zahid Hasan,JaPa,লাঙ্গল,Lalmonirhat-3,2025-02-12 22:15:25,96569
-Md. Abu Taher,Jamaat,দাঁড়িপাল্লা,Lalmonirhat-3,2025-02-12 14:28:06,102728
-Nadira Akhter,BNP,ধানের শীষ,Madaripur-1,2025-02-12 06:32:05,100
-Sayed Uddin Ahmad Hanzala,Bangladesh Khelafat Majlish,রিক্সা,Madaripur-1,2025-02-12 09:17:51,100
-Akram Hossain,Islami Andolan Bangladesh,হাতপাখা,Madaripur-1,2025-02-12 05:44:17,100
-Mohammad Zahirul Islam Mintu,JaPa,লাঙ্গল,Madaripur-1,2025-02-12 21:42:43,100
-Md. Jahandar Ali Mia,BNP,ধানের শীষ,Madaripur-2,2025-02-12 15:46:04,100
-Abdus Sobahan,Bangladesh Khelafat Majlish,রিক্সা,Madaripur-2,2025-02-12 20:27:15,100
-Ali Ahmad Chowdhury,Islami Andolan Bangladesh,হাতপাখা,Madaripur-2,2025-02-12 15:14:27,100
-Md. Mohidul Islam,JaPa,লাঙ্গল,Madaripur-2,2025-02-12 19:34:38,100
-Anisur Rahman,BNP,ধানের শীষ,Madaripur-3,2025-02-12 06:36:31,100
-Md. Azizul Haque,Islami Andolan Bangladesh,হাতপাখা,Madaripur-3,2025-02-12 22:47:34,100
-Md. Rafiqul Islam,Jamaat,দাঁড়িপাল্লা,Madaripur-3,2025-02-12 03:06:16,100
-Md. Monowar Hossain,BNP,ধানের শীষ,Magura-1,2025-02-12 14:31:10,166046
-Md. Nazirul Islam,Islami Andolan Bangladesh,হাতপাখা,Magura-1,2025-02-12 05:54:54,66911
-Md. Zakir Hossain Mollah,JaPa,লাঙ্গল,Magura-1,2025-02-12 17:38:59,91963
-Abdul Matin,Jamaat,দাঁড়িপাল্লা,Magura-1,2025-02-12 18:05:19,131650
-Nitai Roy Chowdhury,BNP,ধানের শীষ,Magura-2,2025-02-12 07:24:31,103200
-Mustafa Kamal,Islami Andolan Bangladesh,হাতপাখা,Magura-2,2025-02-12 21:01:06,83688
-Moshiar Rahman,JaPa,লাঙ্গল,Magura-2,2025-02-12 23:41:45,83436
-Md. Mushtarshed Billah,Jamaat,দাঁড়িপাল্লা,Magura-2,2025-02-12 13:33:54,94837
-S. A. Jinnah Kabir,BNP,ধানের শীষ,Manikganj-1,2025-02-12 05:01:28,100
-Md. Khorshed Alam,Islami Andolan Bangladesh,হাতপাখা,Manikganj-1,2025-02-12 16:51:21,100
-Abu Bakr Siddique,Jamaat,দাঁড়িপাল্লা,Manikganj-1,2025-02-12 19:56:04,100
-Moinul Islam Khan,BNP,ধানের শীষ,Manikganj-2,2025-02-12 02:56:33,100
-Muhammad Ali,Islami Andolan Bangladesh,হাতপাখা,Manikganj-2,2025-02-12 17:24:23,100
-S. M. Abdul Mannan,JaPa,লাঙ্গল,Manikganj-2,2025-02-12 14:12:38,100
-Md. Salauddin,Khelafat Majlish,দেওয়াল ঘড়ি,Manikganj-2,2025-02-12 13:37:40,100
-Afroza Khanam,BNP,ধানের শীষ,Manikganj-3,2025-02-12 15:03:50,100
-Muhammad Saeed Noor,Bangladesh Khelafat Majlish,রিক্সা,Manikganj-3,2025-02-12 17:12:10,100
-Shamsuddin,Islami Andolan Bangladesh,হাতপাখা,Manikganj-3,2025-02-12 14:31:16,100
-Abul Bashar Badhsha,JaPa,লাঙ্গল,Manikganj-3,2025-02-12 03:42:55,100
-Moazzem Hossain Khan Majlish,JaPa,লাঙ্গল,Manikganj-3,2025-02-12 00:12:20,100
-Masud Arun,BNP,ধানের শীষ,Meherpur-1,2025-02-12 05:16:44,58059
-Md. Abdul Hamid,JaPa,লাঙ্গল,Meherpur-1,2025-02-12 06:32:00,80301
-Md. Tajuddin Khan,Jamaat,দাঁড়িপাল্লা,Meherpur-1,2025-02-12 22:46:01,51400
-Md. Amjad Hossain,BNP,ধানের শীষ,Meherpur-2,2025-02-12 20:45:55,82682
-Md. Abdul Baki,JaPa,লাঙ্গল,Meherpur-2,2025-02-12 10:17:07,72091
-Md. Nazmul Huda,Jamaat,দাঁড়িপাল্লা,Meherpur-2,2025-02-12 16:17:52,87487
-Nasir Uddin Ahmed,BNP,ধানের শীষ,Moulvibazar-1,2025-02-12 10:30:00,100
-Ahmed Riaz Uddin,JaPa,লাঙ্গল,Moulvibazar-1,2025-02-12 15:48:09,100
-Mohammad Aminul Islam,Jamaat,দাঁড়িপাল্লা,Moulvibazar-1,2025-02-12 17:05:51,100
-Md. Shawkatul Islam,BNP,ধানের শীষ,Moulvibazar-2,2025-02-12 11:09:28,100
-Abdul Quddus,Islami Andolan Bangladesh,হাতপাখা,Moulvibazar-2,2025-02-12 04:47:21,100
-Md. Abdul Malik,JaPa,লাঙ্গল,Moulvibazar-2,2025-02-12 06:57:53,100
-Md. Sayed Ali,Jamaat,দাঁড়িপাল্লা,Moulvibazar-2,2025-02-12 10:47:36,100
-Nasser Rahman,BNP,ধানের শীষ,Moulvibazar-3,2025-02-12 11:48:17,100
-Md. Abdul Mannan,Jamaat,দাঁড়িপাল্লা,Moulvibazar-3,2025-02-12 00:15:39,100
-Md. Mujibur Rahman Chowdhury,BNP,ধানের শীষ,Moulvibazar-4,2025-02-12 21:51:34,100
-Sheikh Noor-e-Alam Hamidi,Bangladesh Khelafat Majlish,রিক্সা,Moulvibazar-4,2025-02-12 15:40:00,100
-Mohammad Zarif Hossain,JaPa,লাঙ্গল,Moulvibazar-4,2025-02-12 18:45:20,100
-Md. Abdullah,BNP,ধানের শীষ,Munshiganj-1,2025-02-12 11:22:54,100
-Md. Atiqur Rahman Khan,Islami Andolan Bangladesh,হাতপাখা,Munshiganj-1,2025-02-12 21:07:13,100
-AKM Fakhruddin Raji,Jamaat,দাঁড়িপাল্লা,Munshiganj-1,2025-02-12 15:46:03,100
-Abdus Salam Azad,BNP,ধানের শীষ,Munshiganj-2,2025-02-12 05:15:11,100
-K. M. Billal,Islami Andolan Bangladesh,হাতপাখা,Munshiganj-2,2025-02-12 13:13:10,100
-Md. Noman Mia,JaPa,লাঙ্গল,Munshiganj-2,2025-02-12 02:40:52,100
-Majedul Islam,NCP,শাপলা কলি,Munshiganj-2,2025-02-12 19:49:23,100
-Md. Kamruzzaman,BNP,ধানের শীষ,Munshiganj-3,2025-02-12 04:16:44,100
-Noor Hossain Noorani,Bangladesh Khelafat Majlish,রিক্সা,Munshiganj-3,2025-02-12 15:40:44,100
-Suman Dewan,Islami Andolan Bangladesh,হাতপাখা,Munshiganj-3,2025-02-12 10:33:10,100
-Md. Arifuzzaman (Didar),JaPa,লাঙ্গল,Munshiganj-3,2025-02-12 02:21:13,100
-Syed Imran Saleh,BNP,ধানের শীষ,Mymensingh-1,2025-02-12 22:32:06,73055
-Md. Tajul Islam,Bangladesh Khelafat Majlish,রিক্সা,Mymensingh-1,2025-02-12 22:34:24,91619
-Md. Zillur Rahman,Islami Andolan Bangladesh,হাতপাখা,Mymensingh-1,2025-02-12 08:18:34,152213
-Mohammad Akhtaruzzaman,BNP,ধানের শীষ,Mymensingh-10,2025-02-12 05:06:15,126109
-Md. Habibullah Belali,Islami Andolan Bangladesh,হাতপাখা,Mymensingh-10,2025-02-12 17:03:26,131550
-Md. Al Amin (Sohan),JaPa,লাঙ্গল,Mymensingh-10,2025-02-12 03:47:05,140348
-Md. Ismail,Jamaat,দাঁড়িপাল্লা,Mymensingh-10,2025-02-12 10:17:19,52160
-Fakhr Uddin Ahmed,BNP,ধানের শীষ,Mymensingh-11,2025-02-12 21:10:25,124450
-Md. Mustafa Kamal,Islami Andolan Bangladesh,হাতপাখা,Mymensingh-11,2025-02-12 22:37:48,115231
-Zahidul Islam,NCP,শাপলা কলি,Mymensingh-11,2025-02-12 22:11:03,60740
-Motahar Hossain Talukder,BNP,ধানের শীষ,Mymensingh-2,2025-02-12 01:57:39,192449
-Muhammadullah,Bangladesh Khelafat Majlish,রিক্সা,Mymensingh-2,2025-02-12 04:03:45,147657
-Golam Maula Bhuiyan,Islami Andolan Bangladesh,হাতপাখা,Mymensingh-2,2025-02-12 00:50:43,165134
-Md. Emdadul Haque Khan,JaPa,লাঙ্গল,Mymensingh-2,2025-02-12 02:26:26,141682
-M Iqbal Hossain,BNP,ধানের শীষ,Mymensingh-3,2025-02-12 20:02:57,56626
-Md. Shariful Islam,Islami Andolan Bangladesh,হাতপাখা,Mymensingh-3,2025-02-12 05:14:16,32620
-Md. Abu Wahab Akand Wahid,BNP,ধানের শীষ,Mymensingh-4,2025-02-12 01:03:33,194489
-Md. Nasir Uddin,Islami Andolan Bangladesh,হাতপাখা,Mymensingh-4,2025-02-12 18:36:10,259085
-Abu Md. Musa Sarkar,JaPa,লাঙ্গল,Mymensingh-4,2025-02-12 06:20:05,80394
-Mohammad Kamrul Ahsan,Jamaat,দাঁড়িপাল্লা,Mymensingh-4,2025-02-12 16:59:11,195304
-Mohammad Zakir Hossain,BNP,ধানের শীষ,Mymensingh-5,2025-02-12 07:17:46,70589
-Muhammad Sirajul Islam,Islami Andolan Bangladesh,হাতপাখা,Mymensingh-5,2025-02-12 03:12:05,145128
-Md. Matiur Rahman Akand,Jamaat,দাঁড়িপাল্লা,Mymensingh-5,2025-02-12 10:42:25,124565
-Md. Akhtarul Alam,BNP,ধানের শীষ,Mymensingh-6,2025-02-12 00:21:30,103618
-Md. Noor Alam Siddiqui,Islami Andolan Bangladesh,হাতপাখা,Mymensingh-6,2025-02-12 10:35:30,154620
-Md. Kamrul Hasan,Jamaat,দাঁড়িপাল্লা,Mymensingh-6,2025-02-12 07:00:46,68591
-Dr. Md. Mahabubur Rahman,BNP,ধানের শীষ,Mymensingh-7,2025-02-12 20:46:48,70081
-Md. Ibrahim Khalilullah,Islami Andolan Bangladesh,হাতপাখা,Mymensingh-7,2025-02-12 21:20:01,110969
-Md. Zahirul Islam,JaPa,লাঙ্গল,Mymensingh-7,2025-02-12 17:25:50,129208
-Md. Asaduzzaman,Jamaat,দাঁড়িপাল্লা,Mymensingh-7,2025-02-12 19:28:34,43606
-Lutfullahel Majed,BNP,ধানের শীষ,Mymensingh-8,2025-02-12 14:29:39,36166
-Shah Nurul Kabir,Islami Andolan Bangladesh,হাতপাখা,Mymensingh-8,2025-02-12 11:17:19,122423
-Fakhrul Imam,JaPa,লাঙ্গল,Mymensingh-8,2025-02-12 05:24:29,82101
-Yaser Khan Chowdhury,BNP,ধানের শীষ,Mymensingh-9,2025-02-12 01:36:40,41857
-Md. Saidur Rahman,Islami Andolan Bangladesh,হাতপাখা,Mymensingh-9,2025-02-12 22:27:03,98523
-Hasmot Mahmud,JaPa,লাঙ্গল,Mymensingh-9,2025-02-12 10:16:51,97288
-Md. Mostafizur Rahman,BNP,ধানের শীষ,Naogaon-1,2025-02-12 15:06:02,187348
-Md. Akbar Ali,JaPa,লাঙ্গল,Naogaon-1,2025-02-12 12:47:16,168808
-Md. Mahbubul Alam,Jamaat,দাঁড়িপাল্লা,Naogaon-1,2025-02-12 09:49:51,147514
-Md. Shamsuzzoha Khan,BNP,ধানের শীষ,Naogaon-2,2025-02-12 14:19:44,83792
-Md. Enamul Haque,Jamaat,দাঁড়িপাল্লা,Naogaon-2,2025-02-12 20:19:18,123165
-Md. Fazle Huda,BNP,ধানের শীষ,Naogaon-3,2025-02-12 00:32:02,81816
-Nasir bin Asghar,Islami Andolan Bangladesh,হাতপাখা,Naogaon-3,2025-02-12 09:00:12,54957
-Md. Masud Rana,JaPa,লাঙ্গল,Naogaon-3,2025-02-12 15:02:16,135938
-Md. Mahfuzur Rahman,Jamaat,দাঁড়িপাল্লা,Naogaon-3,2025-02-12 09:26:59,73939
-Ekramul Bari Tipu,BNP,ধানের শীষ,Naogaon-4,2025-02-12 22:05:27,64494
-Sohrab Hossain,Islami Andolan Bangladesh,হাতপাখা,Naogaon-4,2025-02-12 19:22:34,54763
-Md. Altaf Hossain,JaPa,লাঙ্গল,Naogaon-4,2025-02-12 18:49:19,128729
-Md. Abdur Rakib,Jamaat,দাঁড়িপাল্লা,Naogaon-4,2025-02-12 15:07:06,100748
-Md. Zahidul Islam Dhulu,BNP,ধানের শীষ,Naogaon-5,2025-02-12 01:18:51,142364
-Md. Abdur Rahman,Islami Andolan Bangladesh,হাতপাখা,Naogaon-5,2025-02-12 14:39:19,113480
-Md. Anwar Hossain,JaPa,লাঙ্গল,Naogaon-5,2025-02-12 13:54:11,44870
-Abu Sadat Md. Sayem,Jamaat,দাঁড়িপাল্লা,Naogaon-5,2025-02-12 15:46:35,57440
-Sheikh Md. Rezaul Islam,BNP,ধানের শীষ,Naogaon-6,2025-02-12 11:08:22,111504
-Md. Rafiqul Islam,Islami Andolan Bangladesh,হাতপাখা,Naogaon-6,2025-02-12 15:48:39,66612
-Md. Khabirul Islam,Jamaat,দাঁড়িপাল্লা,Naogaon-6,2025-02-12 22:22:48,131606
-Biswas Jahangir Alam,BNP,ধানের শীষ,Narail-1,2025-02-12 13:50:21,67283
-Abdul Aziz,Islami Andolan Bangladesh,হাতপাখা,Narail-1,2025-02-12 09:08:44,104173
-Md. Milton Mollah,JaPa,লাঙ্গল,Narail-1,2025-02-12 05:23:29,36324
-Md. Obaidullah,Jamaat,দাঁড়িপাল্লা,Narail-1,2025-02-12 12:50:19,102180
-A. Z. M. Fariduzzaman,BNP,ধানের শীষ,Narail-2,2025-02-12 16:28:33,113302
-Md. Tajul Islam,Islami Andolan Bangladesh,হাতপাখা,Narail-2,2025-02-12 12:12:12,67598
-Khandaker Fayequzzaman,JaPa,লাঙ্গল,Narail-2,2025-02-12 01:25:11,66625
-Ataur Rahman,Jamaat,দাঁড়িপাল্লা,Narail-2,2025-02-12 19:04:49,145660
-Mostafizur Rahman Bhuiyan,BNP,ধানের শীষ,Narayanganj-1,2025-02-12 14:55:16,100
-Md. Imdadullah,Islami Andolan Bangladesh,হাতপাখা,Narayanganj-1,2025-02-12 22:21:48,100
-Md. Anwar Hossain Mollah,Jamaat,দাঁড়িপাল্লা,Narayanganj-1,2025-02-12 10:01:54,100
-Nazrul Islam Azad,BNP,ধানের শীষ,Narayanganj-2,2025-02-12 00:47:08,100
-Maulana Md. Habibullah,Islami Andolan Bangladesh,হাতপাখা,Narayanganj-2,2025-02-12 07:18:56,100
-Md. Ilias Mollah,Jamaat,দাঁড়িপাল্লা,Narayanganj-2,2025-02-12 19:18:10,100
-Azharul Islam Mannan,BNP,ধানের শীষ,Narayanganj-3,2025-02-12 22:58:14,100
-Md. Shahjahan,Bangladesh Khelafat Majlish,রিক্সা,Narayanganj-3,2025-02-12 21:27:24,100
-Golam Moshi,Islami Andolan Bangladesh,হাতপাখা,Narayanganj-3,2025-02-12 04:03:59,100
-Md. Iqbal Hossain Bhuiyan,Jamaat,দাঁড়িপাল্লা,Narayanganj-3,2025-02-12 03:49:28,100
-Md. Ismail Hossain Kausar,Islami Andolan Bangladesh,হাতপাখা,Narayanganj-4,2025-02-12 18:04:59,100
-Md. Salauddin Khoka,JaPa,লাঙ্গল,Narayanganj-4,2025-02-12 23:06:18,100
-Monir Hossain,Jamiat Ulama-e-Islam Bangladesh,খেজুর গাছ,Narayanganj-4,2025-02-12 09:25:13,100
-Abdullah Al Amin,NCP,শাপলা কলি,Narayanganj-4,2025-02-12 07:30:09,100
-Abul Kalam,BNP,ধানের শীষ,Narayanganj-5,2025-02-12 11:43:53,100
-Mao Md. Masum Billah,Islami Andolan Bangladesh,হাতপাখা,Narayanganj-5,2025-02-12 15:59:58,100
-ABM Sirajul Mamun,Khelafat Majlish,দেওয়াল ঘড়ি,Narayanganj-5,2025-02-12 06:12:22,100
-Khairul Kabir Khokon,BNP,ধানের শীষ,Narsingdi-1,2025-02-12 19:01:49,100
-Md. Ashraf Hossain Bhuiyan,Islami Andolan Bangladesh,হাতপাখা,Narsingdi-1,2025-02-12 03:59:28,100
-Mohammad Mustafa Zaman,JaPa,লাঙ্গল,Narsingdi-1,2025-02-12 08:34:36,100
-Md. Ibrahim Bhuiyan,Jamaat,দাঁড়িপাল্লা,Narsingdi-1,2025-02-12 09:52:35,100
-Dr. Abdul Moin Khan,BNP,ধানের শীষ,Narsingdi-2,2025-02-12 16:38:12,100
-A. N. M. Rafiqul Alam Selim,JaPa,লাঙ্গল,Narsingdi-2,2025-02-12 16:15:10,100
-Md. Amjad Hossain,Jamaat,দাঁড়িপাল্লা,Narsingdi-2,2025-02-12 11:05:19,100
-Md. Golam Sarwar,NCP,শাপলা কলি,Narsingdi-2,2025-02-12 03:12:21,100
-Manzoor Elahi,BNP,ধানের শীষ,Narsingdi-3,2025-02-12 12:40:08,100
-Md. Rakibul Islam Rakib,Bangladesh Khelafat Majlish,রিক্সা,Narsingdi-3,2025-02-12 22:29:11,100
-Md. Warez Hossain Bhuiyan,Islami Andolan Bangladesh,হাতপাখা,Narsingdi-3,2025-02-12 14:08:16,100
-AKM Rezaul Karim,JaPa,লাঙ্গল,Narsingdi-3,2025-02-12 22:30:00,100
-Md. Mostafizur Rahman,Jamaat,দাঁড়িপাল্লা,Narsingdi-3,2025-02-12 14:59:58,100
-Sardar Md. Sakhawat Hossain,BNP,ধানের শীষ,Narsingdi-4,2025-02-12 14:00:34,100
-Md. Saifullah,Islami Andolan Bangladesh,হাতপাখা,Narsingdi-4,2025-02-12 15:35:33,100
-Md. Kamal Uddin,JaPa,লাঙ্গল,Narsingdi-4,2025-02-12 23:28:45,100
-Md. Jahangir Alam,Jamaat,দাঁড়িপাল্লা,Narsingdi-4,2025-02-12 17:57:35,100
-Md. Ashraf Uddin,BNP,ধানের শীষ,Narsingdi-5,2025-02-12 15:47:11,100
-Tajul Islam,Bangladesh Khelafat Majlish,রিক্সা,Narsingdi-5,2025-02-12 05:52:23,100
-Badruzzaman Ujjal,Islami Andolan Bangladesh,হাতপাখা,Narsingdi-5,2025-02-12 00:34:17,100
-Mehrun Nesa Khan Hena,JaPa,লাঙ্গল,Narsingdi-5,2025-02-12 11:30:17,100
-Farzana Sharmin,BNP,ধানের শীষ,Natore-1,2025-02-12 13:38:09,131075
-Md. Abdullahil Baki,Islami Andolan Bangladesh,হাতপাখা,Natore-1,2025-02-12 23:40:16,46468
-Md. Abul Kalam Azad,Jamaat,দাঁড়িপাল্লা,Natore-1,2025-02-12 09:09:56,38947
-M. Ruhul Quddus Talukder Dulu,BNP,ধানের শীষ,Natore-2,2025-02-12 13:20:05,116484
-Mohammad Ali Siddiqui,Islami Andolan Bangladesh,হাতপাখা,Natore-2,2025-02-12 17:49:07,77271
-Md. Kabir Uddin (Kamal),JaPa,লাঙ্গল,Natore-2,2025-02-12 20:27:36,66731
-Md. Yunus Ali,Jamaat,দাঁড়িপাল্লা,Natore-2,2025-02-12 23:18:10,44006
-Md. Anwarul Islam,BNP,ধানের শীষ,Natore-3,2025-02-12 03:11:59,37493
-Md. Khalilur Rahman,Islami Andolan Bangladesh,হাতপাখা,Natore-3,2025-02-12 00:36:28,76443
-Md. Ashiq Iqbal,JaPa,লাঙ্গল,Natore-3,2025-02-12 09:40:31,33894
-S. M. Zarzis Kadir,NCP,শাপলা কলি,Natore-3,2025-02-12 23:44:02,92285
-Md. Abdul Aziz,BNP,ধানের শীষ,Natore-4,2025-02-12 13:00:28,85785
-Md. Emdadullah,Islami Andolan Bangladesh,হাতপাখা,Natore-4,2025-02-12 16:30:12,52044
-M Yusuf Ahmed,JaPa,লাঙ্গল,Natore-4,2025-02-12 05:02:04,153353
-Md. Abdul Hakim,Jamaat,দাঁড়িপাল্লা,Natore-4,2025-02-12 14:03:37,56807
-Md. Abdul Jolil,Islami Andolan Bangladesh,হাতপাখা,Nilphamari-1,2025-02-12 08:31:23,45849
-Md. Mokhdum Azam Mushrafe,JaPa,লাঙ্গল,Nilphamari-1,2025-02-12 08:31:53,151189
-Md. Taslim Uddin,JaPa,লাঙ্গল,Nilphamari-1,2025-02-12 23:22:00,46245
-Md. Abdus Sattar,Jamaat,দাঁড়িপাল্লা,Nilphamari-1,2025-02-12 11:11:38,99125
-Maolana Md. Monjurul Islam,Jamiat Ulama-e-Islam Bangladesh,খেজুর গাছ,Nilphamari-1,2025-02-12 18:03:04,63302
-Shahrin Islam,BNP,ধানের শীষ,Nilphamari-2,2025-02-12 09:34:18,82471
-Hasibul Islam,Islami Andolan Bangladesh,হাতপাখা,Nilphamari-2,2025-02-12 15:33:06,125964
-Al Faruq Abdul Latif,Jamaat,দাঁড়িপাল্লা,Nilphamari-2,2025-02-12 12:59:40,50662
-Alhaj Syed Ali,BNP,ধানের শীষ,Nilphamari-3,2025-02-12 22:28:33,45203
-Md. Amjad Hossain (Sarker),Islami Andolan Bangladesh,হাতপাখা,Nilphamari-3,2025-02-12 01:22:27,71041
-Obaidullah Salafi,Jamaat,দাঁড়িপাল্লা,Nilphamari-3,2025-02-12 13:21:10,95690
-Md. Abdul Gafur Sarker,BNP,ধানের শীষ,Nilphamari-4,2025-02-12 06:54:43,173418
-Md. Shahidul Islam,Islami Andolan Bangladesh,হাতপাখা,Nilphamari-4,2025-02-12 11:38:14,46857
-Md. Siddiqul Alam,JaPa,লাঙ্গল,Nilphamari-4,2025-02-12 17:34:43,100155
-Abdul Muntakim,Jamaat,দাঁড়িপাল্লা,Nilphamari-4,2025-02-12 14:45:29,73417
-A. M. Mahbub Uddin,BNP,ধানের শীষ,Noakhali-1,2025-02-12 14:31:17,100
-Zahirul Islam,Islami Andolan Bangladesh,হাতপাখা,Noakhali-1,2025-02-12 09:58:33,100
-Md. Nurul Amin,JaPa,লাঙ্গল,Noakhali-1,2025-02-12 19:39:48,100
-Md. Saif Ullah,Jamaat,দাঁড়িপাল্লা,Noakhali-1,2025-02-12 00:41:13,100
-Zainul Abdin Farooq,BNP,ধানের শীষ,Noakhali-2,2025-02-12 15:08:54,100
-Khalilur Rahman,Islami Andolan Bangladesh,হাতপাখা,Noakhali-2,2025-02-12 02:36:55,100
-Md. Shahadat Hossain,JaPa,লাঙ্গল,Noakhali-2,2025-02-12 01:09:44,100
-Sultan Muhammad Zakaria Majumder,NCP,শাপলা কলি,Noakhali-2,2025-02-12 22:00:28,100
-Md. Barkat Ullah Bulu,BNP,ধানের শীষ,Noakhali-3,2025-02-12 17:36:07,100
-Mohammad Nur Uddin,Islami Andolan Bangladesh,হাতপাখা,Noakhali-3,2025-02-12 14:58:51,100
-Md. Borhan Uddin,Jamaat,দাঁড়িপাল্লা,Noakhali-3,2025-02-12 00:34:35,100
-Md. Shahjahan,BNP,ধানের শীষ,Noakhali-4,2025-02-12 21:49:25,100
-Md. Firoz Alam Masud,Islami Andolan Bangladesh,হাতপাখা,Noakhali-4,2025-02-12 08:24:54,100
-Md. Shariful Islam,JaPa,লাঙ্গল,Noakhali-4,2025-02-12 02:27:21,100
-Md. Ishaq Khandaker,Jamaat,দাঁড়িপাল্লা,Noakhali-4,2025-02-12 02:17:40,100
-Mohammad Fakhrul Islam,BNP,ধানের শীষ,Noakhali-5,2025-02-12 18:48:10,100
-Abu Nasser,Islami Andolan Bangladesh,হাতপাখা,Noakhali-5,2025-02-12 22:57:42,100
-Khwaja Tanvir Ahmed,JaPa,লাঙ্গল,Noakhali-5,2025-02-12 10:44:15,100
-Mohammad Belayet Hossain,Jamaat,দাঁড়িপাল্লা,Noakhali-5,2025-02-12 11:10:59,100
-Md. Mahbuber Rahman,BNP,ধানের শীষ,Noakhali-6,2025-02-12 16:36:01,100
-Mohammad Nurul Islam Sharif,Islami Andolan Bangladesh,হাতপাখা,Noakhali-6,2025-02-12 07:10:54,100
-A. T. M. Nabi Ullah,JaPa,লাঙ্গল,Noakhali-6,2025-02-12 16:45:39,100
-Abdul Hannan Masood,NCP,শাপলা কলি,Noakhali-6,2025-02-12 09:04:58,100
-Md. Shamsur Rahman,BNP,ধানের শীষ,Pabna-1,2025-02-12 03:29:45,104195
-Md. Abdul Ghani,Islami Andolan Bangladesh,হাতপাখা,Pabna-1,2025-02-12 19:07:07,63308
-Mohammad Nojibur Rahman,Jamaat,দাঁড়িপাল্লা,Pabna-1,2025-02-12 14:38:45,83139
-A. K. M. Selim Reza Habib,BNP,ধানের শীষ,Pabna-2,2025-02-12 07:30:06,93392
-Md. Afzal Hossain Khan Qashemi,Islami Andolan Bangladesh,হাতপাখা,Pabna-2,2025-02-12 04:16:34,141544
-Md. Mehedi Hasan Rubel,JaPa,লাঙ্গল,Pabna-2,2025-02-12 23:23:27,58579
-Md. Hesab Uddin,Jamaat,দাঁড়িপাল্লা,Pabna-2,2025-02-12 11:29:14,51715
-Md. Hasan Zafir Tuhin,BNP,ধানের শীষ,Pabna-3,2025-02-12 16:00:55,102469
-Md. Abdul Khalek,Islami Andolan Bangladesh,হাতপাখা,Pabna-3,2025-02-12 07:43:22,58456
-Mir Nadir Mohammad Dablu,JaPa,লাঙ্গল,Pabna-3,2025-02-12 02:01:42,175602
-Muhammad Ali Asghar,Jamaat,দাঁড়িপাল্লা,Pabna-3,2025-02-12 16:28:06,51963
-Md. Habibur Rahman (Habib),BNP,ধানের শীষ,Pabna-4,2025-02-12 14:10:05,132823
-Md. Anwar Shah,Islami Andolan Bangladesh,হাতপাখা,Pabna-4,2025-02-12 23:01:49,105570
-Md. Saiful Azad Mallick,JaPa,লাঙ্গল,Pabna-4,2025-02-12 08:12:50,120442
-Md. Abu Taleb Mandal,Jamaat,দাঁড়িপাল্লা,Pabna-4,2025-02-12 23:35:22,51859
-Md. Shamsur Rahman Shimul Biswas,BNP,ধানের শীষ,Pabna-5,2025-02-12 18:39:28,206187
-Md. Nazmul Hossain,Islami Andolan Bangladesh,হাতপাখা,Pabna-5,2025-02-12 01:47:43,186714
-Md. Iqbal Hossain,Jamaat,দাঁড়িপাল্লা,Pabna-5,2025-02-12 18:36:41,203042
-Barrister Muhammad Nawshad Zamir,BNP,ধানের শীষ,Panchagarh-1,2025-02-12 16:40:54,94362
-Md. Sarjis Alam,NCP,শাপলা কলি,Panchagarh-1,2025-02-12 00:28:32,135595
-Farhad Hossain Azad,BNP,ধানের শীষ,Panchagarh-2,2025-02-12 04:21:54,77740
-Md. Kamrul Hasan Prodhan,Islami Andolan Bangladesh,হাতপাখা,Panchagarh-2,2025-02-12 22:31:11,163538
-Md. Lutfar Rahman Ripon,JaPa,লাঙ্গল,Panchagarh-2,2025-02-12 02:49:14,139338
-Md. Shafiul Alam,Jamaat,দাঁড়িপাল্লা,Panchagarh-2,2025-02-12 11:55:52,66162
-Altaf Hossain Chowdhury,BNP,ধানের শীষ,Patuakhali-1,2025-02-12 09:36:26,67653
-Md. Firoz Alam,Islami Andolan Bangladesh,হাতপাখা,Patuakhali-1,2025-02-12 04:43:37,168053
-A. Mannan Howlader,JaPa,লাঙ্গল,Patuakhali-1,2025-02-12 16:43:31,177163
-Md. Shahidul Alam Talukder,BNP,ধানের শীষ,Patuakhali-2,2025-02-12 11:04:42,59950
-Malek Hossain,Islami Andolan Bangladesh,হাতপাখা,Patuakhali-2,2025-02-12 14:11:10,57905
-Md. Shafiqul Islam,Jamaat,দাঁড়িপাল্লা,Patuakhali-2,2025-02-12 09:24:36,35555
-Muhammad Abu Bakr Siddiqui,Islami Andolan Bangladesh,হাতপাখা,Patuakhali-3,2025-02-12 19:03:43,87792
-Muhammad Shah Alam,Jamaat,দাঁড়িপাল্লা,Patuakhali-3,2025-02-12 20:46:41,83386
-ABM Mosharraf Hossain,BNP,ধানের শীষ,Patuakhali-4,2025-02-12 11:35:03,86533
-Mostafizur Rahman,Islami Andolan Bangladesh,হাতপাখা,Patuakhali-4,2025-02-12 01:13:57,51076
-Alamgir Hossain,BNP,ধানের শীষ,Pirojpur-1,2025-02-12 13:46:06,143175
-Masud Sayeedi,Jamaat,দাঁড়িপাল্লা,Pirojpur-1,2025-02-12 03:05:10,73307
-Ahmed Sohel Monjur,BNP,ধানের শীষ,Pirojpur-2,2025-02-12 21:48:49,155282
-Md. Abul Kalam Azad,Islami Andolan Bangladesh,হাতপাখা,Pirojpur-2,2025-02-12 02:28:43,133657
-Shamim Sayeedi,Jamaat,দাঁড়িপাল্লা,Pirojpur-2,2025-02-12 20:05:25,63715
-Md. Ruhul Amin Dulal,BNP,ধানের শীষ,Pirojpur-3,2025-02-12 10:16:47,87789
-Md. Rustom Ali Faraji,Islami Andolan Bangladesh,হাতপাখা,Pirojpur-3,2025-02-12 17:49:58,33932
-Md. Mashrequl Azam (Rabi),JaPa,লাঙ্গল,Pirojpur-3,2025-02-12 13:09:48,33623
-Md. Shamim Hamidi,NCP,শাপলা কলি,Pirojpur-3,2025-02-12 15:58:54,40089
-Ali Nawaz Mahmud Khayum,BNP,ধানের শীষ,Rajbari-1,2025-02-12 22:56:24,100
-Khondaker Habibur Rahman,JaPa,লাঙ্গল,Rajbari-1,2025-02-12 01:02:20,100
-Md. Nurul Islam,Jamaat,দাঁড়িপাল্লা,Rajbari-1,2025-02-12 09:16:10,100
-Md. Harun-ur-Rashid,BNP,ধানের শীষ,Rajbari-2,2025-02-12 23:10:00,100
-Mohd. Abdul Malek,Islami Andolan Bangladesh,হাতপাখা,Rajbari-2,2025-02-12 23:25:02,100
-Md. Shafiul Azam Khan,JaPa,লাঙ্গল,Rajbari-2,2025-02-12 05:53:23,100
-Jamil Hijazi,NCP,শাপলা কলি,Rajbari-2,2025-02-12 01:28:19,100
-Md. Sharif Uddin,BNP,ধানের শীষ,Rajshahi-1,2025-02-12 01:01:21,86261
-Md. Mujibur Rahman,Jamaat,দাঁড়িপাল্লা,Rajshahi-1,2025-02-12 22:14:51,185062
-Md. Mizanur Rahman,BNP,ধানের শীষ,Rajshahi-2,2025-02-12 05:34:54,62961
-Mohammad Jahangir,Jamaat,দাঁড়িপাল্লা,Rajshahi-2,2025-02-12 11:13:40,128214
-Mohammad Shafiqul Haque Milon,BNP,ধানের শীষ,Rajshahi-3,2025-02-12 09:47:27,112238
-Md. Fazlur Rahman,Islami Andolan Bangladesh,হাতপাখা,Rajshahi-3,2025-02-12 16:56:33,107668
-Md. Afzal Hossain,JaPa,লাঙ্গল,Rajshahi-3,2025-02-12 11:05:45,95033
-Md. Abul Kalam Azad,Jamaat,দাঁড়িপাল্লা,Rajshahi-3,2025-02-12 04:27:42,75176
-D. M. D. Ziaur Rahman,BNP,ধানের শীষ,Rajshahi-4,2025-02-12 00:23:54,119218
-Md. Tajul Islam Khan,Islami Andolan Bangladesh,হাতপাখা,Rajshahi-4,2025-02-12 05:20:52,35855
-Md. Abdul Bari Sarkar,Jamaat,দাঁড়িপাল্লা,Rajshahi-4,2025-02-12 18:58:26,112498
-Professor Nazrul Islam,BNP,ধানের শীষ,Rajshahi-5,2025-02-12 09:40:55,60943
-Md. Ruhul Amin,Islami Andolan Bangladesh,হাতপাখা,Rajshahi-5,2025-02-12 07:21:41,116003
-Manjur Rahman,Jamaat,দাঁড়িপাল্লা,Rajshahi-5,2025-02-12 21:15:34,115941
-Md. Abu Sayed Chad,BNP,ধানের শীষ,Rajshahi-6,2025-02-12 02:05:02,80422
-Md. Abdus Salam Suraj,Islami Andolan Bangladesh,হাতপাখা,Rajshahi-6,2025-02-12 00:30:22,93928
-Md. Iqbal Hossain,JaPa,লাঙ্গল,Rajshahi-6,2025-02-12 06:35:21,69514
-Md. Nazmul Haque,Jamaat,দাঁড়িপাল্লা,Rajshahi-6,2025-02-12 15:55:38,59972
-Md. Mokarram Hossain Sujan,BNP,ধানের শীষ,Rangpur-1,2025-02-12 01:33:27,124799
-ATM Golam Mustafa,Islami Andolan Bangladesh,হাতপাখা,Rangpur-1,2025-02-12 13:22:53,129163
-Md. Monjum Ali,JaPa,লাঙ্গল,Rangpur-1,2025-02-12 09:34:15,109551
-Md. Raihan Siraji,Jamaat,দাঁড়িপাল্লা,Rangpur-1,2025-02-12 00:56:07,84033
-Mohammad Ali Sarkar,BNP,ধানের শীষ,Rangpur-2,2025-02-12 06:56:12,78910
-Md. Ashraf Ali,Islami Andolan Bangladesh,হাতপাখা,Rangpur-2,2025-02-12 21:16:39,114485
-Anisul Islam Mandal,JaPa,লাঙ্গল,Rangpur-2,2025-02-12 13:36:22,90567
-ATM Azharul Islam,Jamaat,দাঁড়িপাল্লা,Rangpur-2,2025-02-12 06:13:24,82817
-Md. Shamsuzzaman Samu,BNP,ধানের শীষ,Rangpur-3,2025-02-12 17:42:29,197226
-Md. Amiruzzaman,Islami Andolan Bangladesh,হাতপাখা,Rangpur-3,2025-02-12 00:14:57,174967
-Ghulam Mohammad Quader,JaPa,লাঙ্গল,Rangpur-3,2025-02-12 20:39:34,121851
-Md. Mahbubur Rahman (Belal),Jamaat,দাঁড়িপাল্লা,Rangpur-3,2025-02-12 20:54:56,173087
-Mohammad Emdadul Haque Bhorsa,BNP,ধানের শীষ,Rangpur-4,2025-02-12 06:07:40,193303
-Md. Zahid Hossain,Islami Andolan Bangladesh,হাতপাখা,Rangpur-4,2025-02-12 11:53:01,165126
-Abu Naser Shah Md. Mahbubar Rahman,JaPa,লাঙ্গল,Rangpur-4,2025-02-12 06:16:04,63704
-Md. Golam Rabbani,BNP,ধানের শীষ,Rangpur-5,2025-02-12 01:13:51,118763
-Md. Golzar Hossain,Islami Andolan Bangladesh,হাতপাখা,Rangpur-5,2025-02-12 11:57:25,126400
-SM Fakhar Uz Zaman,JaPa,লাঙ্গল,Rangpur-5,2025-02-12 14:30:21,112861
-Md. Golam Rabbani,Jamaat,দাঁড়িপাল্লা,Rangpur-5,2025-02-12 10:19:09,181751
-Md. Saiful Islam,BNP,ধানের শীষ,Rangpur-6,2025-02-12 11:53:51,110688
-Sultan Mahmud,Islami Andolan Bangladesh,হাতপাখা,Rangpur-6,2025-02-12 21:12:20,121564
-Md. Noor Alam Mia,JaPa,লাঙ্গল,Rangpur-6,2025-02-12 03:27:55,80741
-Md. Nurul Amin,Jamaat,দাঁড়িপাল্লা,Rangpur-6,2025-02-12 13:04:55,96029
-Sheikh Md. Rezaul Karim,Islami Andolan Bangladesh,হাতপাখা,Satkhira-1,2025-02-12 12:45:48,122650
-Md. Habibul Islam Habib,JaPa,লাঙ্গল,Satkhira-1,2025-02-12 03:19:09,167837
-Ziaur Rahman,JaPa,লাঙ্গল,Satkhira-1,2025-02-12 03:01:11,134931
-Md. Izzat Ullah,Jamaat,দাঁড়িপাল্লা,Satkhira-1,2025-02-12 16:00:38,138491
-Md. Abdur Rouf,BNP,ধানের শীষ,Satkhira-2,2025-02-12 14:23:21,158749
-Mufti Rabiul Islam,Islami Andolan Bangladesh,হাতপাখা,Satkhira-2,2025-02-12 19:29:11,154934
-Md. Ashrafuzzaman,JaPa,লাঙ্গল,Satkhira-2,2025-02-12 03:28:48,80758
-Muhammad Abdul Khaliq,Jamaat,দাঁড়িপাল্লা,Satkhira-2,2025-02-12 05:57:03,171009
-Kazi Alauddin,BNP,ধানের শীষ,Satkhira-3,2025-02-12 07:29:32,186894
-Md. Waze Qurni,Islami Andolan Bangladesh,হাতপাখা,Satkhira-3,2025-02-12 03:52:43,83287
-Md. Alif Hossain,JaPa,লাঙ্গল,Satkhira-3,2025-02-12 03:16:09,148678
-Hafez Muhaj Rabiul Bashar,Jamaat,দাঁড়িপাল্লা,Satkhira-3,2025-02-12 07:15:19,153738
-Md. Moniruzzaman,BNP,ধানের শীষ,Satkhira-4,2025-02-12 19:27:01,37750
-S. M. Mustafa Al Mamun,Islami Andolan Bangladesh,হাতপাখা,Satkhira-4,2025-02-12 14:43:05,47841
-Md. Abdur Rashid,JaPa,লাঙ্গল,Satkhira-4,2025-02-12 17:20:01,85147
-G. M. Nazrul Islam,Jamaat,দাঁড়িপাল্লা,Satkhira-4,2025-02-12 07:29:28,50925
-Sayeed Ahmed,BNP,ধানের শীষ,Shariatpur-1,2025-02-12 14:15:00,100
-Md. Tofail Ahmed,Islami Andolan Bangladesh,হাতপাখা,Shariatpur-1,2025-02-12 09:03:32,100
-Md. Shafiqur Rahman (Kiran),BNP,ধানের শীষ,Shariatpur-2,2025-02-12 05:24:17,100
-Imran Hossain,Islami Andolan Bangladesh,হাতপাখা,Shariatpur-2,2025-02-12 11:07:51,100
-Jasim Uddin,JaPa,লাঙ্গল,Shariatpur-2,2025-02-12 20:26:13,100
-Mahmud Hossain,Jamaat,দাঁড়িপাল্লা,Shariatpur-2,2025-02-12 05:19:46,100
-Mia Nuruddin Ahmed Apu,BNP,ধানের শীষ,Shariatpur-3,2025-02-12 23:52:22,100
-Hanif Mia,Islami Andolan Bangladesh,হাতপাখা,Shariatpur-3,2025-02-12 02:41:29,100
-Md. Abdul Hannan,JaPa,লাঙ্গল,Shariatpur-3,2025-02-12 20:31:54,100
-Muhammad Azaharul Islam,Jamaat,দাঁড়িপাল্লা,Shariatpur-3,2025-02-12 09:15:26,100
-Sansila Zebrin,BNP,ধানের শীষ,Sherpur-1,2025-02-12 12:25:05,126495
-Md. Rashidul Islam Rashed,Jamaat,দাঁড়িপাল্লা,Sherpur-1,2025-02-12 20:34:33,91841
-Mohammad Fahim Chowdhury,BNP,ধানের শীষ,Sherpur-2,2025-02-12 03:19:06,101827
-Md. Abdullah Al Kayes,Islami Andolan Bangladesh,হাতপাখা,Sherpur-2,2025-02-12 12:57:06,129045
-Md. Golam Kibria,Jamaat,দাঁড়িপাল্লা,Sherpur-2,2025-02-12 15:01:55,132039
-Md. Mahmudul Haque Rubel,BNP,ধানের শীষ,Sherpur-3,2025-02-12 09:53:11,43077
-Abu Taleb Md. Saifuddin,Islami Andolan Bangladesh,হাতপাখা,Sherpur-3,2025-02-12 06:52:43,127753
-Mohammad Nuruzzaman,Jamaat,দাঁড়িপাল্লা,Sherpur-3,2025-02-12 12:15:35,64595
-Md. Selim Reza,BNP,ধানের শীষ,Sirajganj-1,2025-02-12 20:35:13,59274
-Md. Zahurul Islam,JaPa,লাঙ্গল,Sirajganj-1,2025-02-12 04:35:32,117918
-Md. Shahinur Alam,Jamaat,দাঁড়িপাল্লা,Sirajganj-1,2025-02-12 15:20:38,71383
-Iqbal Hassan Mahmud,BNP,ধানের শীষ,Sirajganj-2,2025-02-12 09:00:57,104180
-Md. Mohibullah,Islami Andolan Bangladesh,হাতপাখা,Sirajganj-2,2025-02-12 06:54:42,128041
-Muhammad Zahidul Islam,Jamaat,দাঁড়িপাল্লা,Sirajganj-2,2025-02-12 22:29:53,149205
-Md. Aynul Haque,BNP,ধানের শীষ,Sirajganj-3,2025-02-12 04:30:41,48949
-Md. Abdur Rauf Sarkar,Bangladesh Khelafat Majlish,রিক্সা,Sirajganj-3,2025-02-12 23:34:42,69798
-Md. Fazlul Haque,JaPa,লাঙ্গল,Sirajganj-3,2025-02-12 23:31:14,140434
-M Akbar Ali,BNP,ধানের শীষ,Sirajganj-4,2025-02-12 14:49:15,184869
-Abdur Rahman,Islami Andolan Bangladesh,হাতপাখা,Sirajganj-4,2025-02-12 01:12:49,152546
-Md. Hilton Pramanik,JaPa,লাঙ্গল,Sirajganj-4,2025-02-12 23:40:43,167465
-Md. Rafiqul Islam Khan,Jamaat,দাঁড়িপাল্লা,Sirajganj-4,2025-02-12 23:19:16,132132
-Md. Amirul Islam Khan,BNP,ধানের শীষ,Sirajganj-5,2025-02-12 11:32:15,89992
-Nurun Nabi,Islami Andolan Bangladesh,হাতপাখা,Sirajganj-5,2025-02-12 00:30:38,151884
-Md. Akbar Hossain,JaPa,লাঙ্গল,Sirajganj-5,2025-02-12 02:14:59,156593
-Md. Ali Alam,Jamaat,দাঁড়িপাল্লা,Sirajganj-5,2025-02-12 19:15:58,122184
-M.A. Muhit,BNP,ধানের শীষ,Sirajganj-6,2025-02-12 01:25:22,158292
-Misbah Uddin,Islami Andolan Bangladesh,হাতপাখা,Sirajganj-6,2025-02-12 16:05:46,102765
-Md. Moktar Hossain,JaPa,লাঙ্গল,Sirajganj-6,2025-02-12 23:31:18,79969
-Kamruzzaman Kamrul,BNP,ধানের শীষ,Sunamganj-1,2025-02-12 08:32:08,100
-Tofael Ahmed,Jamaat,দাঁড়িপাল্লা,Sunamganj-1,2025-02-12 02:13:38,100
-Md. Nasir Chowdhury,BNP,ধানের শীষ,Sunamganj-2,2025-02-12 12:35:39,100
-Mohammad Shishir Monir,Jamaat,দাঁড়িপাল্লা,Sunamganj-2,2025-02-12 04:18:02,100
-Mohammad Kayshar Ahmed,BNP,ধানের শীষ,Sunamganj-3,2025-02-12 11:12:14,100
-Mohammad Shahinur Pasha Chowdhury,Bangladesh Khelafat Majlish,রিক্সা,Sunamganj-3,2025-02-12 21:53:54,100
-Nurul Islam,BNP,ধানের শীষ,Sunamganj-4,2025-02-12 17:43:13,100
-Shahidul Islam,Islami Andolan Bangladesh,হাতপাখা,Sunamganj-4,2025-02-12 10:26:32,100
-Md. Nazmul Huda,JaPa,লাঙ্গল,Sunamganj-4,2025-02-12 09:53:27,100
-Md. Shams Uddin,Jamaat,দাঁড়িপাল্লা,Sunamganj-4,2025-02-12 04:07:00,100
-Kalim Uddin Ahmed,BNP,ধানের শীষ,Sunamganj-5,2025-02-12 17:27:09,100
-Mohammad Jahangir Alam,JaPa,লাঙ্গল,Sunamganj-5,2025-02-12 14:23:22,100
-Abu Tahir Muhammad Abdus Salam,Jamaat,দাঁড়িপাল্লা,Sunamganj-5,2025-02-12 17:01:21,100
-Mohammad Abdul Qadir,Khelafat Majlish,দেওয়াল ঘড়ি,Sunamganj-5,2025-02-12 02:01:56,100
-Khandaker Abdul Muktadir,BNP,ধানের শীষ,Sylhet-1,2025-02-12 13:35:11,100
-Mahmudul Hasan,Islami Andolan Bangladesh,হাতপাখা,Sylhet-1,2025-02-12 17:38:15,100
-Maulana Habibur Rahman,Jamaat,দাঁড়িপাল্লা,Sylhet-1,2025-02-12 05:05:57,100
-Ms. Tahsina Rushdeer,BNP,ধানের শীষ,Sylhet-2,2025-02-12 18:28:12,100
-Md. Amir Uddin,Islami Andolan Bangladesh,হাতপাখা,Sylhet-2,2025-02-12 07:13:50,100
-Mahbubur Rahman Chowdhury,JaPa,লাঙ্গল,Sylhet-2,2025-02-12 17:34:45,100
-Muhammad Muntasir Ali,Khelafat Majlish,দেওয়াল ঘড়ি,Sylhet-2,2025-02-12 17:38:47,100
-Mohammad Abdul Malik,BNP,ধানের শীষ,Sylhet-3,2025-02-12 09:05:07,100
-Musleh Uddin Raju,Bangladesh Khelafat Majlish,রিক্সা,Sylhet-3,2025-02-12 18:13:18,100
-Redwanul Haque Chowdhury,Islami Andolan Bangladesh,হাতপাখা,Sylhet-3,2025-02-12 18:09:46,100
-Mohammad Atiqur Rahman,JaPa,লাঙ্গল,Sylhet-3,2025-02-12 03:56:17,100
-Ariful Haque Chowdhury,BNP,ধানের শীষ,Sylhet-4,2025-02-12 20:23:26,100
-Maulana Syed Ahmed,Islami Andolan Bangladesh,হাতপাখা,Sylhet-4,2025-02-12 13:33:50,100
-Mohammad Mujibur Rahman,JaPa,লাঙ্গল,Sylhet-4,2025-02-12 03:45:57,100
-Md. Joynal Abedin,Jamaat,দাঁড়িপাল্লা,Sylhet-4,2025-02-12 00:41:22,100
-Ubaidullah Farooq,Jamiat Ulama-e-Islam Bangladesh,খেজুর গাছ,Sylhet-5,2025-02-12 09:51:15,100
-Mohammad Abul Hasan,Khelafat Majlish,দেওয়াল ঘড়ি,Sylhet-5,2025-02-12 12:36:56,100
-Emran Ahmed Chowdhury,BNP,ধানের শীষ,Sylhet-6,2025-02-12 07:54:16,100
-Mohammad Abdun Noor,JaPa,লাঙ্গল,Sylhet-6,2025-02-12 11:13:35,100
-Mohammad Selim Uddin,Jamaat,দাঁড়িপাল্লা,Sylhet-6,2025-02-12 19:09:01,100
-Faqir Mahbub Anam,BNP,ধানের শীষ,Tangail-1,2025-02-12 09:53:14,129853
-Md. Harun Or Rashid,Islami Andolan Bangladesh,হাতপাখা,Tangail-1,2025-02-12 07:17:23,101684
-Muhammad Ilias Hossain,JaPa,লাঙ্গল,Tangail-1,2025-02-12 15:24:46,101140
-Muhammad Abdullahel Kafi,Jamaat,দাঁড়িপাল্লা,Tangail-1,2025-02-12 17:11:34,107762
-Md. Abdus Salam Pintu,BNP,ধানের শীষ,Tangail-2,2025-02-12 22:46:13,115604
-Md. Moniar Hossen Sagor,Islami Andolan Bangladesh,হাতপাখা,Tangail-2,2025-02-12 19:46:07,116601
-Md. Humayun Kabir Talukder,JaPa,লাঙ্গল,Tangail-2,2025-02-12 21:05:36,138980
-Md. Humayon Kabir,Jamaat,দাঁড়িপাল্লা,Tangail-2,2025-02-12 10:04:06,137076
-SM Obaidul Haque,BNP,ধানের শীষ,Tangail-3,2025-02-12 13:04:29,40921
-Md. Rajaul Karim,Islami Andolan Bangladesh,হাতপাখা,Tangail-3,2025-02-12 08:30:21,82174
-Saifullah Hyder,NCP,শাপলা কলি,Tangail-3,2025-02-12 09:00:20,79160
-Md. Lutfor Rahman,BNP,ধানের শীষ,Tangail-4,2025-02-12 10:03:49,131085
-Ali Amzad Hossain,Islami Andolan Bangladesh,হাতপাখা,Tangail-4,2025-02-12 04:34:34,53840
-Md. Liakot Ali,JaPa,লাঙ্গল,Tangail-4,2025-02-12 15:38:32,50191
-Khandaker Abdur Razzaque,Jamaat,দাঁড়িপাল্লা,Tangail-4,2025-02-12 09:16:37,82498
-Sultan Salauddin Tuku,BNP,ধানের শীষ,Tangail-5,2025-02-12 17:55:49,96661
-Khandakar Jakir Hossain,Islami Andolan Bangladesh,হাতপাখা,Tangail-5,2025-02-12 09:47:09,114779
-Md. Mozammel Hoque,JaPa,লাঙ্গল,Tangail-5,2025-02-12 08:38:27,53803
-Ahsan Habib,Jamaat,দাঁড়িপাল্লা,Tangail-5,2025-02-12 07:22:16,123588
-Md. Robiul Awal,BNP,ধানের শীষ,Tangail-6,2025-02-12 23:03:12,78099
-Md. Akhinur Miah,Islami Andolan Bangladesh,হাতপাখা,Tangail-6,2025-02-12 14:54:09,138718
-Mohammad Mamunur Rahim,JaPa,লাঙ্গল,Tangail-6,2025-02-12 12:43:40,138629
-Tareque Shams Khan (Himu),JaPa,লাঙ্গল,Tangail-6,2025-02-12 02:06:59,123615
-A.K.M. Abdul Hamid,Jamaat,দাঁড়িপাল্লা,Tangail-6,2025-02-12 15:06:16,73947
-Abul Kalam Azad Siddique,BNP,ধানের শীষ,Tangail-7,2025-02-12 06:18:22,86077
-Mohammad Abdullah Ibne Abul Hosain,Jamaat,দাঁড়িপাল্লা,Tangail-7,2025-02-12 04:17:14,95590
-Ahmed Azam Khan,BNP,ধানের শীষ,Tangail-8,2025-02-12 08:17:06,99471
-Md. Nazmul Hasan,JaPa,লাঙ্গল,Tangail-8,2025-02-12 21:01:58,42756
-Md. Shafiqul Islam Khan,Jamaat,দাঁড়িপাল্লা,Tangail-8,2025-02-12 21:07:11,56515
-Mirza Fakhrul Islam Alamgir,BNP,ধানের শীষ,Thakurgaon-1,2025-02-12 00:26:48,185998
-Md. Khademul Islam,Islami Andolan Bangladesh,হাতপাখা,Thakurgaon-1,2025-02-12 13:49:17,108684
-Delwar Hossain,Jamaat,দাঁড়িপাল্লা,Thakurgaon-1,2025-02-12 19:22:20,167828
-Dr. Md. Abdus Salam,BNP,ধানের শীষ,Thakurgaon-2,2025-02-12 00:26:56,86930
-Md Rejaul Karim,Islami Andolan Bangladesh,হাতপাখা,Thakurgaon-2,2025-02-12 18:48:14,131973
-Mst Nurun Nahar Begum,JaPa,লাঙ্গল,Thakurgaon-2,2025-02-12 08:00:37,97615
-Md. Abdul Hakim,Jamaat,দাঁড়িপাল্লা,Thakurgaon-2,2025-02-12 12:29:02,86308
-Md. Jahidur Rahaman,BNP,ধানের শীষ,Thakurgaon-3,2025-02-12 14:44:51,85862
-Md. Al Amin,Islami Andolan Bangladesh,হাতপাখা,Thakurgaon-3,2025-02-12 15:06:14,141054
-Hafiz Uddin Ahmed,JaPa,লাঙ্গল,Thakurgaon-3,2025-02-12 01:34:50,86829
-Md. Mizanur Rahman,Jamaat,দাঁড়িপাল্লা,Thakurgaon-3,2025-02-12 13:40:00,72574
+seat_name,party,name,vote,center,division_id,total_center,time,source
+Chapai Nawabganj-2,Jamaat,Md. Enamul Haque,14796,13,5,182,2026-02-12 15:56:06.220455+00:00,dt
+Chapai Nawabganj-2,BNP,Md. Shamsuzzoha Khan,12850,13,5,182,2026-02-12 15:56:06.220455+00:00,dt
+Chapai Nawabganj-2,AB Party,Md. Matibul Islam,,13,5,182,2026-02-12 15:56:06.220455+00:00,dt
+Chapai Nawabganj-3,Islami Andolan Bangladesh,Nasir Bin Asgar,,,5,172,2026-02-12 15:56:06.220455+00:00,dt
+Chapai Nawabganj-3,BNP,Md. Fazle Huda,,,5,172,2026-02-12 15:56:06.220455+00:00,dt
+Chapai Nawabganj-3,JaPa,Md. Masud Rana,,,5,172,2026-02-12 15:56:06.220455+00:00,dt
+Chapai Nawabganj-3,Jamaat,Md. Mahfuzur Rahman,,,5,172,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-1,BNP,Ikramul Bari Tipu,63662,53,5,165,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-1,Jamaat,Md. Abdur Rakib,40685,53,5,165,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-1,CPB,Dr. S. M. Fazlur Rahman,,53,5,165,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-1,JaPa,Md. Altaf Hossain,,53,5,165,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-1,Islami Andolan Bangladesh,Sohrab Hossain,,53,5,165,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-2,BNP,Md. Zahidul Islam Dhalu,36971,30,5,124,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-2,Jamaat,Abu Sadat Md. Sayem,24885,30,5,124,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-2,JaPa,Md. Anwar Hossain,,30,5,124,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-2,Islami Andolan Bangladesh,Md. Abdur Rahman,,30,5,124,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-2,CPB,Shafiqul Islam,,30,5,124,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-3,BNP,Sheikh Md. Rezaul Islam,25541,27,5,141,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-3,Jamaat,Md. Khabirul Islam,23664,27,5,141,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-3,Islami Andolan Bangladesh,Md. Rafiqul Islam,,27,5,141,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-4,Jamaat,Md. Mujibur Rahman,18336,14,5,117,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-4,BNP,Md. Sharif Uddin,10113,14,5,117,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-4,AB Party,Md. Abdur Rahman,,14,5,117,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-5,BNP,Md. Mizanur Rahman Minu,15144,14,5,113,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-5,Jamaat,Mohammad Jahangir,11013,14,5,113,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-5,AB Party,Md. Saeed Noman,,14,5,113,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-6,BNP,Mohammad Shafiqul Haque Milon,23015,19,5,114,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-6,Jamaat,Md. Abul Kalam Azad,14510,19,5,114,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-6,JaPa,Md. Afzal Hossain,,19,5,114,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-6,Islami Andolan Bangladesh,Md. Fazlur Rahman,,19,5,114,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-1,Jamaat,Md. Abdul Bari Sardar,43295,40,5,158,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-1,BNP,D. M. D. Ziaur Rahman,40655,40,5,158,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-1,Islami Andolan Bangladesh,Md. Tajul Islam Khan,,40,5,158,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-1,JaPa,Md. Fazlul Haque,,40,5,158,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-2,BNP,Professor Nazrul Islam,14869,13,5,112,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-2,Jamaat,Manjur Rahman,5372,13,5,112,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-2,Islami Andolan Bangladesh,Md. Ruhul Amin,,13,5,112,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-3,BNP,Md. Abu Sayeed Chand,6227,5,5,128,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-3,Jamaat,Md. Nazmul Haque,3393,5,5,128,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-3,Islami Andolan Bangladesh,Md. Abdus Salam Suruj,,5,5,128,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-3,JaPa,Md. Iqbal Hossain,,5,5,128,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-4,Jamaat,Md. Abul Kalam Azad,910,1,5,122,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-4,BNP,Farzana Sharmin,398,1,5,122,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-4,Islami Andolan Bangladesh,Md. Abdullahil Baki,,1,5,122,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-4,JaPa,Md. Sahed Ali Jinnah,,1,5,122,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-4,Ganosamhati Andolon (Saki),Md. Sentu Ali,,1,5,122,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-5,BNP,M. Ruhul Quddus Talukder Dulu,9982,9,5,132,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-5,Jamaat,Md. Yunus Ali,9034,9,5,132,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-5,Ganosamhati Andolon (Saki),Tahamida Islam Tania,,9,5,132,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-5,JaPa,Md. Rakib Uddin (Komol),,9,5,132,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-5,Islami Andolan Bangladesh,Mohammad Ali Siddiqui,,9,5,132,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-6,NCP,S. M. Zargis Qadir,,,5,118,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-6,BNP,Md. Anwarul Islam,,,5,118,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-6,JaPa,Md. Ashiq Iqbal,,,5,118,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-6,Islami Andolan Bangladesh,Md. Khalilur Rahman,,,5,118,2026-02-12 15:56:06.220455+00:00,dt
+Natore-1,JaPa,M. Yusuf Ahmed,,,5,125,2026-02-12 15:56:06.220455+00:00,dt
+Natore-1,BNP,Md. Abdul Aziz,,,5,125,2026-02-12 15:56:06.220455+00:00,dt
+Natore-1,Jamaat,Md. Abdul Hakim,,,5,125,2026-02-12 15:56:06.220455+00:00,dt
+Natore-1,Islami Andolan Bangladesh,Md. Emdadullah,,,5,125,2026-02-12 15:56:06.220455+00:00,dt
+Natore-1,AB Party,Md. Moksedul Momin,,,5,125,2026-02-12 15:56:06.220455+00:00,dt
+Natore-2,JaPa,Md. Jahurul Islam,,,5,156,2026-02-12 15:56:06.220455+00:00,dt
+Natore-2,Jamaat,Md. Shahinur Alam,,,5,156,2026-02-12 15:56:06.220455+00:00,dt
+Natore-2,BNP,Md. Selim Reza,,,5,156,2026-02-12 15:56:06.220455+00:00,dt
+Natore-3,BNP,Iqbal Hasan Mahmud,2618,2,5,118,2026-02-12 15:56:06.220455+00:00,dt
+Natore-3,Jamaat,Muhammad Zahidul Islam,1269,2,5,118,2026-02-12 15:56:06.220455+00:00,dt
+Natore-3,CPB,Md. Anwar Hossain,,2,5,118,2026-02-12 15:56:06.220455+00:00,dt
+Natore-3,Islami Andolan Bangladesh,Md. Mohibullah,,2,5,118,2026-02-12 15:56:06.220455+00:00,dt
+Natore-4,Bangladesh Khelafat Majlish,Md. Abdur Rauf Sarkar,,,5,167,2026-02-12 15:56:06.220455+00:00,dt
+Natore-4,BNP,Md. Ainul Haque,,,5,167,2026-02-12 15:56:06.220455+00:00,dt
+Natore-4,JaPa,Md. Fazlul Haque,,,5,167,2026-02-12 15:56:06.220455+00:00,dt
+Sirajganj-1,Islami Andolan Bangladesh,Abdur Rahman,,,5,173,2026-02-12 15:56:06.220455+00:00,dt
+Sirajganj-1,BNP,M. Akbar Ali,,,5,173,2026-02-12 15:56:06.220455+00:00,dt
+Sirajganj-1,CPB,Md. Abdul Hakim,,,5,173,2026-02-12 15:56:06.220455+00:00,dt
+Sirajganj-1,Jamaat,Md. Rafiqul Islam Khan,,,5,173,2026-02-12 15:56:06.220455+00:00,dt
+Sirajganj-1,JaPa,Md. Hilton Pramanik,,,5,173,2026-02-12 15:56:06.220455+00:00,dt
+Sirajganj-2,Islami Andolan Bangladesh,Nurun Nabi,,,5,145,2026-02-12 15:56:06.220455+00:00,dt
+Sirajganj-2,JaPa,Md. Akbar Hossain,,,5,145,2026-02-12 15:56:06.220455+00:00,dt
+Sirajganj-2,BNP,Md. Amirul Islam Khan,,,5,145,2026-02-12 15:56:06.220455+00:00,dt
+Sirajganj-2,Jamaat,Md. Ali Alam,,,5,145,2026-02-12 15:56:06.220455+00:00,dt
+Sirajganj-2,CPB,Md. Matiar Rahman,,,5,145,2026-02-12 15:56:06.220455+00:00,dt
+Sirajganj-3,AB Party,Abu Jafar Md. Anwarus Sadat,,,5,153,2026-02-12 15:56:06.220455+00:00,dt
+Sirajganj-3,BNP,M. A. Muhit,,,5,153,2026-02-12 15:56:06.220455+00:00,dt
+Sirajganj-3,NCP,S. M. Saif Mostafiz,,,5,153,2026-02-12 15:56:06.220455+00:00,dt
+Sirajganj-3,Islami Andolan Bangladesh,Misbah Uddin,,,5,153,2026-02-12 15:56:06.220455+00:00,dt
+Sirajganj-3,JaPa,Md. Moktar Hossain,,,5,153,2026-02-12 15:56:06.220455+00:00,dt
+Sirajganj-4,Islami Andolan Bangladesh,Md. Abdul Gani,,,5,137,2026-02-12 15:56:06.220455+00:00,dt
+Sirajganj-4,BNP,Md. Shamsur Rahman,,,5,137,2026-02-12 15:56:06.220455+00:00,dt
+Sirajganj-4,Jamaat,Mohammad Najibur Rahman,,,5,137,2026-02-12 15:56:06.220455+00:00,dt
+Sirajganj-5,BNP,A. K. M. Selim Reza Habib,,,5,124,2026-02-12 15:56:06.220455+00:00,dt
+Sirajganj-5,Islami Andolan Bangladesh,Md. Afzal Hossain Khan Kashemi,,,5,124,2026-02-12 15:56:06.220455+00:00,dt
+Sirajganj-5,JaPa,Md. Mehedi Hasan Rubel,,,5,124,2026-02-12 15:56:06.220455+00:00,dt
+Sirajganj-5,Jamaat,Md. Hesab Uddin,,,5,124,2026-02-12 15:56:06.220455+00:00,dt
+Sirajganj-5,Gano Forum,Sheikh Nasir Uddin,,,5,124,2026-02-12 15:56:06.220455+00:00,dt
+Sirajganj-6,JaPa,Mir Nadim Mohammad Dablu,,,5,160,2026-02-12 15:56:06.220455+00:00,dt
+Sirajganj-6,Jamaat,Mohammad Ali Asgar,,,5,160,2026-02-12 15:56:06.220455+00:00,dt
+Sirajganj-6,Islami Andolan Bangladesh,Md. Abdul Khalek,,,5,160,2026-02-12 15:56:06.220455+00:00,dt
+Sirajganj-6,BNP,Md. Hasan Zafir Tuhin,,,5,160,2026-02-12 15:56:06.220455+00:00,dt
+Sirajganj-6,Gano Forum,Sardar Asha Parvez,,,5,160,2026-02-12 15:56:06.220455+00:00,dt
+Pabna-1,Islami Andolan Bangladesh,Md. Anwar Shah,,,5,125,2026-02-12 15:56:06.220455+00:00,dt
+Pabna-1,Jamaat,Md. Abu Taleb Mondol,,,5,125,2026-02-12 15:56:06.220455+00:00,dt
+Pabna-1,JaPa,Md. Saiful Azad Mallik,,,5,125,2026-02-12 15:56:06.220455+00:00,dt
+Pabna-1,CPB,Md. Sohag Hossain,,,5,125,2026-02-12 15:56:06.220455+00:00,dt
+Pabna-1,BNP,Md. Habibur Rahman (Habib),,,5,125,2026-02-12 15:56:06.220455+00:00,dt
+Pabna-2,Jamaat,Md. Iqbal Hossain,8897,11,5,108,2026-02-12 15:56:06.220455+00:00,dt
+Pabna-2,BNP,Md. Shamsur Rahman Shimul Biswas,1039,11,5,108,2026-02-12 15:56:06.220455+00:00,dt
+Pabna-2,AB Party,Md. Abdul Majid Mollah,,11,5,108,2026-02-12 15:56:06.220455+00:00,dt
+Pabna-2,Islami Andolan Bangladesh,Md. Nazmul Hossain,,11,5,108,2026-02-12 15:56:06.220455+00:00,dt
+Pabna-3,BNP,Masud Arun,,,5,176,2026-02-12 15:56:06.220455+00:00,dt
+Pabna-3,JaPa,Md. Abdul Hamid,,,5,176,2026-02-12 15:56:06.220455+00:00,dt
+Pabna-3,Jamaat,Md. Tajuddin Khan,,,5,176,2026-02-12 15:56:06.220455+00:00,dt
+Pabna-3,CPB,Md. Mizanur Rahman,,,5,176,2026-02-12 15:56:06.220455+00:00,dt
+Pabna-4,JaPa,Md. Abdul Baki,,,5,129,2026-02-12 15:56:06.220455+00:00,dt
+Pabna-4,BNP,Md. Amjad Hossain,,,5,129,2026-02-12 15:56:06.220455+00:00,dt
+Pabna-4,Jamaat,Md. Nazmul Huda,,,5,129,2026-02-12 15:56:06.220455+00:00,dt
+Pabna-5,BNP,Reza Ahmed,10971,10,5,163,2026-02-12 15:56:06.220455+00:00,dt
+Pabna-5,Jamaat,Md. Belal Uddin,5923,10,5,163,2026-02-12 15:56:06.220455+00:00,dt
+Pabna-5,Islami Andolan Bangladesh,Md. Aminul Islam,,10,5,163,2026-02-12 15:56:06.220455+00:00,dt
+Pabna-5,JaPa,Md. Nuruzzaman,,10,5,163,2026-02-12 15:56:06.220455+00:00,dt
+Pabna-5,JaPa,Md. Shahriar Jamil,,10,5,163,2026-02-12 15:56:06.220455+00:00,dt
+Nilphamari-2,BNP,Mohammad Nawshad Zamir,,,6,135,2026-02-12 15:56:06.220455+00:00,dt
+Nilphamari-2,NCP,Md. Sarjis Alam,,,6,135,2026-02-12 15:56:06.220455+00:00,dt
+Nilphamari-3,BNP,Farhad Hossain Azad,,,6,105,2026-02-12 15:56:06.220455+00:00,dt
+Nilphamari-3,CPB,Md. Ashraful Alam,,,6,105,2026-02-12 15:56:06.220455+00:00,dt
+Nilphamari-3,Islami Andolan Bangladesh,Md. Kamrul Hasan Prodhan,,,6,105,2026-02-12 15:56:06.220455+00:00,dt
+Nilphamari-3,JaPa,Md. Lutfar Rahman Ripon,,,6,105,2026-02-12 15:56:06.220455+00:00,dt
+Nilphamari-3,Jamaat,Md. Safiul Alam,,,6,105,2026-02-12 15:56:06.220455+00:00,dt
+Nilphamari-4,BNP,Mirza Fakhrul Islam Alamgir,2251,2,6,169,2026-02-12 15:56:06.220455+00:00,dt
+Nilphamari-4,Jamaat,Delwar Hossain,1072,2,6,169,2026-02-12 15:56:06.220455+00:00,dt
+Nilphamari-4,Islami Andolan Bangladesh,Md. Khademul Islam,,2,6,169,2026-02-12 15:56:06.220455+00:00,dt
+Lalmonirhat-1,JaPa,Nurun Nahar Begum,,,6,132,2026-02-12 15:56:06.220455+00:00,dt
+Lalmonirhat-1,Jamaat,Md. Abdul Hakim,,,6,132,2026-02-12 15:56:06.220455+00:00,dt
+Lalmonirhat-1,BNP,Md. Abdus Salam,,,6,132,2026-02-12 15:56:06.220455+00:00,dt
+Lalmonirhat-1,AB Party,Md. Nahid-Rana,,,6,132,2026-02-12 15:56:06.220455+00:00,dt
+Lalmonirhat-1,Islami Andolan Bangladesh,Md. Rezaul Karim,,,6,132,2026-02-12 15:56:06.220455+00:00,dt
+Lalmonirhat-1,CPB,Sahabuddin Ahmed,,,6,132,2026-02-12 15:56:06.220455+00:00,dt
+Lalmonirhat-2,CPB,Prabhat Samir Shahjahan Alam,,,6,144,2026-02-12 15:56:06.220455+00:00,dt
+Lalmonirhat-2,Islami Andolan Bangladesh,Md. Al Amin,,,6,144,2026-02-12 15:56:06.220455+00:00,dt
+Lalmonirhat-2,BNP,Md. Zahidur Rahman,,,6,144,2026-02-12 15:56:06.220455+00:00,dt
+Lalmonirhat-2,Jamaat,Md. Mizanur Rahman,,,6,144,2026-02-12 15:56:06.220455+00:00,dt
+Lalmonirhat-2,JaPa,Hafiz Uddin Ahmed,,,6,144,2026-02-12 15:56:06.220455+00:00,dt
+Lalmonirhat-3,Islami Andolan Bangladesh,Md. Chan Mia,,,6,89,2026-02-12 15:56:06.220455+00:00,dt
+Lalmonirhat-3,Jamaat,Md. Matiur Rahman,,,6,89,2026-02-12 15:56:06.220455+00:00,dt
+Lalmonirhat-3,BNP,Md. Manjurul Islam,,,6,89,2026-02-12 15:56:06.220455+00:00,dt
+Lalmonirhat-3,JaPa,Md. Shahinur Islam,,,6,89,2026-02-12 15:56:06.220455+00:00,dt
+Rangpur-1,Jamaat,AKM Afzalul Anam,,,6,123,2026-02-12 15:56:06.220455+00:00,dt
+Rangpur-1,Bangladesh Khelafat Majlish,Zobayer Sayeed,,,6,123,2026-02-12 15:56:06.220455+00:00,dt
+Rangpur-1,Islami Andolan Bangladesh,Md. Redwanul Karim Rabid,,,6,123,2026-02-12 15:56:06.220455+00:00,dt
+Rangpur-1,JaPa,Md. Zulfikar Hossain,,,6,123,2026-02-12 15:56:06.220455+00:00,dt
+Rangpur-1,BNP,Md. Sadik Riyaz,,,6,123,2026-02-12 15:56:06.220455+00:00,dt
+Rangpur-2,CPB,Amrit Kumar Roy,,,6,136,2026-02-12 15:56:06.220455+00:00,dt
+Rangpur-2,JaPa,Ahmed Shafi Rubel,,,6,136,2026-02-12 15:56:06.220455+00:00,dt
+Rangpur-2,Islami Andolan Bangladesh,Md. Khairuzzaman,,,6,136,2026-02-12 15:56:06.220455+00:00,dt
+Rangpur-2,Jamaat,Md. Mainul Alam,,,6,136,2026-02-12 15:56:06.220455+00:00,dt
+Rangpur-2,BNP,Syed Jahangir Alam,,,6,136,2026-02-12 15:56:06.220455+00:00,dt
+Rangpur-3,BNP,Md. Akhtaruzzaman Mia,,,6,175,2026-02-12 15:56:06.220455+00:00,dt
+Rangpur-3,Islami Andolan Bangladesh,Md. Anwar Hossain,,,6,175,2026-02-12 15:56:06.220455+00:00,dt
+Rangpur-3,Jamaat,Md. Aftab Uddin Molla,,,6,175,2026-02-12 15:56:06.220455+00:00,dt
+Rangpur-3,JaPa,Md. Nurul Amin Shah,,,6,175,2026-02-12 15:56:06.220455+00:00,dt
+Rangpur-4,BNP,AKM Kamruzzaman,,,6,163,2026-02-12 15:56:06.220455+00:00,dt
+Rangpur-4,NCP,Md. Abdul Ahad,,,6,163,2026-02-12 15:56:06.220455+00:00,dt
+Rangpur-4,JaPa,Md. Kazi Abdul Gafur,,,6,163,2026-02-12 15:56:06.220455+00:00,dt
+Rangpur-5,BNP,Abu Zafar Md. Zahid Hossain,,,6,150,2026-02-12 15:56:06.220455+00:00,dt
+Rangpur-5,Jamaat,Md. Anwarul Islam,,,6,150,2026-02-12 15:56:06.220455+00:00,dt
+Rangpur-5,Islami Andolan Bangladesh,Md. Nur Alam Siddique,,,6,150,2026-02-12 15:56:06.220455+00:00,dt
+Rangpur-5,JaPa,Md. Rezaul Haque,,,6,150,2026-02-12 15:56:06.220455+00:00,dt
+Rangpur-6,Jamiat Ulema-e-Islam Bangladesh,Maulana Md. Manjurul Islam,,,6,111,2026-02-12 15:56:06.220455+00:00,dt
+Rangpur-6,Islami Andolan Bangladesh,Md. Abdul Jalil,,,6,111,2026-02-12 15:56:06.220455+00:00,dt
+Rangpur-6,Jamaat,Md. Abdus Sattar,,,6,111,2026-02-12 15:56:06.220455+00:00,dt
+Rangpur-6,JaPa,Md. Taslim Uddin,,,6,111,2026-02-12 15:56:06.220455+00:00,dt
+Kurigram-1,Jamaat,Al-Faruk Abdul Latif,,,6,229,2026-02-12 15:56:06.220455+00:00,dt
+Kurigram-1,Khelafat Majlish,Md. Sarwarul Alam,,,6,229,2026-02-12 15:56:06.220455+00:00,dt
+Kurigram-1,BNP,Shaharin Islam,,,6,229,2026-02-12 15:56:06.220455+00:00,dt
+Kurigram-1,Islami Andolan Bangladesh,Hasibul Islam,,,6,229,2026-02-12 15:56:06.220455+00:00,dt
+Kurigram-2,BNP,Alhaj Syed Ali,,,6,204,2026-02-12 15:56:06.220455+00:00,dt
+Kurigram-2,Jamaat,Obaidullah Salafi,,,6,204,2026-02-12 15:56:06.220455+00:00,dt
+Kurigram-2,Islami Andolan Bangladesh,Md. Amzad Hossain (Sarkar),,,6,204,2026-02-12 15:56:06.220455+00:00,dt
+Kurigram-2,JaPa,Md. Rohan Chowdhury,,,6,204,2026-02-12 15:56:06.220455+00:00,dt
+Kurigram-3,Jamaat,Abdul Muntakim,,,6,139,2026-02-12 15:56:06.220455+00:00,dt
+Kurigram-3,BJP,Mirza Md. Shawkat Akbar (Rowshan),,,6,139,2026-02-12 15:56:06.220455+00:00,dt
+Kurigram-3,BNP,Md. Abdul Gafur Sarkar,,,6,139,2026-02-12 15:56:06.220455+00:00,dt
+Kurigram-3,Islami Andolan Bangladesh,Md. Shahidul Islam,,,6,139,2026-02-12 15:56:06.220455+00:00,dt
+Kurigram-3,JaPa,Md. Siddiqul Alam,,,6,139,2026-02-12 15:56:06.220455+00:00,dt
+Kurigram-4,Islami Andolan Bangladesh,Muhammad Fazlul Karim Shaharia,,,6,130,2026-02-12 15:56:06.220455+00:00,dt
+Kurigram-4,Jamaat,Md. Anwarul Islam Raju,,,6,130,2026-02-12 15:56:06.220455+00:00,dt
+Kurigram-4,JaPa,Md. Moshiur Rahman Ranga,,,6,130,2026-02-12 15:56:06.220455+00:00,dt
+Kurigram-4,BNP,Md. Hasan Rajib Pradhan,,,6,130,2026-02-12 15:56:06.220455+00:00,dt
+Gaibandha-1,CPB,Nimai Chandra Roy,,,6,114,2026-02-12 15:56:06.220455+00:00,dt
+Gaibandha-1,JaPa,Md. Elahan Uddin,,,6,114,2026-02-12 15:56:06.220455+00:00,dt
+Gaibandha-1,Jamaat,Md. Firoz Haider,,,6,114,2026-02-12 15:56:06.220455+00:00,dt
+Gaibandha-1,Islami Andolan Bangladesh,Md. Mahfuzur Rahman,,,6,114,2026-02-12 15:56:06.220455+00:00,dt
+Gaibandha-1,BNP,Md. Rokon Uddin Babul,,,6,114,2026-02-12 15:56:06.220455+00:00,dt
+Gaibandha-2,BNP,Asadul Habib Dulu,,,6,114,2026-02-12 15:56:06.220455+00:00,dt
+Gaibandha-2,Ganosamhati Andolon (Saki),Dipak Kumar Roy,,,6,114,2026-02-12 15:56:06.220455+00:00,dt
+Gaibandha-2,CPB,Madhu Sudan Roy,,,6,114,2026-02-12 15:56:06.220455+00:00,dt
+Gaibandha-2,Jamaat,Md. Abu Taher,,,6,114,2026-02-12 15:56:06.220455+00:00,dt
+Gaibandha-2,Islami Andolan Bangladesh,Md. Aminul Islam,,,6,114,2026-02-12 15:56:06.220455+00:00,dt
+Gaibandha-2,JaPa,Md. Zahid Hasan,,,6,114,2026-02-12 15:56:06.220455+00:00,dt
+Gaibandha-3,Jamaat,Md. Fazlur Rahman Saeed,1410,1,6,134,2026-02-12 15:56:06.220455+00:00,dt
+Gaibandha-3,BNP,Md. Masud Rana Pradhan,854,1,6,134,2026-02-12 15:56:06.220455+00:00,dt
+Gaibandha-3,JaPa,Sabekun Nahar,,1,6,134,2026-02-12 15:56:06.220455+00:00,dt
+Gaibandha-4,BNP,Md. Abdul Bari,15316,11,6,139,2026-02-12 15:56:06.220455+00:00,dt
+Gaibandha-4,Jamaat,S. M. Rashedul Alam,10445,11,6,139,2026-02-12 15:56:06.220455+00:00,dt
+Gaibandha-4,AB Party,S. A. Zahid,,11,6,139,2026-02-12 15:56:06.220455+00:00,dt
+Gaibandha-5,Islami Andolan Bangladesh,A. B. M. Mostafa Kamal Pasha,,,6,145,2026-02-12 15:56:06.220455+00:00,dt
+Gaibandha-5,BNP,Kazi Rafiqul Islam,,,6,145,2026-02-12 15:56:06.220455+00:00,dt
+Gaibandha-5,Gano Forum,Md. Zulfikar Ali,,,6,145,2026-02-12 15:56:06.220455+00:00,dt
+Gaibandha-5,Jamaat,Md. Shahabuddin,,,6,145,2026-02-12 15:56:06.220455+00:00,dt
+Jamalpur-1,Islami Andolan Bangladesh,Md. Ali Akbar,,,7,127,2026-02-12 15:56:06.220455+00:00,dt
+Jamalpur-1,BNP,Md. Faridul Kabir Talukdar,,,7,127,2026-02-12 15:56:06.220455+00:00,dt
+Jamalpur-1,CPB,Md. Mahbub Zaman Jewel,,,7,127,2026-02-12 15:56:06.220455+00:00,dt
+Jamalpur-1,Jamaat,Mohammad Abdul Awal,,,7,127,2026-02-12 15:56:06.220455+00:00,dt
+Jamalpur-2,Jamaat,Muhammad Abdus Sattar,,,7,92,2026-02-12 15:56:06.220455+00:00,dt
+Jamalpur-2,BNP,Shah Md. Waresh Ali Mamun,,,7,92,2026-02-12 15:56:06.220455+00:00,dt
+Jamalpur-2,CPB,Sheikh Md. Akkas Ali,,,7,92,2026-02-12 15:56:06.220455+00:00,dt
+Jamalpur-2,Islami Andolan Bangladesh,Syed Yunus Ahmed,,,7,92,2026-02-12 15:56:06.220455+00:00,dt
+Jamalpur-3,Jamaat,Md. Rashedul Islam Rashed,16823,18,7,153,2026-02-12 15:56:06.220455+00:00,dt
+Jamalpur-3,BNP,Sansila Zebrin,8234,18,7,153,2026-02-12 15:56:06.220455+00:00,dt
+Jamalpur-3,JaPa,Md. Mahmudul Haque Moni,,18,7,153,2026-02-12 15:56:06.220455+00:00,dt
+Jamalpur-3,NCP,Md. Likhon Mia,,18,7,153,2026-02-12 15:56:06.220455+00:00,dt
+Jamalpur-4,BNP,Mohammad Fahim Chowdhury,9657,14,7,89,2026-02-12 15:56:06.220455+00:00,dt
+Jamalpur-4,Jamaat,Md. Golam Kibria,9312,14,7,89,2026-02-12 15:56:06.220455+00:00,dt
+Jamalpur-4,AB Party,Md. Abdullah,,14,7,89,2026-02-12 15:56:06.220455+00:00,dt
+Jamalpur-4,Islami Andolan Bangladesh,Md. Abdullah Al Qayes,,14,7,89,2026-02-12 15:56:06.220455+00:00,dt
+Jamalpur-5,Islami Andolan Bangladesh,Abu Taleb Md. Saifuddin,,,7,159,2026-02-12 15:56:06.220455+00:00,dt
+Jamalpur-5,BNP,Md. Mahmudul Haque Rubel,,,7,159,2026-02-12 15:56:06.220455+00:00,dt
+Jamalpur-5,Jamaat,Mohammad Nuruzzaman,,,7,159,2026-02-12 15:56:06.220455+00:00,dt
+Sherpur-1,CPB,Azharul Islam,,,7,144,2026-02-12 15:56:06.220455+00:00,dt
+Sherpur-1,Islami Andolan Bangladesh,Md. Jillur Rahman,,,7,144,2026-02-12 15:56:06.220455+00:00,dt
+Sherpur-1,Bangladesh Khelafat Majlish,Md. Tajul Islam,,,7,144,2026-02-12 15:56:06.220455+00:00,dt
+Sherpur-1,BNP,Syed Emran Saleh,,,7,144,2026-02-12 15:56:06.220455+00:00,dt
+Sherpur-2,Islami Andolan Bangladesh,Golam Mawla Bhuiyan,,,7,154,2026-02-12 15:56:06.220455+00:00,dt
+Sherpur-2,Bangladesh Khelafat Majlish,Mohammadullah,,,7,154,2026-02-12 15:56:06.220455+00:00,dt
+Sherpur-2,JaPa,Md. Emdadul Haque Khan,,,7,154,2026-02-12 15:56:06.220455+00:00,dt
+Sherpur-2,BNP,Motahar Hossain Talukder,,,7,154,2026-02-12 15:56:06.220455+00:00,dt
+Sherpur-3,BNP,M. Iqbal Hossain,,,7,126,2026-02-12 15:56:06.220455+00:00,dt
+Sherpur-3,Islami Andolan Bangladesh,Md. Shariful Islam,,,7,126,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-1,JaPa,Abu Md. Musa Sarkar,,,7,143,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-1,CPB,Emdadul Haque Millat,,,7,143,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-1,BNP,Md. Abu Wahab Akand Wahid,,,7,143,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-1,Islami Andolan Bangladesh,Md. Nasir Uddin,,,7,143,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-1,Ganosamhati Andolon (Saki),Mostafizur Rahman,,,7,143,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-1,Jamaat,Mohammad Kamrul Ahsan,,,7,143,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-2,Islami Andolan Bangladesh,Mohammad Sirajul Islam,,,7,174,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-2,Jamaat,Md. Matiur Rahman Akand,,,7,174,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-2,AB Party,Md. Rafiqul Islam,,,7,174,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-2,BNP,Mohammad Zakir Hossain,,,7,174,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-2,Ganosamhati Andolon (Saki),Mohammad Nazrul Islam,,,7,174,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-3,BNP,Md. Akhtarul Alam,,,7,92,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-3,Jamaat,Md. Kamrul Hasan,,,7,92,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-3,Islami Andolan Bangladesh,Md. Nure Alam Siddique,,,7,92,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-4,BNP,Dr. Md. Mahabubur Rahman,,,7,177,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-4,Jamaat,Md. Asaduzzaman,,,7,177,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-4,Islami Andolan Bangladesh,Md. Ibrahim Khalilullah,,,7,177,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-4,JaPa,Md. Jahirul Islam,,,7,177,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-5,JaPa,Fakhrul Imam,,,7,104,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-5,BNP,Lutfullah-el-Mazed,,,7,104,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-5,Islami Andolan Bangladesh,Shah Nurul Kabir,,,7,104,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-6,BNP,Yaser Khan Chowdhury,,,7,121,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-6,Gano Forum,Md. Latiful Bari (Hamim),,,7,121,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-6,Islami Andolan Bangladesh,Md. Saeedur Rahman,,,7,121,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-6,JaPa,Hasmat Mahmud,,,7,121,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-7,Ganosamhati Andolon (Saki),A. K. M. Shamsul Alam,,,7,120,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-7,JaPa,Md. Al Amin (Sohan),,,7,120,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-7,Jamaat,Md. Ismail,,,7,120,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-7,CPB,Md. Saifus Salehin,,,7,120,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-7,Islami Andolan Bangladesh,Md. Habibullah Belali,,,7,120,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-7,BNP,Mohammad Akhtaruzzaman,,,7,120,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-8,NCP,Zahidul Islam,,,7,92,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-8,BNP,Fakhr Uddin Ahmed,,,7,92,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-8,Islami Andolan Bangladesh,Md. Mostafa Kamal,,,7,92,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-9,Bangladesh Khelafat Majlish,Golam Rabbani,,,7,121,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-9,BNP,Barrister Kaiser Kamal,,,7,121,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-9,JaPa,Md. Anwar Hossain Khan,,,7,121,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-9,Islami Andolan Bangladesh,Md. Abdul Mannan (Sohag),,,7,121,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-9,CPB,Md. Alkas Uddin Mir,,,7,121,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-10,Islami Andolan Bangladesh,Abdul Qayyum,,,7,111,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-10,JaPa,A. B. M. Rafiqul Haque Talukder,,,7,111,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-10,BNP,Md. Anwarul Haque,,,7,111,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-10,NCP,Md. Fahim Rahman Khan Pathan,,,7,111,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-11,JaPa,Md. Abul Hossain Talukder,,,7,105,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-11,Jamaat,Md. Khairul Kabir Niyogi,,,7,105,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-11,Islami Andolan Bangladesh,Md. Zakir Hossain,,,7,105,2026-02-12 15:56:06.220455+00:00,dt
+Mymensingh-11,BNP,Rafiqul Islam Hilali,,,7,105,2026-02-12 15:56:06.220455+00:00,dt
+Netrokona-1,CPB,Jolly Talukder,,,7,124,2026-02-12 15:56:06.220455+00:00,dt
+Netrokona-1,Jamaat,Md. Al-Helal,,,7,124,2026-02-12 15:56:06.220455+00:00,dt
+Netrokona-1,Islami Andolan Bangladesh,Md. Mokhlesur Rahman,,,7,124,2026-02-12 15:56:06.220455+00:00,dt
+Netrokona-1,BNP,Md. Lutfuzzaman Babar,,,7,124,2026-02-12 15:56:06.220455+00:00,dt
+Netrokona-2,Jamaat,Masum Mustafa,,,7,172,2026-02-12 15:56:06.220455+00:00,dt
+Netrokona-2,BNP,Md. Abu Taher Talukder,,,7,172,2026-02-12 15:56:06.220455+00:00,dt
+Netrokona-2,Islami Andolan Bangladesh,Md. Nurul Islam,,,7,172,2026-02-12 15:56:06.220455+00:00,dt
+Netrokona-3,Jamaat,A. K. M. Aminul Islam,,,7,149,2026-02-12 15:56:06.220455+00:00,dt
+Netrokona-3,BNP,M. A. Hannan,,,7,149,2026-02-12 15:56:06.220455+00:00,dt
+Netrokona-3,JaPa,Md. Shah Alam,,,7,149,2026-02-12 15:56:06.220455+00:00,dt
+Netrokona-3,Islami Andolan Bangladesh,Hussain Ahmed,,,7,149,2026-02-12 15:56:06.220455+00:00,dt
+Netrokona-4,NCP,Ashraf Uddin,,,7,147,2026-02-12 15:56:06.220455+00:00,dt
+Netrokona-4,JaPa,Adv. Md. Ziaul Haque Mridha,,,7,147,2026-02-12 15:56:06.220455+00:00,dt
+Netrokona-4,Islami Andolan Bangladesh,Nesar Ahmad,,,7,147,2026-02-12 15:56:06.220455+00:00,dt
+Netrokona-4,Jamiat Ulema-e-Islam Bangladesh,Mohammad Junayed Al Habib,,,7,147,2026-02-12 15:56:06.220455+00:00,dt
+Netrokona-5,NCP,Ataullah,,,7,81,2026-02-12 15:56:06.220455+00:00,dt
+Netrokona-5,Islami Andolan Bangladesh,Niazul Karim,,,7,81,2026-02-12 15:56:06.220455+00:00,dt
+Netrokona-5,BNP,Md. Khaled Hossain Mahbub,,,7,81,2026-02-12 15:56:06.220455+00:00,dt
+Netrokona-5,JaPa,Md. Rezaul Islam Bhuiyan,,,7,81,2026-02-12 15:56:06.220455+00:00,dt
+Sunamganj-1,JaPa,Abdur Rab Chowdhury,,,8,168,2026-02-12 15:56:06.220455+00:00,dt
+Sunamganj-1,Jamaat,Mahmudul Hasan,,,8,168,2026-02-12 15:56:06.220455+00:00,dt
+Sunamganj-1,JaPa,Md. Rezaul Mostafa,,,8,168,2026-02-12 15:56:06.220455+00:00,dt
+Sunamganj-1,BNP,Sarwar Jamal Nizam,,,8,168,2026-02-12 15:56:06.220455+00:00,dt
+Sunamganj-2,BNP,Alhaj Jasim Uddin Ahmed,,,8,111,2026-02-12 15:56:06.220455+00:00,dt
+Sunamganj-2,JaPa,H. M. Iliyas,,,8,111,2026-02-12 15:56:06.220455+00:00,dt
+Sunamganj-2,Islami Andolan Bangladesh,Mohammad Abdul Hamid,,,8,111,2026-02-12 15:56:06.220455+00:00,dt
+Sunamganj-2,JaPa,Mohammad Badsha Mia,,,8,111,2026-02-12 15:56:06.220455+00:00,dt
+Sunamganj-2,JaPa,Mohammad Mizanul Haque Chowdhury,,,8,111,2026-02-12 15:56:06.220455+00:00,dt
+Sunamganj-2,JaPa,Shafiqul Islam Rahi,,,8,111,2026-02-12 15:56:06.220455+00:00,dt
+Sunamganj-3,BNP,Nazmul Mostafa Amin,,,8,145,2026-02-12 15:56:06.220455+00:00,dt
+Sunamganj-3,Islami Andolan Bangladesh,Shariful Alam Chowdhury,,,8,145,2026-02-12 15:56:06.220455+00:00,dt
+Sunamganj-3,Jamaat,Shahjahan Chowdhury,,,8,145,2026-02-12 15:56:06.220455+00:00,dt
+Sunamganj-4,BNP,Mishkatul Islam Chowdhury,,,8,112,2026-02-12 15:56:06.220455+00:00,dt
+Sunamganj-4,Jamaat,Mohammad Jahirul Islam,,,8,112,2026-02-12 15:56:06.220455+00:00,dt
+Sunamganj-4,JaPa,Mohammad Liaqat Ali,,,8,112,2026-02-12 15:56:06.220455+00:00,dt
+Sunamganj-4,Islami Andolan Bangladesh,Hafez Ruhullah,,,8,112,2026-02-12 15:56:06.220455+00:00,dt
+Sunamganj-5,Jamaat,Abdullah Al Faruq,,,8,164,2026-02-12 15:56:06.220455+00:00,dt
+Sunamganj-5,Islami Andolan Bangladesh,Md. Sarwar Alam Kutubi,,,8,164,2026-02-12 15:56:06.220455+00:00,dt
+Sunamganj-5,BNP,Salahuddin Ahmed,,,8,164,2026-02-12 15:56:06.220455+00:00,dt
+Sylhet-1,BNP,Alamgir Muhammad Mahfuz Ullah Farid,,,8,215,2026-02-12 15:56:06.220455+00:00,dt
+Sylhet-1,Jamaat,A. H. M. Hamidur Rahman Azad,,,8,215,2026-02-12 15:56:06.220455+00:00,dt
+Sylhet-1,Islami Andolan Bangladesh,Ziaul Haque,,,8,215,2026-02-12 15:56:06.220455+00:00,dt
+Sylhet-1,JaPa,Md. Mahmudul Karim,,,8,215,2026-02-12 15:56:06.220455+00:00,dt
+Sylhet-2,Islami Andolan Bangladesh,Amirul Islam,,,8,128,2026-02-12 15:56:06.220455+00:00,dt
+Sylhet-2,JaPa,Jagadish Barua,,,8,128,2026-02-12 15:56:06.220455+00:00,dt
+Sylhet-2,BNP,Lutfur Rahman,,,8,128,2026-02-12 15:56:06.220455+00:00,dt
+Sylhet-2,Jamaat,Shahidul Alam (Bahadur),,,8,128,2026-02-12 15:56:06.220455+00:00,dt
+Sylhet-3,Jamaat,Nur Ahmed Anwari,,,8,151,2026-02-12 15:56:06.220455+00:00,dt
+Sylhet-3,Islami Andolan Bangladesh,Nurul Haque,,,8,151,2026-02-12 15:56:06.220455+00:00,dt
+Sylhet-3,BNP,Shahjahan Chowdhury,,,8,151,2026-02-12 15:56:06.220455+00:00,dt
+Sylhet-4,BNP,Abdul Wadud Bhuiyan,,,8,169,2026-02-12 15:56:06.220455+00:00,dt
+Sylhet-4,JaPa,Ushyepru Marma,,,8,169,2026-02-12 15:56:06.220455+00:00,dt
+Sylhet-4,JaPa,Jiruna Tripura,,,8,169,2026-02-12 15:56:06.220455+00:00,dt
+Sylhet-4,JaPa,Dharma Jyoti Chakma,,,8,169,2026-02-12 15:56:06.220455+00:00,dt
+Sylhet-4,JaPa,Mithila Roaza,,,8,169,2026-02-12 15:56:06.220455+00:00,dt
+Sylhet-4,Jamaat,Md. Yakub Ali,,,8,169,2026-02-12 15:56:06.220455+00:00,dt
+Sylhet-4,Islami Andolan Bangladesh,Md. Kawsar,,,8,169,2026-02-12 15:56:06.220455+00:00,dt
+Sylhet-4,JaPa,Md. Nur Islam,,,8,169,2026-02-12 15:56:06.220455+00:00,dt
+Sylhet-4,JaPa,Samiran Dewan,,,8,169,2026-02-12 15:56:06.220455+00:00,dt
+Sylhet-5,BNP,Dipen Dewan,3746,4,8,158,2026-02-12 15:56:06.220455+00:00,dt
+Sylhet-5,Bangladesh Khelafat Majlish,Muhammad Abu Bakar Siddique,12,4,8,158,2026-02-12 15:56:06.220455+00:00,dt
+Sylhet-5,JaPa,Ashok Talukder,,4,8,158,2026-02-12 15:56:06.220455+00:00,dt
+Sylhet-5,Islami Andolan Bangladesh,Md. Jasim Uddin,,4,8,158,2026-02-12 15:56:06.220455+00:00,dt
+Sylhet-6,BNP,Saching Pru,6713,9,8,192,2026-02-12 15:56:06.220455+00:00,dt
+Sylhet-6,NCP,Abu Sayeed Md. Suja Uddin,1203,9,8,192,2026-02-12 15:56:06.220455+00:00,dt
+Sylhet-6,JaPa,Abu Zafar Mohammad Waliullah,,9,8,192,2026-02-12 15:56:06.220455+00:00,dt
+Sylhet-6,Islami Andolan Bangladesh,Md. Abul Kalam Azad,,9,8,192,2026-02-12 15:56:06.220455+00:00,dt
+Moulvibazar-1,CPB,Abdur Rahman,,,8,112,2026-02-12 15:56:06.220455+00:00,dt
+Moulvibazar-1,Jamaat,A. K. M. Fakhruddin Razi,,,8,112,2026-02-12 15:56:06.220455+00:00,dt
+Moulvibazar-1,Islami Andolan Bangladesh,Md. Atiqur Rahman Khan,,,8,112,2026-02-12 15:56:06.220455+00:00,dt
+Moulvibazar-1,BNP,Md. Abdullah,,,8,112,2026-02-12 15:56:06.220455+00:00,dt
+Moulvibazar-2,BNP,Abdus Salam Azad,,,8,103,2026-02-12 15:56:06.220455+00:00,dt
+Moulvibazar-2,Islami Andolan Bangladesh,K. M. Billal,,,8,103,2026-02-12 15:56:06.220455+00:00,dt
+Moulvibazar-2,NCP,Majedul Islam,,,8,103,2026-02-12 15:56:06.220455+00:00,dt
+Moulvibazar-2,JaPa,Md. Noman Mia,,,8,103,2026-02-12 15:56:06.220455+00:00,dt
+Moulvibazar-3,Bangladesh Khelafat Majlish,Noor Hossain Noorani,,,8,174,2026-02-12 15:56:06.220455+00:00,dt
+Moulvibazar-3,JaPa,Md. Arifuzzaman (Didar),,,8,174,2026-02-12 15:56:06.220455+00:00,dt
+Moulvibazar-3,BNP,Md. Kamruzzaman,,,8,174,2026-02-12 15:56:06.220455+00:00,dt
+Moulvibazar-3,CPB,Sheikh Md. Kamal Hossain,,,8,174,2026-02-12 15:56:06.220455+00:00,dt
+Moulvibazar-3,Islami Andolan Bangladesh,Suman Dewan,,,8,174,2026-02-12 15:56:06.220455+00:00,dt
+Moulvibazar-4,BNP,Khandaker Abu Ashfaq,5689,8,8,160,2026-02-12 15:56:06.220455+00:00,dt
+Moulvibazar-4,Jamaat,Mohammad Nazrul Islam,5599,8,8,160,2026-02-12 15:56:06.220455+00:00,dt
+Moulvibazar-4,Islami Andolan Bangladesh,Nurul Islam,,8,8,160,2026-02-12 15:56:06.220455+00:00,dt
+Moulvibazar-4,JaPa,Md. Nasir Uddin Molla,,8,8,160,2026-02-12 15:56:06.220455+00:00,dt
+Habiganj-1,Jamaat,Md. Abdul Haque,,,8,177,2026-02-12 15:56:06.220455+00:00,dt
+Habiganj-1,BNP,Md. Amanullah Aman,,,8,177,2026-02-12 15:56:06.220455+00:00,dt
+Habiganj-1,Islami Andolan Bangladesh,Md. Jahirul Islam,,,8,177,2026-02-12 15:56:06.220455+00:00,dt
+Habiganj-2,BNP,Gayeshwar Chandra Roy,,,8,150,2026-02-12 15:56:06.220455+00:00,dt
+Habiganj-2,Gano Forum,Muhammad Rawshan Yazdani,,,8,150,2026-02-12 15:56:06.220455+00:00,dt
+Habiganj-2,JaPa,Md. Faruk,,,8,150,2026-02-12 15:56:06.220455+00:00,dt
+Habiganj-2,Ganosamhati Andolon (Saki),Md. Bacchu Bhuiyan,,,8,150,2026-02-12 15:56:06.220455+00:00,dt
+Habiganj-2,Jamaat,Md. Shahinur Islam,,,8,150,2026-02-12 15:56:06.220455+00:00,dt
+Habiganj-2,Islami Andolan Bangladesh,Md. Sultan Ahmad Khan,,,8,150,2026-02-12 15:56:06.220455+00:00,dt
+Habiganj-3,BNP,Tanvir Ahmed,,,8,131,2026-02-12 15:56:06.220455+00:00,dt
+Habiganj-3,CPB,Mohammad Firoz Alam,,,8,131,2026-02-12 15:56:06.220455+00:00,dt
+Habiganj-3,Jamaat,Syed Zainul Abedin,,,8,131,2026-02-12 15:56:06.220455+00:00,dt
+Habiganj-3,Islami Andolan Bangladesh,Syed Md. Mosaddeq Billah,,,8,131,2026-02-12 15:56:06.220455+00:00,dt
+Habiganj-4,CPB,Tofazzal Hossain Mostafa,,,8,177,2026-02-12 15:56:06.220455+00:00,dt
+Habiganj-4,Islami Andolan Bangladesh,Md. Ibrahim,,,8,177,2026-02-12 15:56:06.220455+00:00,dt
+Habiganj-4,BNP,Md. Nabi Ullah,,,8,177,2026-02-12 15:56:06.220455+00:00,dt
+Habiganj-4,Jamaat,Mohammad Kamal Hossain,,,8,177,2026-02-12 15:56:06.220455+00:00,dt

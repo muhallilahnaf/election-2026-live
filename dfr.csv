@@ -1,0 +1,574 @@
+,id,name,image,league,logo,party_id,seat_id,el_status,vote,center
+0,921,Md. Enamul Haque,1770219451.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,44,,14796,13
+1,923,Md. Shamsuzzoha Khan,1770219513.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,44,,12850,13
+2,922,Md. Matibul Islam,1770845398.,Amar Bangladesh Party (AB Party),1769855528.jpg,66,44,,,13
+3,924,Abdullah Al-Mamun Saikat,1770845411.,Bangladesh Nationalist Front (BNF),1703159369.png,9,45,,,
+4,925,Kalipada Sarkar,1770845420.,Bangladesh Socialist Party (BASAD),1769854432.png,48,45,,,
+5,926,Nasir Bin Asgar,1770845425.,Islami Andolon Bangladesh,1769852567.png,37,45,,,
+6,927,Parvez Arefin Siddiqui,1770845432.,Independent,1704551148.jpg,32,45,,,
+7,928,Md. Fazle Huda,1770220750.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,45,,,
+8,929,Md. Masud Rana,1770845438.,Jatiya Party (JaPa),1702196200.png,5,45,,,
+9,930,Md. Mahfuzur Rahman,1770845443.,Bangladesh Jamaat-e-Islami,1769852416.png,36,45,,,
+10,931,Md. Saddam Hossain,1770845486.,Independent,1704551148.jpg,32,45,,,
+11,932,Ikramul Bari Tipu,1770220836.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,46,,63662,53
+12,934,Md. Abdur Rakib,1770845502.,Bangladesh Jamaat-e-Islami,1769852416.png,36,46,,40685,53
+13,933,Dr. S. M. Fazlur Rahman,1770845497.,Communist Party of Bangladesh,1770214086.png,47,46,,,53
+14,935,Md. Altaf Hossain,1770845512.,Jatiya Party (JaPa),1702196200.png,5,46,,,53
+15,936,Mosammat Arfana Begum,1770845519.,Independent,1704551148.jpg,32,46,,,53
+16,937,Sohrab Hossain,1770845527.,Islami Andolon Bangladesh,1769852567.png,37,46,,,53
+17,941,Md. Zahidul Islam Dhalu,1770221024.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,47,,36971,30
+18,938,Abu Sadat Md. Sayem,1770220956.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,47,,24885,30
+19,939,Md. Anwar Hossain,1770845538.,Jatiya Party (JaPa),1702196200.png,5,47,,,30
+20,940,Md. Abdur Rahman,1770845544.,Islami Andolon Bangladesh,1769852567.png,37,47,,,30
+21,942,Shafiqul Islam,1770845555.,Communist Party of Bangladesh,1770214086.png,47,47,,,30
+22,947,Sheikh Md. Rezaul Islam,1770221177.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,48,,25541,27
+23,945,Md. Khabirul Islam,1770845578.,Bangladesh Jamaat-e-Islami,1769852416.png,36,48,,23664,27
+24,943,Atikur Rahman Ratan Molla,1770845567.,Bangladesh Republican Party (BRP),1769855675.jpg,70,48,,,27
+25,944,Alamgir Kabir,1770845572.,Independent,1704551148.jpg,32,48,,,27
+26,946,Md. Rafiqul Islam,1770845584.,Islami Andolon Bangladesh,1769852567.png,37,48,,,27
+27,1777,Md. Mujibur Rahman,1770825440.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,49,,18336,14
+28,1778,Md. Sharif Uddin,1770440951.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,49,,10113,14
+29,1774,Mir Md. Shahjahan,1770825353.jpg,Gono Odhikar Parishad (GOP),1770210478.jpeg,39,49,,,14
+30,1775,Md. Abdur Rahman,1770825382.jpg,Amar Bangladesh Party (AB Party),1769855528.jpg,66,49,,,14
+31,1776,Md. Al-Saad,1770825413.jpg,Independent,1704551148.jpg,32,49,,,14
+32,1780,Md. Mizanur Rahman Minu,1770441002.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,50,,15144,14
+33,1782,Mohammad Jahangir,1770825557.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,50,,11013,14
+34,1779,Md. Saeed Noman,1770825509.jpg,Amar Bangladesh Party (AB Party),1769855528.jpg,66,50,,,14
+35,1781,Md. Mezbaul Islam,1770825535.jpg,Bangladesh Labour Party,1770206037.jpg,114,50,,,14
+36,1783,Mohammad Samsul Alam,1770825579.jpg,Nagorik Oikya,1769855423.png,64,50,,,14
+37,1784,Saleh Ahmed,1770825603.jpg,Independent,1704551148.jpg,32,50,,,14
+38,1790,Mohammad Shafiqul Haque Milon,1770441184.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,51,,23015,19
+39,1786,Md. Abul Kalam Azad,1770825694.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,51,,14510,19
+40,1785,Md. Afzal Hossain,1770825659.jpg,Jatiya Party (JaPa),1702196200.png,5,51,,,19
+41,1787,Md. Fazlur Rahman,1770825719.jpg,Islami Andolon Bangladesh,1769852567.png,37,51,,,19
+42,1788,Md. Said Parvez,1770825751.jpg,Am Janata Party,1769853544.jpg,41,51,,,19
+43,1789,Mosammat Habiba Begum,1770825770.jpg,Independent,1704551148.jpg,32,51,,,19
+44,1792,Md. Abdul Bari Sardar,1770825834.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,52,,43295,40
+45,1791,D. M. D. Ziaur Rahman,1770441218.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,52,,40655,40
+46,1793,Md. Tajul Islam Khan,1770825856.jpg,Islami Andolon Bangladesh,1769852567.png,37,52,,,40
+47,1794,Md. Fazlul Haque,1770825978.jpg,Jatiya Party (JaPa),1702196200.png,5,52,,,40
+48,1795,Professor Nazrul Islam,1770441290.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,53,,14869,13
+49,1796,Manjur Rahman,1770826075.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,53,,5372,13
+50,1797,Md. Altaf Hossain Molla,1770826099.jpg,Bangladesh Supreme Party (BSP),1769857390.jpg,78,53,,,13
+51,1798,Md. Isfa Khairul Haque,1770826136.jpg,Independent,1704551148.jpg,32,53,,,13
+52,1799,Md. Raihan Kawsar,1770826161.jpg,Independent,1704551148.jpg,32,53,,,13
+53,1800,Md. Ruhul Amin,1770826187.jpg,Islami Andolon Bangladesh,1769852567.png,37,53,,,13
+54,1801,Rezaul Karim,1770826211.jpg,Independent,1704551148.jpg,32,53,,,13
+55,1802,Md. Abu Sayeed Chand,1770441403.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,54,,6227,5
+56,1805,Md. Nazmul Haque,1770826302.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,54,,3393,5
+57,1803,Md. Abdus Salam Suruj,1770826262.jpg,Islami Andolon Bangladesh,1769852567.png,37,54,,,5
+58,1804,Md. Iqbal Hossain,1770826284.jpg,Jatiya Party (JaPa),1702196200.png,5,54,,,5
+59,1007,Md. Abul Kalam Azad,1770821907.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,55,,910,1
+60,1005,Farzana Sharmin,1770380179.webp,Bangladesh Nationalist Party (BNP),1769852771.webp,38,55,,398,1
+61,1006,Md. Ansar Ali,1770821878.jpg,Revolutionary Workers Party of Bangladesh,1769856467.jpg,85,55,,,1
+62,1008,Md. Abdullahil Baki,1770821924.jpg,Islami Andolon Bangladesh,1769852567.png,37,55,,,1
+63,1009,Md. Taiful Islam Tipu,1770821944.jpg,Independent,1704551148.jpg,32,55,,,1
+64,1010,Md. Mehedi Hasan,1770822008.jpg,Gono Odhikar Parishad (GOP),1770210478.jpeg,39,55,,,1
+65,1011,Md. Moyazzem Hossain,1770822033.jpg,Independent,1704551148.jpg,32,55,,,1
+66,1012,Md. Sahed Ali Jinnah,1770822050.jpg,Jatiya Party (JaPa),1702196200.png,5,55,,,1
+67,1013,Md. Sentu Ali,1770822068.jpg,Gonoshonghoti Andolon,1770213041.jpg,90,55,,,1
+68,1014,Mohammad Yasir Arshad,1770822093.jpg,Independent,1704551148.jpg,32,55,,,1
+69,1015,M. Ruhul Quddus Talukder Dulu,1770822153.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,56,,9982,9
+70,1018,Md. Yunus Ali,1770822207.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,56,,9034,9
+71,1016,Dr. Md. Nurnabi Mridha,1770822170.jpg,Independent,1704551148.jpg,32,56,,,9
+72,1017,Tahamida Islam Tania,1770822186.jpg,Gonoshonghoti Andolon,1770213041.jpg,90,56,,,9
+73,1019,Md. Rakib Uddin (Komol),1770822242.jpg,Jatiya Party (JaPa),1702196200.png,5,56,,,9
+74,1020,Mohammad Ali Siddiqui,1770822268.jpg,Islami Andolon Bangladesh,1769852567.png,37,56,,,9
+75,1021,S. M. Zargis Qadir,1770822317.jpg,National Citizen Party (NCP),1770212308.jpg,63,57,,,
+76,1022,Md. Anwarul Islam,1770380576.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,57,,,
+77,1023,Md. Ashiq Iqbal,1770822358.jpg,Jatiya Party (JaPa),1702196200.png,5,57,,,
+78,1024,Md. Khalilur Rahman,1770822378.jpg,Islami Andolon Bangladesh,1769852567.png,37,57,,,
+79,1025,Md. Daudar Mahmud,1770822393.jpg,Independent,1704551148.jpg,32,57,,,
+80,1026,Md. Delowar Hossain,1770822412.jpg,Independent,1704551148.jpg,32,57,,,
+81,1027,M. Yusuf Ahmed,1770822450.jpg,Jatiya Party (JaPa),1702196200.png,5,58,,,
+82,1028,Md. Abdul Aziz,1770380710.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,58,,,
+83,1029,Md. Abdul Hakim,1770822484.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,58,,,
+84,1030,Md. Emdadullah,1770822505.jpg,Islami Andolon Bangladesh,1769852567.png,37,58,,,
+85,1031,Md. Moksedul Momin,1770822522.jpg,Amar Bangladesh Party (AB Party),1769855528.jpg,66,58,,,
+86,1913,Md. Abdus Sabur,1770832422.jpg,Independent,1704551148.jpg,32,59,,,
+87,1914,Mosammat Mallika Khatun,1770832746.jpg,Gono Odhikar Parishad (GOP),1770210478.jpeg,39,59,,,
+88,1915,Md. Jahurul Islam,1770832776.jpg,Jatiya Party (JaPa),1702196200.png,5,59,,,
+89,1916,Md. Nazmus Sakib,1770832798.jpg,Nagorik Oikya,1769855423.png,64,59,,,
+90,1917,Md. Shahinur Alam,1770832822.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,59,,,
+91,1918,Md. Selim Reza,1770443635.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,59,,,
+92,1919,Iqbal Hasan Mahmud,1770443662.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,60,,2618,2
+93,1921,Muhammad Zahidul Islam,1770832897.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,60,,1269,2
+94,1920,S. M. Abdullah Al Mamun,1770832881.jpg,Bangladesh Socialist Party (BASAD),1769854432.png,48,60,,,2
+95,1922,Md. Anwar Hossain,,Communist Party of Bangladesh,1770214086.png,47,60,,,2
+96,1923,Md. Mohibullah,1770832954.jpg,Islami Andolon Bangladesh,1769852567.png,37,60,,,2
+97,1924,Md. Sohel Rana,1770832974.jpg,Janata Party,1769856417.jpg,84,60,,,2
+98,1925,Mohammad Mahfuzur Rahman,1770832995.jpg,Gono Odhikar Parishad (GOP),1770210478.jpeg,39,60,,,2
+99,1926,Md. Abdur Rauf Sarkar,1770833034.jpg,Bangladesh Khelafat Majlish,1769854518.jpg,50,61,,,
+100,1927,Md. Ainul Haque,1770833092.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,61,,,
+101,1928,Md. Ilias Reza Robin,1770833063.jpg,Independent,1704551148.jpg,32,61,,,
+102,1929,Md. Fazlul Haque,1770833113.jpg,Jatiya Party (JaPa),1702196200.png,5,61,,,
+103,1930,Abdur Rahman,1770833157.jpg,Islami Andolon Bangladesh,1769852567.png,37,62,,,
+104,1931,M. Akbar Ali,1770443897.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,62,,,
+105,1932,Md. Abdul Hakim,1770833191.jpg,Communist Party of Bangladesh,1770214086.png,47,62,,,
+106,1933,Md. Rafiqul Islam Khan,1770833340.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,62,,,
+107,1934,Md. Hilton Pramanik,1770833489.jpg,Jatiya Party (JaPa),1702196200.png,5,62,,,
+108,1935,Nurun Nabi,1770833646.jpg,Islami Andolon Bangladesh,1769852567.png,37,63,,,
+109,1936,Md. Akbar Hossain,1770833697.jpg,Jatiya Party (JaPa),1702196200.png,5,63,,,
+110,1937,Md. Amirul Islam Khan,1770444001.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,63,,,
+111,1938,Md. Ali Alam,1770833845.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,63,,,
+112,1939,Md. Yusuf Ali,1770833948.jpg,Gono Odhikar Parishad (GOP),1770210478.jpeg,39,63,,,
+113,1940,Md. Matiar Rahman,1770834324.jpg,Communist Party of Bangladesh,1770214086.png,47,63,,,
+114,1941,Abu Jafar Md. Anwarus Sadat,1770837352.jpg,Amar Bangladesh Party (AB Party),1769855528.jpg,66,64,,,
+115,1942,Ilora Khatun,1770837413.jpg,Jatiya Samajtantrik Dal (JSD),1769855932.png,76,64,,,
+116,1943,M. A. Muhit,1770444104.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,64,,,
+117,1944,S. M. Saif Mostafiz,1770837456.jpg,National Citizen Party (NCP),1770212308.jpg,63,64,,,
+118,1945,Misbah Uddin,1770837495.jpg,Islami Andolon Bangladesh,1769852567.png,37,64,,,
+119,1946,Md. Anwar Hossain,1770832916.jpg,Bangladesh Socialist Party (BASAD),1769854432.png,48,64,,,
+120,1947,Md. Asadul Haque,1770837558.jpg,Am Janata Party,1769853544.jpg,41,64,,,
+121,1948,Md. Wasek Iqbal Khan Majlish,1770837598.jpg,Independent,1704551148.jpg,32,64,,,
+122,1949,Md. Moktar Hossain,1770837614.jpg,Jatiya Party (JaPa),1702196200.png,5,64,,,
+123,1950,Md. Mosharraf Hossain Shahidul,1770837635.jpg,Bangladesh Islami Front,1769855040.png,58,64,,,
+124,1951,Md. Humayun Kabir,1770837653.jpg,Independent,1704551148.jpg,32,64,,,
+125,1215,Md. Abdul Gani,1770813518.jpg,Islami Andolon Bangladesh,1769852567.png,37,65,,,
+126,1216,Md. Tajul Islam,1770813538.jpg,Independent,1704551148.jpg,32,65,,,
+127,1217,Md. Shamsur Rahman,1770813559.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,65,,,
+128,1218,Mohammad Najibur Rahman,1770813585.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,65,,,
+129,1219,A. K. M. Selim Reza Habib,1770390584.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,66,,,
+130,1220,Md. Afzal Hossain Khan Kashemi,1770813624.jpg,Islami Andolon Bangladesh,1769852567.png,37,66,,,
+131,1221,Md. Mehedi Hasan Rubel,1770813645.jpg,Jatiya Party (JaPa),1702196200.png,5,66,,,
+132,1222,Md. Hesab Uddin,1770813670.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,66,,,
+133,1223,Sheikh Nasir Uddin,1770813689.jpg,Gono Forum,1770206382.jpg,115,66,,,
+134,1224,K. M. Anwarul Islam,1770813744.jpg,Independent,1704551148.jpg,32,67,,,
+135,1225,Mir Nadim Mohammad Dablu,1770813783.jpg,Jatiya Party (JaPa),1702196200.png,5,67,,,
+136,1226,Mohammad Ali Asgar,1770813868.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,67,,,
+137,1227,Md. Abdul Khalek,1770813900.jpg,Islami Andolon Bangladesh,1769852567.png,37,67,,,
+138,1228,Md. Mahbubur Rahman Joy Chowdhury,1770813943.jpg,Bangladesh Supreme Party (BSP),1769857390.jpg,78,67,,,
+139,1229,Md. Hasan Zafir Tuhin,1770390813.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,67,,,
+140,1230,Md. Hasanul Islam,1770813963.jpg,Gono Odhikar Parishad (GOP),1770210478.jpeg,39,67,,,
+141,1231,Sardar Asha Parvez,1770813989.jpg,Gono Forum,1770206382.jpg,115,67,,,
+142,1232,Md. Anwar Shah,1770814016.jpg,Islami Andolon Bangladesh,1769852567.png,37,68,,,
+143,1233,Md. Abu Taleb Mondol,1770814039.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,68,,,
+144,1234,Md. Zakaria Pintu,1770814071.jpg,Independent,1704551148.jpg,32,68,,,
+145,1235,Md. Saiful Azad Mallik,1770814101.jpg,Jatiya Party (JaPa),1702196200.png,5,68,,,
+146,1236,Md. Sohag Hossain,1770814125.jpg,Communist Party of Bangladesh,1770214086.png,47,68,,,
+147,1237,Md. Habibur Rahman (Habib),1770390990.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,68,,,
+148,1238,Shahnaz Haque,1770814167.jpg,Nagorik Oikya,1769855423.png,64,68,,,
+149,1240,Md. Iqbal Hossain,1770814221.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,69,,8897,11
+150,1242,Md. Shamsur Rahman Shimul Biswas,1770391085.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,69,,1039,11
+151,1239,Md. Abdul Majid Mollah,1770814200.jpg,Amar Bangladesh Party (AB Party),1769855528.jpg,66,69,,,11
+152,1241,Md. Nazmul Hossain,1770814243.jpg,Islami Andolon Bangladesh,1769852567.png,37,69,,,11
+153,1644,Masud Arun,1770866466.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,70,,,
+154,1645,Md. Abdul Hamid,1770828011.jpg,Jatiya Party (JaPa),1702196200.png,5,70,,,
+155,1646,Md. Tajuddin Khan,1770828036.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,70,,,
+156,1647,Md. Mizanur Rahman,1770828067.jpg,Communist Party of Bangladesh,1770214086.png,47,70,,,
+157,1648,Md. Abdul Baki,1770866574.jpg,Jatiya Party (JaPa),1702196200.png,5,71,,,
+158,1649,Md. Amjad Hossain,1770438465.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,71,,,
+159,1650,Md. Nazmul Huda,1770828102.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,71,,,
+160,185,Reza Ahmed,1770810337.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,72,,10971,10
+161,181,Md. Belal Uddin,1770810247.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,72,,5923,10
+162,178,Dr. Md. Gias Uddin,1770810187. মোঃ গিয়াস উদ্দিন,Jatiya Samajtantrik Dal (JSD),1769855932.png,76,72,,,10
+163,179,Md. Aminul Islam,1770810206.jpg,Islami Andolon Bangladesh,1769852567.png,37,72,,,10
+164,180,Md. Nuruzzaman,1770810225.jpg,Jatiya Party (JaPa),1702196200.png,5,72,,,10
+165,182,Md. Shahabul Islam,1770810268.jpg,Gono Odhikar Parishad (GOP),1770210478.jpeg,39,72,,,10
+166,183,Md. Shahriar Jamil,1770810285.jpg,Jatiya Party (JaPa),1702196200.png,5,72,,,10
+167,184,Md. Badiruzzaman,1770810307.jpg,Bangladesh Islami Front,1769855040.png,58,72,,,10
+168,1180,Nazmul Haque Prodhan,1770812583.jpg,Bangladesh Jatiya Samajtantrik Dal (Bangladesh JASAD),1769855648.png,69,13,,,
+169,1181,Mohammad Nawshad Zamir,1770389290.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,13,,,
+170,1182,Md. Abdul Wadud (Badsha),1770812609.jpg,Bangladesh Supreme Party (BSP),1769857390.jpg,78,13,,,
+171,1183,Md. Ferdous Alam,1770812637.jpg,Bangladesh Labour Party,1770206037.jpg,114,13,,,
+172,1184,Md. Mahafuzar Rahman,1770812665.jpg,Gono Odhikar Parishad (GOP),1770210478.jpeg,39,13,,,
+173,1185,Md. Sarjis Alam,1770389357.jpg,National Citizen Party (NCP),1770212308.jpg,63,13,,,
+174,1186,Md. Sirajul Islam,1770812708.jpg,Bangladesh Nationalist Front (BNF),1703159369.png,9,13,,,
+175,1187,Farhad Hossain Azad,1770389427.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,14,,,
+176,1188,Mahmud Hossain Suman,1770812757.jpg,Independent,1704551148.jpg,32,14,,,
+177,1189,Md. Ashraful Alam,1770812789.jpg,Communist Party of Bangladesh,1770214086.png,47,14,,,
+178,1190,Md. Emran Al Amin,1770812835.jpg,Bangladesh Jatiya Samajtantrik Dal (Bangladesh JASAD),1769855648.png,69,14,,,
+179,1191,Md. Kamrul Hasan Prodhan,1770812858.jpg,Islami Andolon Bangladesh,1769852567.png,37,14,,,
+180,1192,Md. Delwar Hossain,1770812876.jpg,Bangladesh Supreme Party (BSP),1769857390.jpg,78,14,,,
+181,1193,Md. Lutfar Rahman Ripon,1770812904.jpg,Jatiya Party (JaPa),1702196200.png,5,14,,,
+182,1194,Md. Safiul Alam,1770812931.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,14,,,
+183,665,Mirza Fakhrul Islam Alamgir,1770203657.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,15,,2251,2
+184,664,Delwar Hossain,1770844384.,Bangladesh Jamaat-e-Islami,1769852416.png,36,15,,1072,2
+185,666,Md. Khademul Islam,1770844400.,Islami Andolon Bangladesh,1769852567.png,37,15,,,2
+186,667,Nurun Nahar Begum,1770844430.,Jatiya Party (JaPa),1702196200.png,5,16,,,
+187,668,Md. Abdul Hakim,1770844436.,Bangladesh Jamaat-e-Islami,1769852416.png,36,16,,,
+188,669,Md. Abdus Salam,1770203755.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,16,,,
+189,670,Md. Nahid-Rana,1770844446.,Amar Bangladesh Party (AB Party),1769855528.jpg,66,16,,,
+190,671,Md. Faruk Hossain,1770844452.,Gono Odhikar Parishad (GOP),1770210478.jpeg,39,16,,,
+191,672,Md. Rezaul Karim,1770844458.,Islami Andolon Bangladesh,1769852567.png,37,16,,,
+192,673,Sahabuddin Ahmed,1770844465.,Communist Party of Bangladesh,1770214086.png,47,16,,,
+193,674,S. M. Khalilur Rahman Sarkar,1770844481.,Bangladesh Muslim League,1769855087.png,59,17,,,
+194,675,Kamala Kanta Roy,1770844486.jfif,Bangladesh Minority People’s Party (BMJP),1770204028.jpg,113,17,,,
+195,676,Prabhat Samir Shahjahan Alam,1770844496.jfif,Communist Party of Bangladesh,1770214086.png,47,17,,,
+196,677,Md. Abul Kalam Azad,1770844507.,Bangladesh Supreme Party (BSP),1769857390.jpg,78,17,,,
+197,678,Md. Al Amin,1770844514.jfif,Islami Andolon Bangladesh,1769852567.png,37,17,,,
+198,679,Mosammat Asha Moni,1770844520.,Independent,1704551148.jpg,32,17,,,
+199,680,Md. Zahidur Rahman,1770204149.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,17,,,
+200,681,Md. Mamunur Rashid Mamun,1770844527.,Gono Odhikar Parishad (GOP),1770210478.jpeg,39,17,,,
+201,682,Md. Mizanur Rahman,1770844537.,Bangladesh Jamaat-e-Islami,1769852416.png,36,17,,,
+202,683,Hafiz Uddin Ahmed,1770844553.jfif,Jatiya Party (JaPa),1702196200.png,5,17,,,
+203,876,Md. Chan Mia,1770844650.,Islami Andolon Bangladesh,1769852567.png,37,18,,,
+204,877,Md. Matiur Rahman,1770844656.,Bangladesh Jamaat-e-Islami,1769852416.png,36,18,,,
+205,878,Md. Manjurul Islam,1770218448.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,18,,,
+206,879,Md. Rizwanul Islam,1770844661.,Gono Odhikar Parishad (GOP),1770210478.jpeg,39,18,,,
+207,880,Md. Shahinur Islam,1770844669.,Jatiya Party (JaPa),1702196200.png,5,18,,,
+208,881,Raghunath Chandra Roy,1770844677.,Zaker Party,1703163859.jpg,23,18,,,
+209,882,Anwar Chowdhury Jibon,1770844692.,Independent,1704551148.jpg,32,19,,,
+210,883,AKM Afzalul Anam,1770844698.,Bangladesh Jamaat-e-Islami,1769852416.png,36,19,,,
+211,884,Zobayer Sayeed,1770844705.,Bangladesh Khelafat Majlish,1769854518.jpg,50,19,,,
+212,885,Md. Redwanul Karim Rabid,1770844712.,Islami Andolon Bangladesh,1769852567.png,37,19,,,
+213,886,Md. ANM Bazlur Rashid,1770844720.,Independent,1704551148.jpg,32,19,,,
+214,887,Md. Zulfikar Hossain,1770844728.,Jatiya Party (JaPa),1702196200.png,5,19,,,
+215,888,Md. Mokarram Hossain,1770844735.,Bangladesh Muslim League,1769855087.png,59,19,,,
+216,889,Md. Sadik Riyaz,1770218656.webp,Bangladesh Nationalist Party (BNP),1769852771.webp,38,19,,,
+217,890,Amrit Kumar Roy,1770844848.,Communist Party of Bangladesh,1770214086.png,47,20,,,
+218,891,Ahmed Shafi Rubel,1770844853.,Jatiya Party (JaPa),1702196200.png,5,20,,,
+219,892,Kibria Hossain,1770844860.,Bangladesh Socialist Party (BASAD),1769854432.png,48,20,,,
+220,893,Md. Khairuzzaman,1770844865.,Islami Andolon Bangladesh,1769852567.png,37,20,,,
+221,894,Md. Mainul Alam,1770844872.,Bangladesh Jamaat-e-Islami,1769852416.png,36,20,,,
+222,895,Md. Rabiul Islam,1770844884.,Janata Party,1769856417.jpg,84,20,,,
+223,896,Laila Tul Rima,1770844890.,Bangladesh Muslim League,1769855087.png,59,20,,,
+224,897,Syed Jahangir Alam,1770218801.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,20,,,
+225,898,Md. Akhtaruzzaman Mia,1770218836.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,21,,,
+226,899,Md. Anwar Hossain,1770844904.,Islami Andolon Bangladesh,1769852567.png,37,21,,,
+227,900,Md. Aftab Uddin Molla,1770844915.,Bangladesh Jamaat-e-Islami,1769852416.png,36,21,,,
+228,901,Md. Nurul Amin Shah,1770844923.,Jatiya Party (JaPa),1702196200.png,5,21,,,
+229,902,AKM Kamruzzaman,1770218937.webp,Bangladesh Nationalist Party (BNP),1769852771.webp,38,22,,,
+230,903,AZM Rezwanul Haque,1770844939.,Independent,1704551148.jpg,32,22,,,
+231,904,SM Zakaria Bacchu,1770844945.,Independent,1704551148.jpg,32,22,,,
+232,905,Md. Abdul Ahad,1770844952.,National Citizen Party (NCP),1770212308.jpg,63,22,,,
+233,906,Md. Kazi Abdul Gafur,1770844958.,Jatiya Party (JaPa),1702196200.png,5,22,,,
+234,907,Md. Rustam Ali,1770844966.,Independent,1704551148.jpg,32,22,,,
+235,908,Md. Hazrat Ali Belal,1770844972.,Independent,1704551148.jpg,32,22,,,
+236,909,Abu Zafar Md. Zahid Hossain,1770219081.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,23,,,
+237,910,Md. Anwarul Islam,1770844989.,Bangladesh Jamaat-e-Islami,1769852416.png,36,23,,,
+238,911,Md. Abdul Hakim,1770844995.,Bangladesh Socialist Party (BASAD),1769854432.png,48,23,,,
+239,912,Md. Abdullah,1770845004.,Independent,1704551148.jpg,32,23,,,
+240,913,Md. Nur Alam Siddique,1770845012.,Islami Andolon Bangladesh,1769852567.png,37,23,,,
+241,914,Md. Rezaul Haque,1770845019.,Jatiya Party (JaPa),1702196200.png,5,23,,,
+242,915,Md. Shahnewaz Firoz Shuvo Shah,1770845026.,Independent,1704551148.jpg,32,23,,,
+243,1080,Jebel Rahman Gani,1770808155.jpg,Bangladesh National Awami Party (Bangladesh NAP),1769857282.png,100,24,,,
+244,1081,Maulana Md. Manjurul Islam,1770808180.jpg,Jamiat Ulema-e-Islam Bangladesh,1769857247.png,99,24,,,
+245,1082,Md. Abdul Jalil,1770808209.jpg,Islami Andolon Bangladesh,1769852567.png,37,24,,,
+246,1083,Md. Abdus Sattar,1770808233.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,24,,,
+247,1084,Md. Taslim Uddin,1770808253.jpg,Jatiya Party (JaPa),1702196200.png,5,24,,,
+248,1085,Md. Makhdum Azam Mashrafi,1770808274.jpg,Jatiya Party (JP),1769856887.png,94,24,,,
+249,1086,Md. Rafiqul Islam,1770808297.jpg,Bangladesh Socialist Party (Marxist),1769853841.jpg,44,24,,,
+250,1087,Md. Sirajul Islam,1770808320.jpg,Bangladesh Nationalist Front (BNF),1703159369.png,9,24,,,
+251,1088,Al-Faruk Abdul Latif,1770808363.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,25,,,
+252,1089,Md. Minhajul Islam Minhaj,1770808388.jpg,Independent,1704551148.jpg,32,25,,,
+253,1090,Md. Sarwarul Alam,1770808484.jpg,Khelafat Majlish,1769853908.png,45,25,,,
+254,1091,Md. Sirajul Islam,,Bangladesh Nationalist Front (BNF),1703159369.png,9,25,,,
+255,1092,Shaharin Islam,1770382295.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,25,,,
+256,1093,Hasibul Islam,,Islami Andolon Bangladesh,1769852567.png,37,25,,,
+257,1094,Alhaj Syed Ali,1770382361.webp,Bangladesh Nationalist Party (BNP),1769852771.webp,38,26,,,
+258,1095,Obaidullah Salafi,1770808692.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,26,,,
+259,1096,Md. Amzad Hossain (Sarkar),1770808731.jpg,Islami Andolon Bangladesh,1769852567.png,37,26,,,
+260,1097,Md. Rohan Chowdhury,1770808766.jpg,Jatiya Party (JaPa),1702196200.png,5,26,,,
+261,1098,Abdul Muntakim,1770808823.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,27,,,
+262,1099,S. M. Mamunur Rashid,1770808858.jpg,Independent,1704551148.jpg,32,27,,,
+263,1100,Zobaidur Rahman (Hira),1770808891.jpg,Independent,1704551148.jpg,32,27,,,
+264,1101,Mirza Md. Shawkat Akbar (Rowshan),1770808934.jpg,Bangladesh Jatiya Party,1770213853.png,65,27,,,
+265,1102,Md. Abdul Gafur Sarkar,1770382501.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,27,,,
+266,1103,Md. Maidul Islam,1770808961.jpg,Bangladesh Socialist Party (Marxist),1769853841.jpg,44,27,,,
+267,1104,Md. Riyad Arfan Sarkar,1770808982.jpg,Independent,1704551148.jpg,32,27,,,
+268,1105,Md. Shahidul Islam,1770809015.jpg,Islami Andolon Bangladesh,1769852567.png,37,27,,,
+269,1106,Md. Siddiqul Alam,1770809057.jpg,Jatiya Party (JaPa),1702196200.png,5,27,,,
+270,1835,Abu Sama Md. Redwanul Haque,1770828193.jpg,Independent,1704551148.jpg,32,28,,,
+271,1836,Muhammad Fazlul Karim Shaharia,1770828211.jpg,Islami Andolon Bangladesh,1769852567.png,37,28,,,
+272,1837,Md. Anwarul Islam Raju,1770828229.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,28,,,
+273,1838,Md. Moshiur Rahman Ranga,1770828257.jpg,Jatiya Party (JaPa),1702196200.png,5,28,,,
+274,1839,Md. Rezaul Karim Sarkar,1770828282.jpg,Independent,1704551148.jpg,32,28,,,
+275,1840,Md. Shubho Ahmed,1770828300.jpg,Bangladesh Labour Party,1770206037.jpg,114,28,,,
+276,1841,Md. Hasan Rajib Pradhan,1770442103.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,28,,,
+277,1842,Shihab Ahmed,1770828331.jpg,Independent,1704551148.jpg,32,28,,,
+278,1843,Habib Md. Faruk,1770828352.jpg,Bangladesh Jatiya Samajtantrik Dal (Bangladesh JASAD),1769855648.png,69,28,,,
+279,1844,Nimai Chandra Roy,1770828435.jpg,Communist Party of Bangladesh,1770214086.png,47,29,,,
+280,1845,Md. Elahan Uddin,1770828459.jpg,Jatiya Party (JaPa),1702196200.png,5,29,,,
+281,1846,Md. Firoz Haider,1770828542.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,29,,,
+282,1847,Md. Momtaz Ali,1770828564.jpg,Independent,1704551148.jpg,32,29,,,
+283,1848,Md. Mahfuzur Rahman,1770828592.jpg,Islami Andolon Bangladesh,1769852567.png,37,29,,,
+284,1849,Md. Rokon Uddin Babul,1770442296.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,29,,,
+285,1850,Md. Shamim Kamal,1770828616.jpg,Janata Party,1769856417.jpg,84,29,,,
+286,1851,Asadul Habib Dulu,1770442337.webp,Bangladesh Nationalist Party (BNP),1769852771.webp,38,30,,,
+287,1852,Dipak Kumar Roy,1770828670.jpg,Gonoshonghoti Andolon,1770213041.jpg,90,30,,,
+288,1853,Madhu Sudan Roy,1770828710.jpg,Communist Party of Bangladesh,1770214086.png,47,30,,,
+289,1854,Md. Abu Taher,1770828777.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,30,,,
+290,1855,Md. Aminul Islam,1770828805.jpg,Islami Andolon Bangladesh,1769852567.png,37,30,,,
+291,1856,Md. Zahid Hasan,1770828827.jpg,Jatiya Party (JaPa),1702196200.png,5,30,,,
+292,539,Md. Fazlur Rahman Saeed,1770843455.,Bangladesh Jamaat-e-Islami,1769852416.png,36,31,,1410,1
+293,540,Md. Masud Rana Pradhan,1769958942.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,31,,854,1
+294,537,Taufika Dewan,1770843446.,Bangladesh Socialist Party (Marxist),1769853841.jpg,44,31,,,1
+295,538,Md. Wazed Parvez,1770843451.,Bangladesh Socialist Party (BASAD),1769854432.png,48,31,,,1
+296,541,Sabekun Nahar,1770843472.,Jatiya Party (JaPa),1702196200.png,5,31,,,1
+297,544,Md. Abdul Bari,1769959040.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,32,,15316,11
+298,543,S. M. Rashedul Alam,1770843522.,Bangladesh Jamaat-e-Islami,1769852416.png,36,32,,10445,11
+299,542,S. A. Zahid,1770843518.,Amar Bangladesh Party (AB Party),1769855528.jpg,66,32,,,11
+300,1313,A. B. M. Mostafa Kamal Pasha,,Islami Andolon Bangladesh,1769852567.png,37,33,,,
+301,1314,Kazi Rafiqul Islam,1770430686.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,33,,,
+302,1315,Md. Asadul Haque,1770816875.jpg,Bangladesh Congress,1703160912.jpg,14,33,,,
+303,1316,Md. Zulfikar Ali,1770816899.jpg,Gono Forum,1770206382.jpg,115,33,,,
+304,1317,Md. Shahabuddin,1770816916.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,33,,,
+305,563,Md. Ali Akbar,1770849104.jpg,Islami Andolon Bangladesh,1769852567.png,37,138,,,
+306,564,Md. Iqbal Hossain,1770849134.jfif,Gono Odhikar Parishad (GOP),1770210478.jpeg,39,138,,,
+307,565,Md. Kabir Hasan,1770849214.jpg,Nagorik Oikya,1769855423.png,64,138,,,
+308,566,Md. Faridul Kabir Talukdar,1770134771.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,138,,,
+309,567,Md. Mahbub Zaman Jewel,1770849246.jpg,Communist Party of Bangladesh,1770214086.png,47,138,,,
+310,568,Mohammad Abdul Awal,1770849267.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,138,,,
+311,569,Abu Sayeem Mohammad Sa’adat-ul Karim,1770849307.jpg,Bangladesh Congress,1703160912.jpg,14,139,,,
+312,570,Zakir Hossain,1770849431.jpg,Gono Odhikar Parishad (GOP),1770210478.jpeg,39,139,,,
+313,571,Muhammad Abdus Sattar,1770849462.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,139,,,
+314,572,Md. Amir Uddin,1770849499.jpg,Jatiya Samajtantrik Dal (JSD),1769855932.png,76,139,,,
+315,573,Md. Babar Ali Khan,1770849522.jpg,Jatiya Party (JP),1769856887.png,94,139,,,
+316,574,Shah Md. Waresh Ali Mamun,1770134978.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,139,,,
+317,575,Sheikh Md. Akkas Ali,1770849548.jfif,Communist Party of Bangladesh,1770214086.png,47,139,,,
+318,576,Syed Yunus Ahmed,1770849820.jpg,Islami Andolon Bangladesh,1769852567.png,37,139,,,
+319,1880,Md. Rashedul Islam Rashed,1770830002.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,140,,16823,18
+320,1883,Sansila Zebrin,1770442964.webp,Bangladesh Nationalist Party (BNP),1769852771.webp,38,140,,8234,18
+321,1878,Md. Ilias Uddin,1770829969.jpg,Jatiya Party (JP),1769856887.png,94,140,,,18
+322,1879,Md. Mahmudul Haque Moni,1770829986.jpg,Jatiya Party (JaPa),1702196200.png,5,140,,,18
+323,1881,Md. Likhon Mia,1770830020.jpg,National Citizen Party (NCP),1770212308.jpg,63,140,,,18
+324,1882,Md. Shafiqul Islam Masud,1770830043.jpg,Independent,1704551148.jpg,32,140,,,18
+325,1887,Mohammad Fahim Chowdhury,1770443033.webp,Bangladesh Nationalist Party (BNP),1769852771.webp,38,141,,9657,14
+326,1886,Md. Golam Kibria,1770830160.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,141,,9312,14
+327,1884,Md. Abdullah,1770830096.jpg,Amar Bangladesh Party (AB Party),1769855528.jpg,66,141,,,14
+328,1885,Md. Abdullah Al Qayes,1770830137.jpg,Islami Andolon Bangladesh,1769852567.png,37,141,,,14
+329,1888,Abu Taleb Md. Saifuddin,1770830207.jpg,Islami Andolon Bangladesh,1769852567.png,37,142,,,
+330,1889,Md. Aminul Islam,1770830229.jpg,Independent,1704551148.jpg,32,142,,,
+331,1890,Md. Mahmudul Haque Rubel,1770443097.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,142,,,
+332,1891,Md. Mizanur Rahman,1770830267.jpg,Bangladesh Socialist Party (Marxist),1769853841.jpg,44,142,,,
+333,1892,Mohammad Nuruzzaman,1770830285.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,142,,,
+334,1501,Azharul Islam,1770825088.jpg,Communist Party of Bangladesh,1770214086.png,47,143,,,
+335,1502,Mohammad Rashedul Haque,1770825107.jpg,Bangladesh Labour Party,1770206037.jpg,114,143,,,
+336,1503,Md. A. Razzak,1770825121.jpg,Bangladesh Socialist Party (Marxist),1769853841.jpg,44,143,,,
+337,1504,Md. Jillur Rahman,1770825140.jpg,Islami Andolon Bangladesh,1769852567.png,37,143,,,
+338,1505,Md. Tajul Islam,1770825166.jpg,Bangladesh Khelafat Majlish,1769854518.jpg,50,143,,,
+339,1506,Mohammad Salman Omar,1770825190.jpg,Independent,1704551148.jpg,32,143,,,
+340,1507,Syed Emran Saleh,1770825216.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,143,,,
+341,1522,Golam Mawla Bhuiyan,1770825852.jpg,Islami Andolon Bangladesh,1769852567.png,37,144,,,
+342,1523,Mohammadullah,1770825879.jpg,Bangladesh Khelafat Majlish,1769854518.jpg,50,144,,,
+343,1524,Md. Emdadul Haque Khan,1770825913.jpg,Jatiya Party (JaPa),1702196200.png,5,144,,,
+344,1525,Md. Julhas Uddin Sheikh,1770825936.jpg,Bangladesh Supreme Party (BSP),1769857390.jpg,78,144,,,
+345,1526,Motahar Hossain Talukder,1770436149.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,144,,,
+346,1527,Mohammad Abu Bakar Siddique,1770825968.jpg,Independent,1704551148.jpg,32,144,,,
+347,1528,Shah Shahid Sarwar,1770825994.jpg,Independent,1704551148.jpg,32,144,,,
+348,1529,Ahmed Taiebur Rahman,1770826024.jpg,Independent,1704551148.jpg,32,145,,,
+349,1530,A. K. M. Ariful Hasan,1770826043.jpg,Bangladesh Socialist Party (Marxist),1769853841.jpg,44,145,,,
+350,1531,M. Iqbal Hossain,1770826069.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,145,,,
+351,1532,Md. Abu Taher Khan,1770826092.jpg,Bangladesh Nezam-e-Islam Party,1769856767.jpg,91,145,,,
+352,1533,Md. Shariful Islam,1770826118.jpg,Islami Andolon Bangladesh,1769852567.png,37,145,,,
+353,1534,Abu Md. Musa Sarkar,1770826163.jpg,Jatiya Party (JaPa),1702196200.png,5,146,,,
+354,1535,Emdadul Haque Millat,1770826215.jpg,Communist Party of Bangladesh,1770214086.png,47,146,,,
+355,1536,Md. Abu Wahab Akand Wahid,1770436364.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,146,,,
+356,1537,Md. Nasir Uddin,1770826232.jpg,Islami Andolon Bangladesh,1769852567.png,37,146,,,
+357,1538,Md. Liaqat Ali,1770826254.jpg,Bangladesh Supreme Party (BSP),1769857390.jpg,78,146,,,
+358,1539,Mostafizur Rahman,1770826291.jpg,Gonoshonghoti Andolon,1770213041.jpg,90,146,,,
+359,1540,Md. Hamidul Islam,1770826313.jpg,National People's Party (NPP),1769853961.png,46,146,,,
+360,1541,Mohammad Kamrul Ahsan,1770826332.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,146,,,
+361,1542,Shekhar Kumar Roy,1770826353.jpg,Bangladesh Socialist Party (Marxist),1769853841.jpg,44,146,,,
+362,1543,Mohammad Sirajul Islam,1770826400.jpg,Islami Andolon Bangladesh,1769852567.png,37,147,,,
+363,1544,Md. Matiur Rahman Akand,1770826425.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,147,,,
+364,1545,Md. Rafiqul Islam,1770826440.jpg,Amar Bangladesh Party (AB Party),1769855528.jpg,66,147,,,
+365,1546,Mohammad Zakir Hossain,1770826462.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,147,,,
+366,1547,Mohammad Nazrul Islam,1770826480.jpg,Gonoshonghoti Andolon,1770213041.jpg,90,147,,,
+367,1548,Professor Md. Jasim Uddin,1770826508.jpg,Independent,1704551148.jpg,32,148,,,
+368,1549,Akhtar Sultana,1770826529.jpg,Independent,1704551148.jpg,32,148,,,
+369,1550,Md. Akhtarul Alam,1770826551.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,148,,,
+370,1551,Md. Kamrul Hasan,1770826565.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,148,,,
+371,1552,Md. Nure Alam Siddique,1770826583.jpg,Islami Andolon Bangladesh,1769852567.png,37,148,,,
+372,1553,Dr. Md. Mahabubur Rahman,1770826618.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,149,,,
+373,1554,Mohammad Anwar Sadat,1770826638.jpg,Independent,1704551148.jpg,32,149,,,
+374,1555,Md. Asaduzzaman,1770826660.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,149,,,
+375,1556,Md. Ibrahim Khalilullah,1770826688.jpg,Islami Andolon Bangladesh,1769852567.png,37,149,,,
+376,1557,Md. Zainal Abedin,1770826715.jpg,Independent,1704551148.jpg,32,149,,,
+377,1558,Md. Jahirul Islam,1770826742.jpg,Jatiya Party (JaPa),1702196200.png,5,149,,,
+378,1559,Fakhrul Imam,1770826766.jpg,Jatiya Party (JaPa),1702196200.png,5,150,,,
+379,1560,Md. Aurangzeb Belal,1770826785.jpg,Liberal Democratic Party (LDP),1770209895.jpg,89,150,,,
+380,1561,Lutfullah-el-Mazed,1770826807.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,150,,,
+381,1562,Shah Nurul Kabir,1770826824.jpg,Islami Andolon Bangladesh,1769852567.png,37,150,,,
+382,1563,Yaser Khan Chowdhury,1770826851.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,151,,,
+383,1564,A. K. M. Anwarul Islam,1770826870.jpg,Bangladesh Development Party,1769857564.jpg,104,151,,,
+384,1565,Md. Latiful Bari (Hamim),1770826886.jpg,Gono Forum,1770206382.jpg,115,151,,,
+385,1566,Md. Saeedur Rahman,1770826916.jpg,Islami Andolon Bangladesh,1769852567.png,37,151,,,
+386,1567,Hasmat Mahmud,1770826936.jpg,Jatiya Party (JaPa),1702196200.png,5,151,,,
+387,1568,Hasina Khan Chowdhury,1770826955.jpg,Independent,1704551148.jpg,32,151,,,
+388,1508,Abu Bakar Siddiqur Rahman,1770825313.jpg,Independent,1704551148.jpg,32,152,,,
+389,1509,A. K. M. Shamsul Alam,1770825336.jpg,Gonoshonghoti Andolon,1770213041.jpg,90,152,,,
+390,1510,Md. Al Amin (Sohan),1770825363.jpg,Jatiya Party (JaPa),1702196200.png,5,152,,,
+391,1511,Md. Ismail,1770825386.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,152,,,
+392,1512,Md. Matiur Rahman,1770825409.jpg,Independent,1704551148.jpg,32,152,,,
+393,1513,Md. Saifus Salehin,1770825429.jpg,Communist Party of Bangladesh,1770214086.png,47,152,,,
+394,1514,Md. Habibullah Belali,1770825456.jpg,Islami Andolon Bangladesh,1769852567.png,37,152,,,
+395,1515,Mohammad Akhtaruzzaman,1770825491.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,152,,,
+396,1516,Syed Mahmud Morshed,1770825532.jpg,Liberal Democratic Party (LDP),1770209895.jpg,89,152,,,
+397,1517,Zahidul Islam,1770825612.jpg,National Citizen Party (NCP),1770212308.jpg,63,153,,,
+398,1518,Fakhr Uddin Ahmed,1770825704.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,153,,,
+399,1519,Mohammad Morshed Alam,1770825726.jpg,Independent,1704551148.jpg,32,153,,,
+400,1520,Md. Mostafa Kamal,1770825785.jpg,Islami Andolon Bangladesh,1769852567.png,37,153,,,
+401,1521,Mohammad Anwarul Islam,1770825813.jpg,Gono Odhikar Parishad (GOP),1770210478.jpeg,39,153,,,
+402,1107,Golam Rabbani,,Bangladesh Khelafat Majlish,1769854518.jpg,50,154,,,
+403,1108,Barrister Kaiser Kamal,1770382660.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,154,,,
+404,1109,Md. Anwar Hossain Khan,1770809214.jpg,Jatiya Party (JaPa),1702196200.png,5,154,,,
+405,1110,Md. Abdul Mannan (Sohag),1770809239.jpg,Islami Andolon Bangladesh,1769852567.png,37,154,,,
+406,1111,Md. Alkas Uddin Mir,1770809275.jpg,Communist Party of Bangladesh,1770214086.png,47,154,,,
+407,1112,Md. Belal Hossain,1770809298.jpg,Jatiya Samajtantrik Dal (JSD),1769855932.png,76,154,,,
+408,1113,Abdur Rahim,1770809342.jpg,Bangladesh Khelafat Andolon,1769857055.png,96,155,,,
+409,1114,Abdul Qayyum,1770809362.jpg,Islami Andolon Bangladesh,1769852567.png,37,155,,,
+410,1115,A. B. M. Rafiqul Haque Talukder,,Jatiya Party (JaPa),1702196200.png,5,155,,,
+411,1116,Md. Anwarul Haque,1770382843.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,155,,,
+412,1117,Md. Fahim Rahman Khan Pathan,1770809395.jpg,National Citizen Party (NCP),1770212308.jpg,63,155,,,
+413,1118,Md. Abul Hossain Talukder,1770809436.jpg,Jatiya Party (JaPa),1702196200.png,5,156,,,
+414,1119,Md. Khairul Kabir Niyogi,1770809459.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,156,,,
+415,1120,Md. Zakir Hossain,1770809503.jpg,Islami Andolon Bangladesh,1769852567.png,37,156,,,
+416,1121,Md. Delwar Hossain Bhuiyan,1770809526.jpg,Independent,1704551148.jpg,32,156,,,
+417,1122,Md. Shamchuddoha,,Islamic Front Bangladesh,1703164401.jpg,26,156,,,
+418,1123,Rafiqul Islam Hilali,1770382964.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,156,,,
+419,1124,Champa Rani Sarkar,1770811407.jpg,Revolutionary Workers Party of Bangladesh,1769856467.jpg,85,157,,,
+420,1125,Jolly Talukder,1770811430.jpg,Communist Party of Bangladesh,1770214086.png,47,157,,,
+421,1126,Md. Al-Helal,1770811337.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,157,,,
+422,1127,Md. Mokhlesur Rahman,1770811528.jpg,Islami Andolon Bangladesh,1769852567.png,37,157,,,
+423,1128,Md. Lutfuzzaman Babar,1770383079.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,157,,,
+424,1129,Masum Mustafa,,Bangladesh Jamaat-e-Islami,1769852416.png,36,158,,,
+425,1130,Md. Abu Taher Talukder,1770383134.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,158,,,
+426,1131,Md. Nurul Islam,1770811558.jpg,Islami Andolon Bangladesh,1769852567.png,37,158,,,
+427,1423,Iqbal Chowdhury,1770822688.jpg,Independent,1704551148.jpg,32,159,,,
+428,1424,A. K. M. Aminul Islam,1770822747.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,159,,,
+429,1425,A. K. M. Kamruzzaman,1770822772.jpg,Independent,1704551148.jpg,32,159,,,
+430,1426,M. A. Hannan,1770822795.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,159,,,
+431,1427,Md. Sharif Mridha,1770822860.jpg,Insaniyat Biplob Bangladesh,1770207181.jpg,116,159,,,
+432,1428,Md. Shah Alam,1770822923.jpg,Jatiya Party (JaPa),1702196200.png,5,159,,,
+433,1429,Md. Habibur Rahman,1770822958.jpg,Independent,1704551148.jpg,32,159,,,
+434,1430,Hussain Ahmed,1770822979.jpg,Islami Andolon Bangladesh,1769852567.png,37,159,,,
+435,1431,Ashraf Uddin,1770823009.jpg,National Citizen Party (NCP),1770212308.jpg,63,160,,,
+436,1432,Adv. Md. Ziaul Haque Mridha,1770823038.jpg,Jatiya Party (JaPa),1702196200.png,5,160,,,
+437,1433,S. N. Tarun Dey,1770823055.jpg,Independent,1704551148.jpg,32,160,,,
+438,1434,Taimur Reza Md. Shahzad,1770823087.jpg,Jatiya Samajtantrik Dal (JSD),1769855932.png,76,160,,,
+439,1435,Nesar Ahmad,1770823107.jpg,Islami Andolon Bangladesh,1769852567.png,37,160,,,
+440,1436,Md. Main Uddin,1770823128.jpg,Insaniyat Biplob Bangladesh,1770207181.jpg,116,160,,,
+441,1437,Mohammad Junayed Al Habib,1770823153.jpg,Jamiat Ulema-e-Islam Bangladesh,1769857247.png,99,160,,,
+442,1438,Rumin Farhana,1770823172.jpg,Independent,1704551148.jpg,32,160,,,
+443,1439,Sharifa Akter,1770823196.jpg,Am Janata Party,1769853544.jpg,41,160,,,
+444,1440,Ataullah,1770823259.jpg,National Citizen Party (NCP),1770212308.jpg,63,161,,,
+445,1441,Ayesha Akter,1770823291.jpg,Islamic Front Bangladesh,1703164401.jpg,26,161,,,
+446,1442,Niazul Karim,1770823311.jpg,Islami Andolon Bangladesh,1769852567.png,37,161,,,
+447,1443,Md. Abu Hanif,1770823339.jpg,Insaniyat Biplob Bangladesh,1770207181.jpg,116,161,,,
+448,1444,Md. Omar Yusuf Khan,1770823369.jpg,Independent,1704551148.jpg,32,161,,,
+449,1445,Md. Khaled Hossain Mahbub,1770823394.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,161,,,
+450,1446,Md. Rezaul Islam Bhuiyan,1770823417.jpg,Jatiya Party (JaPa),1702196200.png,5,161,,,
+451,399,Abdur Rab Chowdhury,1770818130.jpg,Jatiya Party (JaPa),1702196200.png,5,224,,,
+452,400,S. M. Shahjahan,1770818187.jpg,Bangladesh Islami Front,1769855040.png,58,224,,,
+453,401,Mahmudul Hasan,1770818211.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,224,,,
+454,402,Md. Rezaul Mostafa,1770818254.jpg,Jatiya Party (JaPa),1702196200.png,5,224,,,
+455,403,Md. Mujibur Rahman Chowdhury,1770818287.jpg,Gono Odhikar Parishad (GOP),1770210478.jpeg,39,224,,,
+456,404,Mohammad Emran,1770818328.jpg,Nationalist Democratic Movement (NDM),1770213125.jfif,43,224,,,
+457,405,Sarwar Jamal Nizam,1769949671.avif,Bangladesh Nationalist Party (BNP),1769852771.webp,38,224,,,
+458,406,Alhaj Jasim Uddin Ahmed,1769949744.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,225,,,
+459,407,H. M. Iliyas,1770818479. ইলিয়াছ,Jatiya Party (JaPa),1702196200.png,5,225,,,
+460,408,Omar Faruk,1770818573.jpg,Liberal Democratic Party (LDP),1770209895.jpg,89,225,,,
+461,409,Mohammad Abdul Hamid,1770818599.jpg,Islami Andolon Bangladesh,1769852567.png,37,225,,,
+462,410,Mohammad Badsha Mia,1770818632.jpg,Jatiya Party (JaPa),1702196200.png,5,225,,,
+463,411,Mohammad Mizanul Haque Chowdhury,1770818669.jpg,Jatiya Party (JaPa),1702196200.png,5,225,,,
+464,412,Mawlana Md. Solaiman,1770818753.jpg,Bangladesh Islami Front,1769855040.png,58,225,,,
+465,413,Shafiqul Islam Rahi,1770818786.jpg,Jatiya Party (JaPa),1702196200.png,5,225,,,
+466,414,Nazmul Mostafa Amin,1769949901.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,226,,,
+467,415,Shariful Alam Chowdhury,1770818888.jpg,Islami Andolon Bangladesh,1769852567.png,37,226,,,
+468,416,Shahjahan Chowdhury,1770818940.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,226,,,
+469,417,Abdul Malek,1770819115.jpg,Islamic Front Bangladesh,1703164401.jpg,26,227,,,
+470,418,Ehsanul Haque,1770819421.jpg,Bangladesh Muslim League,1769855087.png,59,227,,,
+471,419,Mishkatul Islam Chowdhury,1769950114.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,227,,,
+472,420,Md. Ariful Haque,1770819467.jpg,Gono Odhikar Parishad (GOP),1770210478.jpeg,39,227,,,
+473,421,Mohammad Jahirul Islam,1770819492.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,227,,,
+474,422,Mohammad Liaqat Ali,1770819511.jpg,Jatiya Party (JaPa),1702196200.png,5,227,,,
+475,423,Hafez Ruhullah,1770819527.jpg,Islami Andolon Bangladesh,1769852567.png,37,227,,,
+476,2,Abdullah Al Faruq,1769857959.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,228,,,
+477,3,Md. Sarwar Alam Kutubi,1769858036.jpg,Islami Andolon Bangladesh,1769852567.png,37,228,,,
+478,4,Salahuddin Ahmed,1769858073.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,228,,,
+479,5,Alamgir Muhammad Mahfuz Ullah Farid,1769858130.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,229,,,
+480,6,A. H. M. Hamidur Rahman Azad,1769858182.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,229,,,
+481,7,S. M. Rokonuzzaman Khan,1770803654.jfif,Gono Odhikar Parishad (GOP),1770210478.jpeg,39,229,,,
+482,8,Ziaul Haque,1770803675.jpg,Islami Andolon Bangladesh,1769852567.png,37,229,,,
+483,9,Md. Mahmudul Karim,1770803706.jfif,Jatiya Party (JaPa),1702196200.png,5,229,,,
+484,10,Amirul Islam,1770803791.jpg,Islami Andolon Bangladesh,1769852567.png,37,230,,,
+485,11,Jagadish Barua,1770803814.jpg,Jatiya Party (JaPa),1702196200.png,5,230,,,
+486,12,Nurul Absar,1770803840.jpg,Am Janata Party,1769853544.jpg,41,230,,,
+487,13,Md. Ilias Mia,,Independent,1704551148.jpg,32,230,,,
+488,14,Lutfur Rahman,1769858428.webp,Bangladesh Nationalist Party (BNP),1769852771.webp,38,230,,,
+489,15,Shahidul Alam (Bahadur),1769858500.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,230,,,
+490,16,Nur Ahmed Anwari,1770803985.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,231,,,
+491,17,Nurul Haque,1770805317.jpg,Islami Andolon Bangladesh,1769852567.png,37,231,,,
+492,18,Shahjahan Chowdhury,1769858633.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,231,,,
+493,19,Saifuddin Khaled,1770804015.jpg,Nationalist Democratic Movement (NDM),1770213125.jfif,43,231,,,
+494,203,Abdul Wadud Bhuiyan,1769938601.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,232,,,
+495,204,Ushyepru Marma,1770810888.jpg,Jatiya Party (JaPa),1702196200.png,5,232,,,
+496,205,Jiruna Tripura,1770810907.jpg,Jatiya Party (JaPa),1702196200.png,5,232,,,
+497,206,Dinmoy Roaza,1770810924.jpg,Gono Odhikar Parishad (GOP),1770210478.jpeg,39,232,,,
+498,207,Dharma Jyoti Chakma,1770810942.jpg,Jatiya Party (JaPa),1702196200.png,5,232,,,
+499,208,Mithila Roaza,1770810959.jpg,Jatiya Party (JaPa),1702196200.png,5,232,,,
+500,209,Md. Yakub Ali,1770810981.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,232,,,
+501,210,Md. Kawsar,1770810998.jpg,Islami Andolon Bangladesh,1769852567.png,37,232,,,
+502,211,Md. Nur Islam,1770811022.jpg,Jatiya Party (JaPa),1702196200.png,5,232,,,
+503,212,Md. Mostafa,1770811040.jpg,Bangladesh Muslim League,1769855087.png,59,232,,,
+504,213,Samiran Dewan,1770811062.jpg,Jatiya Party (JaPa),1702196200.png,5,232,,,
+505,1756,Dipen Dewan,1770868221.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,233,,3746,4
+506,1757,Pahel Chakma,1770868247.jpg,Independent,1704551148.jpg,32,233,,69,4
+507,1758,Muhammad Abu Bakar Siddique,1770868273.jpg,Bangladesh Khelafat Majlish,1769854518.jpg,50,233,,12,4
+508,1754,Ashok Talukder,1770868157.jpg,Jatiya Party (JaPa),1702196200.png,5,233,,,4
+509,1755,Jui Chakma,1770868184.jpg,Revolutionary Workers Party of Bangladesh,1769856467.jpg,85,233,,,4
+510,1759,Md. Abul Bashar (Badsha),1770868333.jpg,Gono Odhikar Parishad (GOP),1770210478.jpeg,39,233,,,4
+511,1760,Md. Jasim Uddin,1770868361.jpg,Islami Andolon Bangladesh,1769852567.png,37,233,,,4
+512,1422,Saching Pru,1770822238.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,234,,6713,9
+513,1420,Abu Sayeed Md. Suja Uddin,1770822165.jpg,National Citizen Party (NCP),1770212308.jpg,63,234,,1203,9
+514,1419,Abu Zafar Mohammad Waliullah,1770822136.jpg,Jatiya Party (JaPa),1702196200.png,5,234,,,9
+515,1421,Md. Abul Kalam Azad,1770822195.jpg,Islami Andolon Bangladesh,1769852567.png,37,234,,,9
+516,1625,Abdur Rahman,1770827402.jpg,Communist Party of Bangladesh,1770214086.png,47,235,,,
+517,1626,A. K. M. Fakhruddin Razi,1770827448.jpg,Bangladesh Jamaat-e-Islami,1769852416.png,36,235,,,
+518,1627,Md. Atiqur Rahman Khan,1770827470.jpg,Islami Andolon Bangladesh,1769852567.png,37,235,,,
+519,1628,Md. Abdullah,1770438089.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,235,,,
+520,1629,Mohammad Momin Ali,1770827493.jpg,Independent,1704551148.jpg,32,235,,,
+521,1630,Rokeya Akter,1770827516.jpg,Insaniyat Biplob Bangladesh,1770207181.jpg,116,235,,,
+522,1631,Abdus Salam Azad,1770438150.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,236,,,
+523,1632,Ashiq Mahmud,1770827556.jpg,Islamic Front Bangladesh,1703164401.jpg,26,236,,,
+524,1633,K. M. Billal,1770827579.jpg,Islami Andolon Bangladesh,1769852567.png,37,236,,,
+525,1634,Majedul Islam,1770827604.jpg,National Citizen Party (NCP),1770212308.jpg,63,236,,,
+526,1635,Md. Noman Mia,1770827630.jpg,Jatiya Party (JaPa),1702196200.png,5,236,,,
+527,1636,Anis Mollah,1770827687.jpg,Bangladesh Labour Party,1770206037.jpg,114,237,,,
+528,1637,Noor Hossain Noorani,1770827712.jpg,Bangladesh Khelafat Majlish,1769854518.jpg,50,237,,,
+529,1638,Md. Arifuzzaman (Didar),1770827737.jpg,Jatiya Party (JaPa),1702196200.png,5,237,,,
+530,1639,Md. Kamruzzaman,1770438267.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,237,,,
+531,1640,Md. Mohiuddin,1770827777.jpg,Independent,1704551148.jpg,32,237,,,
+532,1641,Sheikh Md. Kamal Hossain,1770827846.jpg,Communist Party of Bangladesh,1770214086.png,47,237,,,
+533,1642,Sheikh Md. Shimul,1770827884.jpg,Revolutionary Workers Party of Bangladesh,1769856467.jpg,85,237,,,
+534,1643,Suman Dewan,1770827927.jpg,Islami Andolon Bangladesh,1769852567.png,37,237,,,
+535,685,Khandaker Abu Ashfaq,1770840074.jfif,Bangladesh Nationalist Party (BNP),1769852771.webp,38,238,,5689,8
+536,688,Mohammad Nazrul Islam,1770840127.jfif,Bangladesh Jamaat-e-Islami,1769852416.png,36,238,,5599,8
+537,684,Antara Selima Huda,1770840005.jfif,Independent,1704551148.jpg,32,238,,,8
+538,686,Nurul Islam,1770840094.jfif,Islami Andolon Bangladesh,1769852567.png,37,238,,,8
+539,687,Md. Nasir Uddin Molla,1770840119.jfif,Jatiya Party (JaPa),1702196200.png,5,238,,,8
+540,689,Sheikh Md. Ali,1770840141.jfif,Bangladesh Labour Party,1770206037.jpg,114,238,,,8
+541,796,Md. Abdul Haque,1770840205.,Bangladesh Jamaat-e-Islami,1769852416.png,36,239,,,
+542,797,Md. Amanullah Aman,1770212946.webp,Bangladesh Nationalist Party (BNP),1769852771.webp,38,239,,,
+543,798,Md. Jahirul Islam,1770840213.,Islami Andolon Bangladesh,1769852567.png,37,239,,,
+544,805,Gayeshwar Chandra Roy,1770216683.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,240,,,
+545,806,Mojibur Howlader,1770840291.,Bangladesh Socialist Party (BASAD),1769854432.png,48,240,,,
+546,807,Muhammad Rawshan Yazdani,1770840297.,Gono Forum,1770206382.jpg,115,240,,,
+547,808,Md. Faruk,1770840302.,Jatiya Party (JaPa),1702196200.png,5,240,,,
+548,809,Md. Bacchu Bhuiyan,1770840309.,Gonoshonghoti Andolon,1770213041.jpg,90,240,,,
+549,810,Md. Monir Hossain,1770840316.,Independent,1704551148.jpg,32,240,,,
+550,811,Md. Shahinur Islam,1770840323.,Bangladesh Jamaat-e-Islami,1769852416.png,36,240,,,
+551,812,Md. Sazzad,1770840332.,Gono Odhikar Parishad (GOP),1770210478.jpeg,39,240,,,
+552,813,Md. Sultan Ahmad Khan,1770840341.,Islami Andolon Bangladesh,1769852567.png,37,240,,,
+553,814,Mohammad Jafar,1770840350.,Bangladesh Congress,1703160912.jpg,14,240,,,
+554,815,Tanvir Ahmed,1770216875.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,241,,,
+555,816,Md. Abul Kalam Azad,1770840397.,Janata Party,1769856417.jpg,84,241,,,
+556,817,Md. Zakir Hossain,1770840403.,Bangladesh Socialist Party (BASAD),1769854432.png,48,241,,,
+557,818,Mohammad Firoz Alam,1770840407.,Communist Party of Bangladesh,1770214086.png,47,241,,,
+558,819,Mohammad Mizanur Rahman,1770840418.,Independent,1704551148.jpg,32,241,,,
+559,820,Sahel Ahmed Sohel,1770840425.,Bangladesh Cultural Liberation Front (Muktijot),1769855708.png,71,241,,,
+560,821,Syed Zainul Abedin,1770840431.,Bangladesh Jamaat-e-Islami,1769852416.png,36,241,,,
+561,822,Syed Md. Mosaddeq Billah,1770840438.,Islami Andolon Bangladesh,1769852567.png,37,241,,,
+562,823,Tofazzal Hossain Mostafa,1770840526.jfif,Communist Party of Bangladesh,1770214086.png,47,242,,,
+563,825,Mir Abdus Sabur,1770840548.jfif,Jatiya Party (JP),1769856887.png,94,242,,,
+564,826,Md. Ibrahim,1770840561.jfif,Islami Andolon Bangladesh,1769852567.png,37,242,,,
+565,827,Md. Golam Azam,1770840567.jfif,Bangladesh Labour Party,1770206037.jpg,114,242,,,
+566,828,Md. Taifur Rahman Rahi,1770840572.jfif,Bangladesh Cultural Liberation Front (Muktijot),1769855708.png,71,242,,,
+567,829,Md. Nabi Ullah,1770217190.jpg,Bangladesh Nationalist Party (BNP),1769852771.webp,38,242,,,
+568,830,Md. Saiful Alam,1770840580.jfif,Bangladesh Congress,1703160912.jpg,14,242,,,
+569,831,Mohammad Kamal Hossain,1770840601.jfif,Bangladesh Jamaat-e-Islami,1769852416.png,36,242,,,
+570,832,Md. Humayun Kabir,1770840606.,Liberal Democratic Party (LDP),1770209895.jpg,89,242,,,
+571,833,Shahinur Akter Sumi,1770840613.,Bangladesh Socialist Party (Marxist),1769853841.jpg,44,242,,,
+572,834,Syed Mohammad Ibrahim,1770840624.jfif,Gono Odhikar Parishad (GOP),1770210478.jpeg,39,242,,,

@@ -1,0 +1,301 @@
+id,seat_no,seat_name,division_id,total_voter,male_voter,female_voter,total_center,result_id,seats_area,yes,no,total_candidate
+106,109,Barguna-1,1,"519,460","259,098","260,351",187,,"Amtali, Taltali, Barguna Sadar",,,4
+107,110,Barguna-2,1,"337,744","167,965","169,775",114,,"Patharghata, Bamana, Betagi",,,9
+108,111,Patuakhali-1,1,"505,840","254,339","251,493",159,,"Mirzaganj, Dumki, Patuakhali Sadar",,,6
+109,112,Patuakhali-2,1,"315,282","160,501","154,779",114,,Baufal,,,5
+110,113,Patuakhali-3,1,"375,871","189,020","186,848",124,,"Dasmina, Galachipa",,,5
+111,114,Patuakhali-4,1,"312,603","158,123","154,475",110,,"Kalapara, Rangabali",,,4
+112,115,Bhola-1,1,"406,567","210,087","196,475",114,,Bhola Sadar,,,8
+113,116,Bhola-2,1,"395,546","206,433","189,112",138,,"Daulatkhan, Borhanuddin",,,8
+114,117,Bhola-3,1,"388,550","200,497","188,050",119,,"Tajumuddin, Lalmohan",,,6
+115,118,Bhola-4,1,"502,026","262,843","239,176",155,,"Char fashion, Manpura",,,7
+116,119,Barisal-1,1,"328,198","165,364","162,834",129,,"Agailjhara, Gournadi",,,5
+117,120,Barisal-2,1,"385,807","196,262","189,544",136,,"Uzirpur, Banaripara",,,8
+118,121,Barisal-3,1,"332,097","167,921","164,173",124,,"Babuganj, Muladi",,,6
+119,122,Barisal-4,1,"421,975","217,942","204,030",149,,"Hijla, Mehendiganj",,,5
+120,123,Barisal-5,1,"501,304","250,680","250,615",176,,"Barisal Sadar, Barisal City Corporation",,,6
+121,124,Barisal-6,1,"315,597","160,055","155,538",113,,Bakerganj,,,6
+122,125,Jhalakathi-1,1,"228,431","116,427","112,002",90,,"Kathalia, Rajapur",,,10
+123,126,Jhalakathi-2,1,"365,397","185,451","179,944",147,,"Jhalkathi Sadar, Nalchiti",,,8
+124,127,Pirojpur-1,1,"392,178","198,709","193,469",167,,"Nazirpur, Nesharabad, Pirojpur Sadar",,,2
+125,128,Pirojpur-2,1,"409,288","204,312","204,972",169,,"Kaukhali, Bhandaria, Indurkani",,,7
+126,129,Pirojpur-3,1,"241,361","122,045","119,315",84,,Mathbaria,,,6
+159,243,Brahmanbaria-1,2,"275,629","146,269","129,357",79,,Nasirnagar,,,8
+160,244,Brahmanbaria-2,2,"499,448","265,245","234,201",132,,"Sarail, Ashuganj",,,9
+161,245,Brahmanbaria-3,2,"624,601","328,182","296,419",192,,"Brahmanbaria Sadar, Bijoynagar",,,7
+162,246,Brahmanbaria-4,2,"443,909","230,647","213,256",118,,"Akhaura, Kasba",,,7
+163,247,Brahmanbaria-5,2,"474,826","248,737","226,085",149,,Nabinagar,,,8
+164,248,Brahmanbaria-6,2,"289,674","147,260","142,413",91,,Bancharampur,,,10
+166,249,Comilla-1,2,"438,616","225,088","213,528",157,,"Meghna, Daudkandi",,,9
+167,250,Comilla-2,2,"375,067","196,119","178,947",94,,"Titas, Homna",,,6
+168,251,Comilla-3,2,"500,726","258,905","241,817",148,,Muradnagar,,,10
+169,252,Comilla-4,2,"410,559","215,237","195,319",114,,Debidwar,,,5
+170,253,Comilla-5,2,"476,172","247,155","229,017",140,,"Brahmanpara, Burichong",,,10
+171,254,Comilla-6,2,"644,777","324,195","320,575",152,,"Comilla Adarsh ​​Sadar, Comilla City Corporation, Comilla Cantonment",,,8
+172,255,Comilla-7,2,"329,166","169,361","159,799",89,,Chandina,,,5
+173,256,Comilla-8,2,"380,833","196,098","184,732",103,,Barura,,,8
+174,257,Comilla-9,2,"478,535","247,765","230,769",126,,"Laksam, Manoharganj",,,8
+175,258,Comilla-10,2,"536,227","276,647","259,579",187,,"Nangalkot, Lalmai, Comilla Sadar South",,,7
+176,259,Comilla-11,2,"421,632","216,923","204,705",125,,Chauddagram,,,7
+177,260,Chandpur-1,2,"356,485","184,802","171,680",109,,"Kachua, Chandpur",,,6
+178,261,Chandpur-2,2,"501,061","256,500","244,559",155,,"Matlab North,Matlab South",,,8
+179,262,Chandpur-3,2,"546,334","282,704","263,628",165,,"Chandpur Sadar, Haimchar",,,7
+180,263,Chandpur-4,2,"400,631","208,603","192,027",117,,Faridganj,,,8
+181,264,Chandpur-5,2,"526,679","269,243","257,433",153,,"Hajiganj, Shahrasti",,,7
+182,265,Feni-1,2,"385,652","198,759","186,890",115,,"Parashuram, Fulgazi, Chagalnaya",,,7
+183,266,Feni-2,2,"437,078","225,881","211,194",140,,Feni Sadar,,,10
+184,267,Feni-3,2,"508,194","263,227","244,965",144,,"Daganbhuiyan, Sonagazi",,,8
+185,268,Noakhali-1,2,"452,425","233,711","218,714",129,,"Chatkhil, Sonaimuri (Bargaon Union, Ambernagar Union, Nateshwar Union Except)",,,7
+186,269,Noakhali-2,2,"360,081","186,305","173,775",118,,"Sonaimuri (Bargaon Union, Ambernagar Union, Nateshwar Union), Senbag",,,5
+187,270,Noakhali-3,2,"511,759","269,886","241,865",149,,Begamganj,,,7
+188,271,Noakhali-4,2,"700,339","366,659","333,677",196,,"Noakhali Sadar, Subarnachar",,,10
+189,272,Noakhali-5,2,"503,851","261,779","242,072",132,,"Kabirhat, Companyganj, Noakhali",,,9
+190,273,Noakhali-6,2,"339,185","178,309","160,874",96,,Hatia,,,10
+191,274,Lakshmipur-1,2,"281,302","144,658","136,644",85,,Ramganj,,,7
+192,275,Lakshmipur-2,2,"493,970","254,407","239,558",146,,"Raipur, Laxmipur Sadar (North Hamchadi Union, South Hamchadi Union, Dalal Bazar Union, Char Ruhita Union, Parbatinagar Union, Bashikpur Union, Shakchar Union, Char Ramani Mohan Union, Tumchor Union)",,,7
+193,276,Lakshmipur-3,2,"444,472","229,709","214,758",125,,"Laxmipur Sadar, Lakshmipur Municipality (Bangakhan Union, Dattapara Union, North Jaipur Union, chandrogonj Union, Hazirpara Union, Charshahi Union, Dighli Union, Mandari Union, Laharkandi Union, Bhavaniganj Union, Kusakhali Union,Tewariganj Union)",,,6
+194,277,Lakshmipur-4,2,"418,160","218,483","199,676",120,,"Kamalnagar, Ramgati",,,9
+195,278,Chittagong-1,2,"386,674","199,859","186,811",106,,Mirsarai,,,7
+196,279,Chittagong-2,2,"488,465","259,197","229,267",142,,Phatikchari,,,8
+197,280,Chittagong-3,2,"260,485","134,720","125,763",84,,Sandwip,,,4
+198,281,Chittagong-4,2,"448,380","235,352","213,016",124,,"Sitakunda, Chittagong City Corporation (North Pahartali Ward, North Kattali Ward)",,,9
+199,282,Chittagong-5,2,"501,916","260,903","241,012",146,,"Hathazari, Chittagong City Corporation (Dakshin Pahartali Ward, Jalalabad Ward)",,,6
+200,283,Chittagong-6,2,"339,988","178,971","161,017",95,,Raozan,,,4
+201,284,Chittagong-7,2,"319,008","167,531","151,476",103,,"Rangunia, Boalkhali (Sreepur Kharandeep Union)",,,8
+202,285,Chittagong-8,2,"554,729","282,606","272,122",184,,"Boalkhali (Sreepur Kharandeep Union Except), Chittagong City Corporation (Panchlaish Ward, Chandgaon Ward, Mohra Ward, East Sholashar Ward, West Sholashar Ward)",,,6
+203,286,Chittagong-9,2,"416,363","213,906","202,448",142,,"Chittagong City Corporation (15 No. Bagmaniram Ward, 16 No. Chowkbazar Ward,17 No.  West Baklia Ward,18 No.  East Baklia Ward, 19 No. South Bakalia Ward, 20 No. Dewan Bazar Ward, 21 No. Jamal Khan Ward, 22 No. Enayet Bazar Ward, 23 No. North Pathantuli Ward, 31 No. Alkaran Ward, 32 No. Underkilla Ward, 33 No. Firingi Bazar Ward, 35 No. Patharghata Ward, 36 No.Bakshi Hat Ward)",,,10
+218,287,Chittagong-10,2,"492,444","249,784","242,631",148,,"Chittagong City Corporation (8 No. Sholokbahar Ward, 11No. South Kattali Ward, 12 No. Saraipara Ward, 13 No. Pahartali Ward, 14 No. Lalkhan Bazar Ward,  24 No. North Agrabad Ward, 25 No. Rampur Ward,  26 No. North Halishahar Ward)",,,9
+220,288,Chittagong-11,2,"495,278","252,333","242,942",152,,"Chittagong City Corporation (27 No. South Agrabad Ward, 28 No. Pathantuli Ward, 29 No.West Motherbari Ward, 30 No. East Motherbari Ward, 36 No. Gosaildanga Ward, 37 No. North Madhya Halishahar Ward, 38 No. South Central Halishahar Ward, 39 No. South Halishahar Ward, 40 No. North Patenga Ward, 41 No. South Patenga Ward)",,,11
+221,289,Chittagong-12,2,"352,695","184,254","168,440",108,,Patiya,,,8
+224,290,Chittagong-13,2,"395,246","207,714","187,532",118,,"Karnaphuli, Anwara",,,7
+225,291,Chittagong-14,2,"313,513","165,847","147,665",100,,"Chandanish, Satkania (Khagria Union, Keochia Union, Kaliaish Union, Dharmapur Union, Bazalia Union, Purangor Union)",,,8
+226,292,Chittagong-15,2,"506,059","270,915","235,144",157,,"Satkania (Charati Union, Nalua Union, Kanchana Union, Amalish Union, Aochia Union, Madarsha Union, Dhemsa Union, West Dhemsha Union, Chadaha Union, Satkania Union, Sonakania Union), Lohagara",,,3
+227,293,Chittagong-16,2,"411,274","219,982","191,287",114,,Banskhali,,,7
+228,294,Cox's Bazar-1,2,"540,490","290,291","250,198",158,,"Chakaria, Pekua",,,3
+229,295,Cox's Bazar-2,2,"387,851","206,453","181,398",118,,"Kutubdia, Maheshkhali",,,5
+230,296,Cox's Bazar-3,2,"545,962","291,099","254,862",176,,"Cox's Bazar Sadar, Ramu",,,6
+231,297,Cox's Bazar-4,2,"375,688","192,803","182,879",104,,"Ukhia, Teknaf",,,4
+232,298,Khagrachari,2,"554,119","280,206","273,909",196,,Khagrachhari Hill District,,,11
+233,299,Rangamati,2,"509,272","263,411","245,859",213,,Rangamati District,,,7
+234,300,Bandarban,2,"315,422","161,775","153,647",182,,Bandarban Hill District,,,4
+127,130,Tangail-1,3,"437,433","216,007","221,424",148,,"Madhupur, Dhanbari",0,0,6
+128,131,Tangail-2,3,"418,606","210,422","208,183",138,,"Gopalpur, Bhuapur",,,4
+129,132,Tangail-3,3,"382,720","191,864","190,853",119,,Ghatail,,,5
+130,133,Tangail-4,3,"374,917","189,942","184,972",113,,Kalihati,,,6
+131,134,Tangail-5,3,"462,412","231,303","231,108",130,,Tangail Sadar,,,10
+132,135,Tangail-6,3,"468,076","236,597","231,475",154,,"Delduar, Nagarpur",,,8
+133,136,Tangail-7,3,"375,437","188,871","186,560",127,,Mirzapur,,,3
+134,137,Tangail-8,3,"414,826","206,623","208,198",127,,"Basail, Sakhipur",,,6
+212,162,Kishoreganj-1,3,"555,136","280,657","274,476",174,,"Hossainpur, Kishoreganj Sadar",,,8
+213,163,Kishoreganj-2,3,"532,516","268,568","263,939",170,,"Pakundia, Katiadi",,,8
+214,164,Kishoreganj-3,3,"448,625","230,210","218,412",149,,"Karimganj, Tarail",,,7
+215,165,Kishoreganj-4,3,"408,352","211,182","197,166",147,,"Itna, Mithamoin, Austagram",,,8
+216,166,KIshoreganj-5,3,"353,566","182,452","171,108",115,,"Nikli, Bajitpur",,,8
+217,167,Kishoreganj-6,3,"428,804","221,114","207,687",142,,"Kuliarchar, Bhairab",,,9
+219,168,Manikganj-1,3,"461,942","231,857","230,081",180,,"Daulatpur, Ghior, Shivalaya",,,7
+222,169,Manikganj-2,3,"472,622","237,205","235,413",193,,"Harirampur, Manikganj Sadar, ( Putail, Bhararia, Hatipara )  Singair",,,4
+223,170,Manikganj-3,3,"400,059","199,398","200,660",143,,"Manikganj Sadar,  Saturia",,,9
+235,171,Munshiganj-1,3,"545,519","280,716","264,802",170,,"Srinagar, Sirajdikhan",,,6
+236,172,Munshiganj-2,3,"378,492","194,720","183,772",130,,"Louhajang, Tongibari",,,5
+237,173,Munshiganj-3,3,"509,467","263,075","246,390",169,,"Munshiganj Sadar, Gazaria",,,8
+238,174,Dhaka-1,3,"545,140","276,050","269,085",184,,"Dohar, Nawabganj",,,6
+239,175,Dhaka-2,3,"419,215","217,908","201,298",197,,"Keraniganj, Savar, ( Tetuljhora, Amin Bazar, Bhakurta ) Dhaka south city corporation ( 55, 56, 57 no. Ward )",,,3
+240,176,Dhaka-3,3,"362,159","184,971","177,184",126,,"Keraniganj, ( Zinzira, Aganagar, Suvadda, Taghoria, Konda )",,,10
+241,177,Dhaka-4,3,"362,506","186,467","176,034",77,,"Dhaka South City Corporation ( 47, 51, 52, 53, 54, 58, 59 no. Ward )",,,8
+242,178,Dhaka-5,3,"419,996","214,594","205,397",187,,"Dhaka South City Corporation ( 48, 49, 50, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70 no. Ward )",,,11
+243,179,Dhaka-6,3,"292,283","152,519","139,761",98,,"Dhaka South City Corporation ( 34, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46 no. Ward )",,,8
+244,180,Dhaka-7,3,"479,376","248,481","230,883",125,,"Dhaka South City Corporation ( 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 35, 36 no. Ward )",,,10
+245,181,Dhaka-8,3,"275,471","152,795","122,675",110,,"Dhaka South City Corporation ( 8, 9, 10, 11, 12, 13, 19, 20, 21 no. Ward )",,,11
+246,182,Dhaka-9,3,"469,360","237,673","231,682",169,,"Dhaka South City Corporation ( 1, 2, 3, 4, 5, 6, 7, 71, 72, 73, 74, 75 no. Ward )",,,12
+247,183,Dhaka-10,3,"388,660","204,604","184,050",119,,"Dhaka South City Corporation ( 14, 15, 16, 17, 18, 22 no. Ward )",,,10
+248,184,Dhaka-11,3,"439,078","222,877","216,198",162,,"Dhaka North City Corporation ( 21, 22, 23, 37, 38, 39, 40, 41, 42 no Ward )",,,10
+251,185,Dhaka-12,3,"333,320","174,349","158,968",140,,"Dhaka North City Corporation ( 24, 25, 26, 27, 35, 36 no. Ward )",,,15
+253,186,Dhaka-13,3,"408,791","209,812","198,971",135,,"Dhaka North City Corporation ( 28, 29, 30, 31, 32, 33, 34 no. Ward )",,,9
+266,187,Dhaka-14,3,"456,044","232,066","223,974",166,,"Dhaka North City Corporation, ( 7, 8, 9, 10, 11, 12 no. Ward ) Savar ( Kaundia )",,,12
+267,188,Dhaka-15,3,"351,718","179,616","172,098",133,,"Dhaka North City Corporation ( 4, 13, 14, 16 )",,,8
+268,189,Dhaka-16,3,"400,499","201,168","199,323",137,,"Dhaka North City Corporation ( 2, 3, 5, 6 no Ward )",,,11
+269,190,Dhaka-17,3,"333,777","174,709","159,060",124,,"Dhaka North City Corporation, ( 15, 18, 19, 20 no. Ward ) Dhaka Cantonment",,,12
+270,191,Dhaka-18,3,"613,883","313,050","300,827",217,,"Dhaka North City Corporation ( 1, 17, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54 no. Ward ),  Airport",,,10
+271,192,Dhaka-19,3,"747,070","379,906","367,151",292,,"Savar ( Shimulia, Dhamsona, Pathalia, Yearpur, Ashulia, Birulia, Savar, Bongaon )",,,8
+272,193,Dhaka-20,3,"376,639","187,835","188,802",149,,Dhamrai,,,6
+273,194,Gazipur-1,3,"720,939","360,234","360,693",237,,"Kaliakair, Gazipur City Corporation ( 1-18 no. Ward )",,,8
+274,195,Gazipur-2,3,"804,333","400,402","403,918",272,,"Gazipur City Corporation ( 19-38 no. Ward, 43-57 no. Ward ), Gazipur Cantonment",,,12
+275,196,Gazipur-3,3,"527,360","260,191","267,162",180,,"Gazipur Sadar ( Mirzapur, Bhawalgarh, Pirujali ), Sreepur",,,7
+276,197,Gazipur-4,3,"330,977","164,429","166,548",122,,Kapasia,,,8
+277,198,Gazipur-5,3,"354,643","179,093","175,548",124,,"Gazipur City Corporation ( 39-42 no. Ward ), Gazipur Sadar ( Baria ), Kaliganj",,,7
+278,199,Narsingdi-1,3,"477,209","243,945","233,252",136,,Narsingdi Sadar,,,8
+279,200,Narsingdi-2,3,"286,218","145,235","140,978",90,,"Narsingdi Sadar ( Amdia,  Panchdona, Meherpara ), Palash",,,6
+280,201,Narsingdi-3,3,"284,248","142,947","141,300",97,,Shibpur,,,8
+281,202,Narsingdi-4,3,"428,954","212,677","216,274",158,,"Monohardi, Belabo",,,9
+282,203,Narsingdi-5,3,"494,650","255,570","239,065",163,,Raipura,,,10
+283,204,Narayanganj-1,3,"408,829","207,849","200,977",128,,Rupganj,,,7
+284,205,Narayanganj-2,3,"364,098","187,801","176,292",117,,Araihazar,,,7
+285,206,Narayanganj-3,3,"593,348","302,290","291,055",131,,Sonargaon,,,11
+286,207,Narayanganj-4,3,"540,783","273,715","267,062",231,,"Narayanganj Sadar, Narayanganj City Corporation ( 1-10 no. Ward )",,,13
+287,208,Narayanganj-5,3,"485,288","243,768","241,512",175,,"Narayanganj Sadar ( Alirtek, Gognagar ), Narayanganj City Corporation ( 11-27 no. Ward ), Bandar",,,10
+288,209,Rajbari-1,3,"430,216","216,150","214,058",156,,"Goalanda, Rajbari Sadar",,,4
+289,210,Rajbari-2,3,"559,696","285,544","274,146",194,,"Baliakand, Pangsha, Kalukhali",,,9
+290,211,Faridpur-1,3,"510,540","259,335","251,204",196,,"Madhukhali, Boalmari, Alfadanga",,,9
+291,212,Faridpur-2,3,"332,041","172,904","159,137",115,,"Nagarkanda, Saltha, Sadarpur ( Krishnapur )",,,6
+292,213,Faridpur-3,3,"432,628","216,022","216,600",154,,Faridpur Sadar,,,6
+293,214,Faridpur-4,3,"496,706","254,655","242,050",189,,"Charbhadrasan, Sadarpur, Bhanga",,,8
+294,215,Gopalganj-1,3,"399,510","202,816","196,694",138,,"Musksudpur, Kashiani ( Maheshpur,  Parulia, Mahmudpur, Sajail, Kashiani, Ratail, Rajpat )",,,9
+295,216,Gopalganj-2,3,"384,326","194,060","190,262",151,,"Kashiani ( Fukra, Orakandi, Hatiara, Singa, Bethuri, Puisur, Nijamkandi ), Gopalganj sadar",,,13
+296,217,Gopalganj-3,3,"308,784","158,403","150,380",108,,"Tungipara, Kotalipara",,,8
+297,218,Madaripur-1,3,"324,289","169,041","155,246",102,,Shibchar,,,10
+298,219,Madaripur-2,3,"436,233","223,624","212,601",143,,"Rajoir, Madaripur Sadar",,,10
+299,220,Madaripur-3,3,"387,806","202,645","185,159",134,,"Madaripur Sadar (Khoajpur, Jhaudi, Ghatmajhi, Mostafapur, Kendua), Kalkini",,,5
+300,221,Shariatpur-1,3,"395,476","207,730","187,736",135,,"Zajira, Shariatpur Sadar",,,8
+301,222,Shariatpur-2,3,"415,135","215,993","199,140",133,,"Naria, Bhedarganj ( Sakhipur Thana )",,,9
+302,223,Shariatpur-3,3,"340,142","174,068","166,072",110,,"Damudya, Bhedarganj ( Bhedarganj Thana ), Gosairhat",,,4
+70,73,Meherpur-1,4,"316,975","157,890","159,082",117,,"Mujibnagar, Meherpur Sadar",,,4
+71,74,Meherpur-2,4,"270,705","135,087","135,615",190,,Gangni,,,3
+72,75,Kushtia-1,4,"404,504","203,492","201,011",129,,Daulatpur,,,8
+73,76,Kushtia-2,4,"478,001","239,126","238,872",161,,"Bheramara, Mirpur",,,5
+74,77,Kushtia-3,4,"440,842","217,269","223,569",140,,Kushtia Sadar,,,6
+75,78,Kushtia-4,4,"424,417","213,504","210,908",148,,"Kumarkhali, Khoksa",,,6
+76,79,Chuadanga-1,4,"511,657","254,385","257,265",181,,"Alamdanga, Chuadanga Sadar (Alukdia Union, Mominpur Union, Qutubpur Union, Chuadanga Sadar, Shankarachandra Union, Padma Bila Union)",,,4
+77,80,Chuadanga-2,4,"492,431","246,716","245,711",173,,"Damurhuda, Chuadanga Sadar (Begumpur Union, Titudah Union, Nehalpur Union, Garaitupi union), Jeevannagar",,,2
+78,81,Jhenaidah-1,4,"325,278","163,001","162,277",117,,Shailkupa,,,5
+79,82,Jhenaidah-2,4,"506,640","251,666","254,963",185,,"Harina Kundu, Jhenaidah Sadar (Maharajpur Union, Fursandi Union, Ghorshal Union, Naldanga Union)",,,6
+80,83,Jhenaidah-3,4,"431,015","217,470","213,542",166,,"Maheshpur, Kotchandpur",,,4
+81,84,Jhenaidah-4,4,"333,464","168,255","165,204",117,,"Jhenaidah Sadar (Maharajpur Union, Fursandi Union, Ghorshal Union, Naldanga Union), Kaliganj, Jhenaidah",,,6
+82,85,Jessore-1,4,"311,633","155,807","155,823",102,,Sharsha,,,4
+83,86,Jessore-2,4,"484,866","243,374","241,490",176,,"Jhikargacha, Chougacha",,,8
+84,87,Jessore-3,4,"613,460","307,549","305,901",189,,Jessore Sadar (Basundia Union),,,6
+85,88,Jessore-4,4,"458,531","228,433","230,094",149,,"Bagharpara, Jessore Sadar (Basundia Union), Abhaynagar",,,8
+86,89,Jessore-5,4,"374,252","188,480","185,768",128,,Manirampur,,,6
+87,90,Jessore-6,4,"229,163","115,244","113,917",81,,Keshavpur,,,5
+88,91,Magura-1,4,"430,775","215,268","215,504",152,,"Sripur, Magura Sadar (Shatrujitpur Union, Berail Polita Union, Kuchiamora Union, Gopalgram Union except)",,,7
+89,92,Magura-2,4,"416,634","211,546","205,085",143,,"Shalikha, Mohammadpur, Magura Sadar (Shatrujitpur Union, Berail Polita Union, Kuchiamora Union, Gopalgram Union)",,,4
+90,93,Narail-1,4,"294,155","148,505","145,648",110,,"Kalia, Narail Sadar (Sheikhhati Union, Kalora Union, Singasholpur Union, Bhadrabila Union, Bichali Union, Mulia Union)",,,8
+91,94,Narail-2,4,"390,988","194,245","196,739",147,,"Lohagra, Narail Sadar (Sheikhhati Union,Kolora Union, Singasholpur Union, Bhadrabila Union, Bichali Union, Mulia Union Except)",,,8
+92,95,Bagerhat-1,4,"375,560","190,838","184,720",124,,"Mollahat, Fakirhat, Chitalmari",,,8
+93,96,Bagerhat-2,4,"338,009","167,739","170,265",125,,"Kachua, Bagerhat Sadar",,,4
+94,97,Bagerhat-3,4,"266,864","132,350","134,510",96,,"Rampal, Mongla",,,5
+95,98,Bagerhat-4,4,"380,679","191,812","188,864",143,,"Morelganj, Sharankhola",,,6
+96,99,Khulna-1,4,"307,103","152,285","154,814",110,,"Dakop, Batiaghata",,,12
+97,100,Khulna-2,4,"335,241","165,762","169,469",157,,Khulna City Corporation (Wards No. 16 to 31),,,3
+98,101,Khulna-3,4,"254,409","127,636","126,765",116,,"Khulna City Corporation (Wards No. 1 to 15), Dighlia (Aranghata Union, Yogipol Union)",,,10
+99,102,Khulna-4,4,"378,453","188,526","189,922",133,,"Rupsa, Dighalia (Aranghata Union, Yogipol Union Except), Terkhada",,,4
+100,103,Khulna-5,4,"402,798","199,354","203,443",135,,"Gilatala Cantonment, Phultala, Dumuria",,,4
+101,104,Khulna-6,4,"423,331","212,869","210,461",142,,"Paikgacha, Koira",,,5
+102,105,Satkhira-1,4,"496,848","247,873","248,973",168,,"Kalaroa, Tala",,,5
+103,106,Satkhira-2,4,"535,654","265,965","269,685",138,,Satkhira Sadar,,,5
+104,107,Satkhira-3,4,"502,222","253,984","248,235",154,,"Debhata, Asashuni, Kaliganj (Champaful Union, Nalta Union, Tarali Union, Tenancy Shimla Union)",,,6
+105,108,Satkhira-4,4,"298,050","150,026","148,020",142,,"Kaliganj (Champaful Union, Nalta Union, Tarali Union, Tenancy Shimla Union Except), Shyamnagar",,,4
+31,34,Joypurhat-1,5,"466,274","231,984","234,282",151,,"Panchbibi, Joypurhat Sadar",,,5
+32,35,Joypurhat-2,5,"351,572","174,177","177,393",103,,"Kalai, Khetlal, Akkelpur",,,3
+33,36,Bogra-1,5,"376,019","186,388","189,626",124,,"Sariakandi, Sonatala",,,5
+34,37,Bogra-2,5,"342,155","171,497","170,653",110,,Shibganj,,,7
+35,38,Bogra-3,5,"339,181","169,347","169,831",117,,"Dupchanchia, Adamdighi",,,4
+36,39,Bogra-4,5,"359,523","178,985","180,530",114,,"Kahalu, Nandigram",,,4
+37,40,Bogra-5,5,"572,340","281,287","291,047",188,,"Sherpur, Dhunat",,,5
+38,41,Bogra-6,5,"454,043","222,796","231,237",144,,Bogra Sadar,,,5
+39,42,Bogra-7,5,"538,092","270,070","268,017",172,,"Gabtali, Shajahanpur",,,4
+40,43,Chapainawabganj-1,5,"500,181","255,316","244,865",158,,"Shibganj, Chapainawabganj",,,6
+41,44,Chapainawabganj-2,5,"461,000","228,825","232,174",182,,"Bholahat, Gomstapur, Nachol",,,5
+42,45,Chapainawabganj-3,5,"468,479","236,648","231,831",172,,Chapainawabganj Sadar,,,5
+43,46,Naogaon-1,5,"474,067","235,379","238,684",165,,"Niamatpur, Porsha, Sapahar",,,5
+44,47,Naogaon-2,5,"372,436","185,375","187,059",124,,"Patnitala, Dhamirhat",,,3
+45,48,Naogaon-3,5,"440,785","218,988","221,796",141,,"Badalgachhi, Mahadevpur",,,8
+46,49,Naogaon-4,5,"333,862","165,643","168,215",117,,Manda,,,6
+47,50,Naogaon-5,5,"363,030","180,031","182,994",113,,Naogaon Sadar,,,5
+48,51,Naogaon-6,5,"345,416","174,350","171,061",114,,"Raninagar, Atrai",,,5
+49,52,Rajshahi-1,5,"468,780","234,078","234,699",158,,"Tanor, Godagari",,,5
+50,53,Rajshahi-2,5,"369,564","178,249","191,307",112,,Rajshahi City Corporation,,,6
+51,54,Rajshahi-3,5,"423,738","210,897","212,835",128,,"Paba, Mohanpur",,,6
+52,55,Rajshahi-4,5,"319,909","160,720","159,185",122,,Bagmara,,,4
+53,56,Rajshahi-5,5,"353,174","176,670","176,499",132,,"Durgapur, Puthia",,,7
+54,57,Rajshahi-6,5,"357,054","178,068","178,984",118,,"Charghat, Bagha",,,4
+55,58,Natore-1,5,"368,276","183,595","184,679",125,,"Lalpur, Bagatipara",,,10
+56,59,Natore-2,5,"406,886","201,655","205,222",156,,"Sadar, Naldanga",,,6
+57,60,Natore-3,5,"326,872","164,088","162,781",118,,Singra,,,6
+58,61,Natore-4,5,"445,172","221,348","223,821",167,,"Gurdaspur, Baraigram",,,5
+59,62,Sirajganj-1,5,"385,024","189,676","195,344",173,,"Kazipur,Sirajganj Sadar (Ratankandi Union,Bagbati Union,Bahuli Union,Chongagacha Union,Mehra Union)",,,6
+60,63,Sirajganj-2,5,"469,878","235,248","234,626",145,,"Sirajganj Sadar (SIALKOL UNION,Khokshabari Union, Sirajganj Sadar,Kawakhola Union,Kaliaharipur Union,Syedabad Union,Kamarkhand upazila)",,,7
+61,64,Sirajganj-3,5,"444,427","222,737","221,683",153,,"Raiganj, Tarash",,,4
+62,65,Sirajganj-4,5,"475,821","243,680","232,125",137,,Ullapara,,,5
+63,66,Sirajganj-5,5,"426,321","218,664","207,655",124,,"Belkuchi, Chauhali",,,6
+64,67,Sirajganj-6,5,"485,387","246,412","238,972",160,,Shahjadpur,,,11
+65,68,Pabna-1,5,"464,904","237,675","227,228",125,,"Santhia,Fence,Fence Municipality (Haturia Nakalia Union,New Varenga Union,Kaitola union, Chakla Union)",,,4
+66,69,Pabna-2,5,"373,425","191,467","181,957",108,,"Fence (Old Varenga Union,Jatsakhini Union,Rooppur Union,Masumdia Union,Dhallachar Union),Sujanagar",,,5
+67,70,Pabna-3,5,"486,806","243,937","242,863",176,,"Faridpur, Bhangura, Chatmohar",,,8
+68,71,Pabna-4,5,"440,168","221,442","218,720",129,,"Atgharia, Ishwardi",,,7
+69,72,Pabna-5,5,"528,044","266,433","261,608",163,,Pabna Sadar,,,4
+13,1,Panchagarh-1,6,"463,700","231,976","231,723",156,,"Tetulia, Panchagarh Sadar, Atwari",,,7
+14,2,Panchagarh-2,6,"417,529","209,708","207,818",131,,"Boda, Debiganj",0,0,8
+15,3,Thakurgaon-1,6,"511,629","255,053","256,572",185,,Thakurgaon Sadar,,,3
+16,4,Thakurgaon-2,6,"340,049","175,232","164,816",104,,"Baliadangi, Ranisankail (Dharmagarh, Kashipur),  Haripur",,,7
+17,5,Thakurgaon-3,6,"364,129","184,701","179,426",128,,"Ranisankail, Pirganj",,,10
+18,6,Dinajpur-1,6,"417,133","208,919","208,212",123,,"Birganj, Kaharole",,,6
+19,7,Dinajpur-2,6,"371,478","187,112","184,366",113,,"Bochaganj, Biral",,,8
+20,8,Dinajpur-3,6,"415,636","205,486","210,148",130,,Dinajpur Sadar,,,8
+21,9,Dinajpur-4,6,"421,278","211,304","209,972",130,,"Khansama, Chirirbandar",,,4
+22,10,Dinajpur-5,6,"477,516","238,583","238,930",140,,"Parbatipur, Phulbari",,,7
+23,11,Dinajpur-6,6,"557,692","278,086","279,593",194,,"Nawabganj, Birampur, Hakimpur, Ghoraghat",,,7
+24,12,Nilphamari-1,6,"460,271","232,483","227,786",154,,"Dimla, Domar",,,8
+25,13,Nilphamari-2,6,"385,785","193,034","192,749",135,,Nilphamari Sadar,,,6
+26,14,Nilphamari-3,6,"294,446","149,878","144,567",105,,Jaldhaka,,,4
+27,15,Nilphamari-4,6,"451,814","226,728","225,081",169,,"Kishoreganj, Saidpur",,,9
+28,16,Lalmonirhat-1,6,"403,561","202,707","200,852",132,,"Patgram, Hatibandha",,,9
+29,17,Lalmonirhat-2,6,"432,964","217,200","215,761",144,,"Kaliganj, Aditmari",,,7
+30,18,Lalmonirhat-3,6,"307,970","154,167","153,801",89,,Lalmonirhat Sadar,,,6
+249,19,Rangpur-1,6,"375,227","188,829","186,394",123,,"Gangachara, Rangpur City Corporation (Wards No. 1 to 8)",,,6
+250,20,Rangpur-2,6,"380,921","192,287","188,625",136,,"Taraganj, Badarganj",,,5
+252,21,Rangpur-3,6,"508,223","252,369","255,849",175,,"Rangpur Sadar, Rangpur City Corporation (Wards No. 9 to 33)",,,8
+254,22,Rangpur-4,6,"509,905","250,787","259,113",163,,"Kaunia, Pirgacha",,,7
+255,23,Rangpur-5,6,"469,189","232,462","236,723",150,,Mithapukur,,,10
+256,24,Rangpur-6,6,"355,737","176,103","179,630",111,,Pirganj,,,6
+257,25,Kurigram-1,6,"563,978","281,424","282,551",229,,"Bhurungamari, Nageshwari",,,6
+258,26,Kurigram-2,6,"604,738","299,890","304,841",204,,"Phulbari, Kurigram Sadar, Rajarhat",,,9
+259,27,Kurigram-3,6,"368,470","183,064","185,406",139,,Ulipur,,,6
+260,28,Kurigram-4,6,"362,753","181,361","181,388",130,,"Chilmari, Raomari, Char Rajibpur",,,7
+261,29,Gaibandha-1,6,"419,111","207,573","211,535",114,,Sundarganj,,,8
+262,30,Gaibandha-2,6,"411,460","202,034","209,415",114,,Gaibandha Sadar,,,7
+263,31,Gaibandha-3,6,"506,185","248,901","257,275",134,,"Sadullapur, Palashbari",,,10
+264,32,Gaibandha-4,6,"468,384","231,616","236,758",139,,Gobindaganj,,,7
+265,33,Gaibandha-5,6,"385,261","192,277","192,981",145,,"Saghata, Phulchari",,,8
+135,138,Jamalpur-1,7,"431,707","216,207","215,498",127,,"Bakshiganj, Dewanganj",,,5
+136,139,Jamalpur-2,7,"282,103","144,469","137,633",92,,Islampur,,,4
+137,140,Jamalpur-3,7,"539,504","274,257","265,241",153,,"Melandah, Motherganj",,,9
+138,141,Jamalpur-4,7,"304,992","151,527","153,464",89,,Sarishabari,,,6
+139,142,Jamalpur-5,7,"576,810","281,747","295,053",159,,Jamalpur Sadar,,,8
+140,143,Sherpur-1,7,"450,489","224,472","226,009",144,,Sherpur Sadar,,,6
+141,144,Sherpur-2,7,"440,035","215,786","224,249",154,,"Nakla, Nalitabari",,,4
+142,145,Sherpur-3,7,"413,377","205,077","208,293",126,,"Jhenaigati, Sreebardi",,,5
+143,146,Mymensingh-1,7,"483,712","241,604","242,104",143,,"Dhobaura, Haluaghat",,,7
+144,147,Mymensingh-2,7,"576,167","294,451","281,713",174,,"Phulpur, Tarakanda",,,7
+145,148,Mymensingh-3,7,"298,268","150,780","147,487",92,,Gouripur,,,5
+146,149,Mymensingh-4,7,"695,306","345,005","350,291",177,,Mymensingh Sadar,,,9
+147,150,Mymensingh-5,7,"387,927","194,275","193,650",104,,Muktagacha,,,5
+148,151,Mymensingh-6,7,"417,927","210,330","207,595",121,,Phulbaria,,,5
+149,152,Mymensingh-7,7,"403,249","205,179","198,070",120,,Trishal,,,6
+150,153,Mymensingh-8,7,"348,879","179,437","169,436",92,,Ishwarganj,,,4
+151,154,Mymensingh-9,7,"384,641","198,692","185,942",121,,Nandail,,,6
+152,155,Mymensingh-10,7,"409,364","209,120","200,241",111,,Gafargaon,,,9
+153,156,Mymensingh-11,7,"358,659","178,020","180,636",105,,Baluka,,,5
+154,157,Netrokona-1,7,"456,182","231,751","224,427",124,,"Durgapur, Kalmakanda",,,6
+155,158,Netrokona-2,7,"502,438","252,379","250,047",172,,"Netrakona Sadar, Barhatta",,,5
+156,159,Netrokona-3,7,"420,686","214,883","205,794",149,,"Atpara, Kendua",,,6
+157,160,Netrokona-4,7,"375,308","190,313","184,982",147,,"Madan, Khaliajuri, Mohanganj",,,5
+158,161,Netrokona-5,7,"290,117","147,896","142,219",81,,Purbadhala,,,3
+303,224,Sunamganj-1,8,"501,555","256,185","245,360",168,,"Dharmapasha, Tahirpur, Jamalganj",,,3
+304,225,Sunamganj-2,8,"306,052","154,652","151,399",111,,"Derai, Sullah",,,3
+305,226,Sunamganj-3,8,"373,016","189,243","183,767",145,,"Jagannathpur, South Sunamganj",,,7
+306,227,Sunamganj-4,8,"372,185","189,359","182,813",112,,"Sunamganj Sadar, Bishwamvarpur",,,5
+307,228,Sunamganj-5,8,"527,458","270,620","256,836",164,,"Dowarabazar, Chatak",,,5
+308,229,Sylhet-1,8,"680,946","353,186","327,747",215,,"Sylhet Sadar, Sylhet City Corporation",,,8
+309,230,Sylhet-2,8,"368,932","188,679","180,253",128,,"Osmaninagar, Bishwanath",,,5
+310,231,Sylhet-3,8,"416,000","211,709","204,289",151,,"Dakshin Surma, Balaganj, Fenchuganj",,,6
+311,232,Sylhet-4,8,"512,933","267,130","245,802",169,,"Companiganj, Gowainghat, Jaintiapur",,,5
+312,233,Sylhet-5,8,"428,748","221,357","207,391",158,,"Kanaighat, Zakiganj",,,4
+313,234,Sylhet-6,8,"509,093","256,938","252,155",192,,"Beanibazar, Golapganj",,,5
+314,235,Moulvibazar-1,8,"337,816","172,998","164,816",112,,"Barlekha, Juri",,,6
+315,236,Moulvibazar-2,8,"303,020","157,128","145,892",103,,Kulaura,,,8
+316,237,Moulvibazar-3,8,"486,212","248,109","238,099",174,,"Rajnagar, Moulvibazar Sadar",,,4
+317,238,Moulvibazar-4,8,"487,892","246,202","241,688",160,,"Kamolganj, Sreemangal",,,6
+318,239,Habiganj-1,8,"466,921","236,576","230,340",177,,"Bahubal, Nabiganj",,,5
+319,240,Habiganj-2,8,"394,756","200,162","194,590",150,,"Baniachong,  Ajmiriganj",,,5
+320,241,Habiganj-3,8,"419,573","213,298","206,262",131,,"Lakhai, Habiganj Sadar, Shayestaganj",,,6
+321,242,Habiganj-4,8,"552,711","278,660","274,049",177,,"Chunarughat, Madhabpur",,,9
