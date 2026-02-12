@@ -1,55 +1,55 @@
 seat_name,party,name,vote,center,division_id,total_center,time,source
-Chapai Nawabganj-2,Jamaat,Md. Enamul Haque,14796.0,13.0,5,182,2026-02-12 15:56:06.220455+00:00,dt
-Chapai Nawabganj-2,BNP,Md. Shamsuzzoha Khan,12850.0,13.0,5,182,2026-02-12 15:56:06.220455+00:00,dt
-Chapai Nawabganj-2,AB Party,Md. Matibul Islam,,13.0,5,182,2026-02-12 15:56:06.220455+00:00,dt
+Chapai Nawabganj-2,Jamaat,Md. Enamul Haque,14796,13,5,182,2026-02-12 15:56:06.220455+00:00,dt
+Chapai Nawabganj-2,BNP,Md. Shamsuzzoha Khan,12850,13,5,182,2026-02-12 15:56:06.220455+00:00,dt
+Chapai Nawabganj-2,AB Party,Md. Matibul Islam,,13,5,182,2026-02-12 15:56:06.220455+00:00,dt
 Chapai Nawabganj-3,Islami Andolan Bangladesh,Nasir Bin Asgar,,,5,172,2026-02-12 15:56:06.220455+00:00,dt
 Chapai Nawabganj-3,BNP,Md. Fazle Huda,,,5,172,2026-02-12 15:56:06.220455+00:00,dt
 Chapai Nawabganj-3,JaPa,Md. Masud Rana,,,5,172,2026-02-12 15:56:06.220455+00:00,dt
 Chapai Nawabganj-3,Jamaat,Md. Mahfuzur Rahman,,,5,172,2026-02-12 15:56:06.220455+00:00,dt
-Naogaon-1,BNP,Ikramul Bari Tipu,63662.0,53.0,5,165,2026-02-12 15:56:06.220455+00:00,dt
-Naogaon-1,Jamaat,Md. Abdur Rakib,40685.0,53.0,5,165,2026-02-12 15:56:06.220455+00:00,dt
-Naogaon-1,CPB,Dr. S. M. Fazlur Rahman,,53.0,5,165,2026-02-12 15:56:06.220455+00:00,dt
-Naogaon-1,JaPa,Md. Altaf Hossain,,53.0,5,165,2026-02-12 15:56:06.220455+00:00,dt
-Naogaon-1,Islami Andolan Bangladesh,Sohrab Hossain,,53.0,5,165,2026-02-12 15:56:06.220455+00:00,dt
-Naogaon-2,BNP,Md. Zahidul Islam Dhalu,36971.0,30.0,5,124,2026-02-12 15:56:06.220455+00:00,dt
-Naogaon-2,Jamaat,Abu Sadat Md. Sayem,24885.0,30.0,5,124,2026-02-12 15:56:06.220455+00:00,dt
-Naogaon-2,JaPa,Md. Anwar Hossain,,30.0,5,124,2026-02-12 15:56:06.220455+00:00,dt
-Naogaon-2,Islami Andolan Bangladesh,Md. Abdur Rahman,,30.0,5,124,2026-02-12 15:56:06.220455+00:00,dt
-Naogaon-2,CPB,Shafiqul Islam,,30.0,5,124,2026-02-12 15:56:06.220455+00:00,dt
-Naogaon-3,BNP,Sheikh Md. Rezaul Islam,25541.0,27.0,5,141,2026-02-12 15:56:06.220455+00:00,dt
-Naogaon-3,Jamaat,Md. Khabirul Islam,23664.0,27.0,5,141,2026-02-12 15:56:06.220455+00:00,dt
-Naogaon-3,Islami Andolan Bangladesh,Md. Rafiqul Islam,,27.0,5,141,2026-02-12 15:56:06.220455+00:00,dt
-Naogaon-4,Jamaat,Md. Mujibur Rahman,18336.0,14.0,5,117,2026-02-12 15:56:06.220455+00:00,dt
-Naogaon-4,BNP,Md. Sharif Uddin,10113.0,14.0,5,117,2026-02-12 15:56:06.220455+00:00,dt
-Naogaon-4,AB Party,Md. Abdur Rahman,,14.0,5,117,2026-02-12 15:56:06.220455+00:00,dt
-Naogaon-5,BNP,Md. Mizanur Rahman Minu,15144.0,14.0,5,113,2026-02-12 15:56:06.220455+00:00,dt
-Naogaon-5,Jamaat,Mohammad Jahangir,11013.0,14.0,5,113,2026-02-12 15:56:06.220455+00:00,dt
-Naogaon-5,AB Party,Md. Saeed Noman,,14.0,5,113,2026-02-12 15:56:06.220455+00:00,dt
-Naogaon-6,BNP,Mohammad Shafiqul Haque Milon,23015.0,19.0,5,114,2026-02-12 15:56:06.220455+00:00,dt
-Naogaon-6,Jamaat,Md. Abul Kalam Azad,14510.0,19.0,5,114,2026-02-12 15:56:06.220455+00:00,dt
-Naogaon-6,JaPa,Md. Afzal Hossain,,19.0,5,114,2026-02-12 15:56:06.220455+00:00,dt
-Naogaon-6,Islami Andolan Bangladesh,Md. Fazlur Rahman,,19.0,5,114,2026-02-12 15:56:06.220455+00:00,dt
-Rajshahi-1,Jamaat,Md. Abdul Bari Sardar,43295.0,40.0,5,158,2026-02-12 15:56:06.220455+00:00,dt
-Rajshahi-1,BNP,D. M. D. Ziaur Rahman,40655.0,40.0,5,158,2026-02-12 15:56:06.220455+00:00,dt
-Rajshahi-1,Islami Andolan Bangladesh,Md. Tajul Islam Khan,,40.0,5,158,2026-02-12 15:56:06.220455+00:00,dt
-Rajshahi-1,JaPa,Md. Fazlul Haque,,40.0,5,158,2026-02-12 15:56:06.220455+00:00,dt
-Rajshahi-2,BNP,Professor Nazrul Islam,14869.0,13.0,5,112,2026-02-12 15:56:06.220455+00:00,dt
-Rajshahi-2,Jamaat,Manjur Rahman,5372.0,13.0,5,112,2026-02-12 15:56:06.220455+00:00,dt
-Rajshahi-2,Islami Andolan Bangladesh,Md. Ruhul Amin,,13.0,5,112,2026-02-12 15:56:06.220455+00:00,dt
-Rajshahi-3,BNP,Md. Abu Sayeed Chand,6227.0,5.0,5,128,2026-02-12 15:56:06.220455+00:00,dt
-Rajshahi-3,Jamaat,Md. Nazmul Haque,3393.0,5.0,5,128,2026-02-12 15:56:06.220455+00:00,dt
-Rajshahi-3,Islami Andolan Bangladesh,Md. Abdus Salam Suruj,,5.0,5,128,2026-02-12 15:56:06.220455+00:00,dt
-Rajshahi-3,JaPa,Md. Iqbal Hossain,,5.0,5,128,2026-02-12 15:56:06.220455+00:00,dt
-Rajshahi-4,Jamaat,Md. Abul Kalam Azad,910.0,1.0,5,122,2026-02-12 15:56:06.220455+00:00,dt
-Rajshahi-4,BNP,Farzana Sharmin,398.0,1.0,5,122,2026-02-12 15:56:06.220455+00:00,dt
-Rajshahi-4,Islami Andolan Bangladesh,Md. Abdullahil Baki,,1.0,5,122,2026-02-12 15:56:06.220455+00:00,dt
-Rajshahi-4,JaPa,Md. Sahed Ali Jinnah,,1.0,5,122,2026-02-12 15:56:06.220455+00:00,dt
-Rajshahi-4,Ganosamhati Andolon (Saki),Md. Sentu Ali,,1.0,5,122,2026-02-12 15:56:06.220455+00:00,dt
-Rajshahi-5,BNP,M. Ruhul Quddus Talukder Dulu,9982.0,9.0,5,132,2026-02-12 15:56:06.220455+00:00,dt
-Rajshahi-5,Jamaat,Md. Yunus Ali,9034.0,9.0,5,132,2026-02-12 15:56:06.220455+00:00,dt
-Rajshahi-5,Ganosamhati Andolon (Saki),Tahamida Islam Tania,,9.0,5,132,2026-02-12 15:56:06.220455+00:00,dt
-Rajshahi-5,JaPa,Md. Rakib Uddin (Komol),,9.0,5,132,2026-02-12 15:56:06.220455+00:00,dt
-Rajshahi-5,Islami Andolan Bangladesh,Mohammad Ali Siddiqui,,9.0,5,132,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-1,BNP,Ikramul Bari Tipu,63662,53,5,165,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-1,Jamaat,Md. Abdur Rakib,40685,53,5,165,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-1,CPB,Dr. S. M. Fazlur Rahman,,53,5,165,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-1,JaPa,Md. Altaf Hossain,,53,5,165,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-1,Islami Andolan Bangladesh,Sohrab Hossain,,53,5,165,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-2,BNP,Md. Zahidul Islam Dhalu,36971,30,5,124,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-2,Jamaat,Abu Sadat Md. Sayem,24885,30,5,124,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-2,JaPa,Md. Anwar Hossain,,30,5,124,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-2,Islami Andolan Bangladesh,Md. Abdur Rahman,,30,5,124,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-2,CPB,Shafiqul Islam,,30,5,124,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-3,BNP,Sheikh Md. Rezaul Islam,25541,27,5,141,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-3,Jamaat,Md. Khabirul Islam,23664,27,5,141,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-3,Islami Andolan Bangladesh,Md. Rafiqul Islam,,27,5,141,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-4,Jamaat,Md. Mujibur Rahman,18336,14,5,117,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-4,BNP,Md. Sharif Uddin,10113,14,5,117,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-4,AB Party,Md. Abdur Rahman,,14,5,117,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-5,BNP,Md. Mizanur Rahman Minu,15144,14,5,113,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-5,Jamaat,Mohammad Jahangir,11013,14,5,113,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-5,AB Party,Md. Saeed Noman,,14,5,113,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-6,BNP,Mohammad Shafiqul Haque Milon,23015,19,5,114,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-6,Jamaat,Md. Abul Kalam Azad,14510,19,5,114,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-6,JaPa,Md. Afzal Hossain,,19,5,114,2026-02-12 15:56:06.220455+00:00,dt
+Naogaon-6,Islami Andolan Bangladesh,Md. Fazlur Rahman,,19,5,114,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-1,Jamaat,Md. Abdul Bari Sardar,43295,40,5,158,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-1,BNP,D. M. D. Ziaur Rahman,40655,40,5,158,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-1,Islami Andolan Bangladesh,Md. Tajul Islam Khan,,40,5,158,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-1,JaPa,Md. Fazlul Haque,,40,5,158,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-2,BNP,Professor Nazrul Islam,14869,13,5,112,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-2,Jamaat,Manjur Rahman,5372,13,5,112,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-2,Islami Andolan Bangladesh,Md. Ruhul Amin,,13,5,112,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-3,BNP,Md. Abu Sayeed Chand,6227,5,5,128,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-3,Jamaat,Md. Nazmul Haque,3393,5,5,128,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-3,Islami Andolan Bangladesh,Md. Abdus Salam Suruj,,5,5,128,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-3,JaPa,Md. Iqbal Hossain,,5,5,128,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-4,Jamaat,Md. Abul Kalam Azad,910,1,5,122,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-4,BNP,Farzana Sharmin,398,1,5,122,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-4,Islami Andolan Bangladesh,Md. Abdullahil Baki,,1,5,122,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-4,JaPa,Md. Sahed Ali Jinnah,,1,5,122,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-4,Ganosamhati Andolon (Saki),Md. Sentu Ali,,1,5,122,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-5,BNP,M. Ruhul Quddus Talukder Dulu,9982,9,5,132,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-5,Jamaat,Md. Yunus Ali,9034,9,5,132,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-5,Ganosamhati Andolon (Saki),Tahamida Islam Tania,,9,5,132,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-5,JaPa,Md. Rakib Uddin (Komol),,9,5,132,2026-02-12 15:56:06.220455+00:00,dt
+Rajshahi-5,Islami Andolan Bangladesh,Mohammad Ali Siddiqui,,9,5,132,2026-02-12 15:56:06.220455+00:00,dt
 Rajshahi-6,NCP,S. M. Zargis Qadir,,,5,118,2026-02-12 15:56:06.220455+00:00,dt
 Rajshahi-6,BNP,Md. Anwarul Islam,,,5,118,2026-02-12 15:56:06.220455+00:00,dt
 Rajshahi-6,JaPa,Md. Ashiq Iqbal,,,5,118,2026-02-12 15:56:06.220455+00:00,dt
@@ -62,10 +62,10 @@ Natore-1,AB Party,Md. Moksedul Momin,,,5,125,2026-02-12 15:56:06.220455+00:00,dt
 Natore-2,JaPa,Md. Jahurul Islam,,,5,156,2026-02-12 15:56:06.220455+00:00,dt
 Natore-2,Jamaat,Md. Shahinur Alam,,,5,156,2026-02-12 15:56:06.220455+00:00,dt
 Natore-2,BNP,Md. Selim Reza,,,5,156,2026-02-12 15:56:06.220455+00:00,dt
-Natore-3,BNP,Iqbal Hasan Mahmud,2618.0,2.0,5,118,2026-02-12 15:56:06.220455+00:00,dt
-Natore-3,Jamaat,Muhammad Zahidul Islam,1269.0,2.0,5,118,2026-02-12 15:56:06.220455+00:00,dt
-Natore-3,CPB,Md. Anwar Hossain,,2.0,5,118,2026-02-12 15:56:06.220455+00:00,dt
-Natore-3,Islami Andolan Bangladesh,Md. Mohibullah,,2.0,5,118,2026-02-12 15:56:06.220455+00:00,dt
+Natore-3,BNP,Iqbal Hasan Mahmud,2618,2,5,118,2026-02-12 15:56:06.220455+00:00,dt
+Natore-3,Jamaat,Muhammad Zahidul Islam,1269,2,5,118,2026-02-12 15:56:06.220455+00:00,dt
+Natore-3,CPB,Md. Anwar Hossain,,2,5,118,2026-02-12 15:56:06.220455+00:00,dt
+Natore-3,Islami Andolan Bangladesh,Md. Mohibullah,,2,5,118,2026-02-12 15:56:06.220455+00:00,dt
 Natore-4,Bangladesh Khelafat Majlish,Md. Abdur Rauf Sarkar,,,5,167,2026-02-12 15:56:06.220455+00:00,dt
 Natore-4,BNP,Md. Ainul Haque,,,5,167,2026-02-12 15:56:06.220455+00:00,dt
 Natore-4,JaPa,Md. Fazlul Haque,,,5,167,2026-02-12 15:56:06.220455+00:00,dt
@@ -102,10 +102,10 @@ Pabna-1,Jamaat,Md. Abu Taleb Mondol,,,5,125,2026-02-12 15:56:06.220455+00:00,dt
 Pabna-1,JaPa,Md. Saiful Azad Mallik,,,5,125,2026-02-12 15:56:06.220455+00:00,dt
 Pabna-1,CPB,Md. Sohag Hossain,,,5,125,2026-02-12 15:56:06.220455+00:00,dt
 Pabna-1,BNP,Md. Habibur Rahman (Habib),,,5,125,2026-02-12 15:56:06.220455+00:00,dt
-Pabna-2,Jamaat,Md. Iqbal Hossain,8897.0,11.0,5,108,2026-02-12 15:56:06.220455+00:00,dt
-Pabna-2,BNP,Md. Shamsur Rahman Shimul Biswas,1039.0,11.0,5,108,2026-02-12 15:56:06.220455+00:00,dt
-Pabna-2,AB Party,Md. Abdul Majid Mollah,,11.0,5,108,2026-02-12 15:56:06.220455+00:00,dt
-Pabna-2,Islami Andolan Bangladesh,Md. Nazmul Hossain,,11.0,5,108,2026-02-12 15:56:06.220455+00:00,dt
+Pabna-2,Jamaat,Md. Iqbal Hossain,8897,11,5,108,2026-02-12 15:56:06.220455+00:00,dt
+Pabna-2,BNP,Md. Shamsur Rahman Shimul Biswas,1039,11,5,108,2026-02-12 15:56:06.220455+00:00,dt
+Pabna-2,AB Party,Md. Abdul Majid Mollah,,11,5,108,2026-02-12 15:56:06.220455+00:00,dt
+Pabna-2,Islami Andolan Bangladesh,Md. Nazmul Hossain,,11,5,108,2026-02-12 15:56:06.220455+00:00,dt
 Pabna-3,BNP,Masud Arun,,,5,176,2026-02-12 15:56:06.220455+00:00,dt
 Pabna-3,JaPa,Md. Abdul Hamid,,,5,176,2026-02-12 15:56:06.220455+00:00,dt
 Pabna-3,Jamaat,Md. Tajuddin Khan,,,5,176,2026-02-12 15:56:06.220455+00:00,dt
@@ -113,11 +113,11 @@ Pabna-3,CPB,Md. Mizanur Rahman,,,5,176,2026-02-12 15:56:06.220455+00:00,dt
 Pabna-4,JaPa,Md. Abdul Baki,,,5,129,2026-02-12 15:56:06.220455+00:00,dt
 Pabna-4,BNP,Md. Amjad Hossain,,,5,129,2026-02-12 15:56:06.220455+00:00,dt
 Pabna-4,Jamaat,Md. Nazmul Huda,,,5,129,2026-02-12 15:56:06.220455+00:00,dt
-Pabna-5,BNP,Reza Ahmed,10971.0,10.0,5,163,2026-02-12 15:56:06.220455+00:00,dt
-Pabna-5,Jamaat,Md. Belal Uddin,5923.0,10.0,5,163,2026-02-12 15:56:06.220455+00:00,dt
-Pabna-5,Islami Andolan Bangladesh,Md. Aminul Islam,,10.0,5,163,2026-02-12 15:56:06.220455+00:00,dt
-Pabna-5,JaPa,Md. Nuruzzaman,,10.0,5,163,2026-02-12 15:56:06.220455+00:00,dt
-Pabna-5,JaPa,Md. Shahriar Jamil,,10.0,5,163,2026-02-12 15:56:06.220455+00:00,dt
+Pabna-5,BNP,Reza Ahmed,10971,10,5,163,2026-02-12 15:56:06.220455+00:00,dt
+Pabna-5,Jamaat,Md. Belal Uddin,5923,10,5,163,2026-02-12 15:56:06.220455+00:00,dt
+Pabna-5,Islami Andolan Bangladesh,Md. Aminul Islam,,10,5,163,2026-02-12 15:56:06.220455+00:00,dt
+Pabna-5,JaPa,Md. Nuruzzaman,,10,5,163,2026-02-12 15:56:06.220455+00:00,dt
+Pabna-5,JaPa,Md. Shahriar Jamil,,10,5,163,2026-02-12 15:56:06.220455+00:00,dt
 Nilphamari-2,BNP,Mohammad Nawshad Zamir,,,6,135,2026-02-12 15:56:06.220455+00:00,dt
 Nilphamari-2,NCP,Md. Sarjis Alam,,,6,135,2026-02-12 15:56:06.220455+00:00,dt
 Nilphamari-3,BNP,Farhad Hossain Azad,,,6,105,2026-02-12 15:56:06.220455+00:00,dt
@@ -125,9 +125,9 @@ Nilphamari-3,CPB,Md. Ashraful Alam,,,6,105,2026-02-12 15:56:06.220455+00:00,dt
 Nilphamari-3,Islami Andolan Bangladesh,Md. Kamrul Hasan Prodhan,,,6,105,2026-02-12 15:56:06.220455+00:00,dt
 Nilphamari-3,JaPa,Md. Lutfar Rahman Ripon,,,6,105,2026-02-12 15:56:06.220455+00:00,dt
 Nilphamari-3,Jamaat,Md. Safiul Alam,,,6,105,2026-02-12 15:56:06.220455+00:00,dt
-Nilphamari-4,BNP,Mirza Fakhrul Islam Alamgir,2251.0,2.0,6,169,2026-02-12 15:56:06.220455+00:00,dt
-Nilphamari-4,Jamaat,Delwar Hossain,1072.0,2.0,6,169,2026-02-12 15:56:06.220455+00:00,dt
-Nilphamari-4,Islami Andolan Bangladesh,Md. Khademul Islam,,2.0,6,169,2026-02-12 15:56:06.220455+00:00,dt
+Nilphamari-4,BNP,Mirza Fakhrul Islam Alamgir,2251,2,6,169,2026-02-12 15:56:06.220455+00:00,dt
+Nilphamari-4,Jamaat,Delwar Hossain,1072,2,6,169,2026-02-12 15:56:06.220455+00:00,dt
+Nilphamari-4,Islami Andolan Bangladesh,Md. Khademul Islam,,2,6,169,2026-02-12 15:56:06.220455+00:00,dt
 Lalmonirhat-1,JaPa,Nurun Nahar Begum,,,6,132,2026-02-12 15:56:06.220455+00:00,dt
 Lalmonirhat-1,Jamaat,Md. Abdul Hakim,,,6,132,2026-02-12 15:56:06.220455+00:00,dt
 Lalmonirhat-1,BNP,Md. Abdus Salam,,,6,132,2026-02-12 15:56:06.220455+00:00,dt
@@ -196,12 +196,12 @@ Gaibandha-2,CPB,Madhu Sudan Roy,,,6,114,2026-02-12 15:56:06.220455+00:00,dt
 Gaibandha-2,Jamaat,Md. Abu Taher,,,6,114,2026-02-12 15:56:06.220455+00:00,dt
 Gaibandha-2,Islami Andolan Bangladesh,Md. Aminul Islam,,,6,114,2026-02-12 15:56:06.220455+00:00,dt
 Gaibandha-2,JaPa,Md. Zahid Hasan,,,6,114,2026-02-12 15:56:06.220455+00:00,dt
-Gaibandha-3,Jamaat,Md. Fazlur Rahman Saeed,1410.0,1.0,6,134,2026-02-12 15:56:06.220455+00:00,dt
-Gaibandha-3,BNP,Md. Masud Rana Pradhan,854.0,1.0,6,134,2026-02-12 15:56:06.220455+00:00,dt
-Gaibandha-3,JaPa,Sabekun Nahar,,1.0,6,134,2026-02-12 15:56:06.220455+00:00,dt
-Gaibandha-4,BNP,Md. Abdul Bari,15316.0,11.0,6,139,2026-02-12 15:56:06.220455+00:00,dt
-Gaibandha-4,Jamaat,S. M. Rashedul Alam,10445.0,11.0,6,139,2026-02-12 15:56:06.220455+00:00,dt
-Gaibandha-4,AB Party,S. A. Zahid,,11.0,6,139,2026-02-12 15:56:06.220455+00:00,dt
+Gaibandha-3,Jamaat,Md. Fazlur Rahman Saeed,1410,1,6,134,2026-02-12 15:56:06.220455+00:00,dt
+Gaibandha-3,BNP,Md. Masud Rana Pradhan,854,1,6,134,2026-02-12 15:56:06.220455+00:00,dt
+Gaibandha-3,JaPa,Sabekun Nahar,,1,6,134,2026-02-12 15:56:06.220455+00:00,dt
+Gaibandha-4,BNP,Md. Abdul Bari,15316,11,6,139,2026-02-12 15:56:06.220455+00:00,dt
+Gaibandha-4,Jamaat,S. M. Rashedul Alam,10445,11,6,139,2026-02-12 15:56:06.220455+00:00,dt
+Gaibandha-4,AB Party,S. A. Zahid,,11,6,139,2026-02-12 15:56:06.220455+00:00,dt
 Gaibandha-5,Islami Andolan Bangladesh,A. B. M. Mostafa Kamal Pasha,,,6,145,2026-02-12 15:56:06.220455+00:00,dt
 Gaibandha-5,BNP,Kazi Rafiqul Islam,,,6,145,2026-02-12 15:56:06.220455+00:00,dt
 Gaibandha-5,Gano Forum,Md. Zulfikar Ali,,,6,145,2026-02-12 15:56:06.220455+00:00,dt
@@ -214,14 +214,14 @@ Jamalpur-2,Jamaat,Muhammad Abdus Sattar,,,7,92,2026-02-12 15:56:06.220455+00:00,
 Jamalpur-2,BNP,Shah Md. Waresh Ali Mamun,,,7,92,2026-02-12 15:56:06.220455+00:00,dt
 Jamalpur-2,CPB,Sheikh Md. Akkas Ali,,,7,92,2026-02-12 15:56:06.220455+00:00,dt
 Jamalpur-2,Islami Andolan Bangladesh,Syed Yunus Ahmed,,,7,92,2026-02-12 15:56:06.220455+00:00,dt
-Jamalpur-3,Jamaat,Md. Rashedul Islam Rashed,16823.0,18.0,7,153,2026-02-12 15:56:06.220455+00:00,dt
-Jamalpur-3,BNP,Sansila Zebrin,8234.0,18.0,7,153,2026-02-12 15:56:06.220455+00:00,dt
-Jamalpur-3,JaPa,Md. Mahmudul Haque Moni,,18.0,7,153,2026-02-12 15:56:06.220455+00:00,dt
-Jamalpur-3,NCP,Md. Likhon Mia,,18.0,7,153,2026-02-12 15:56:06.220455+00:00,dt
-Jamalpur-4,BNP,Mohammad Fahim Chowdhury,9657.0,14.0,7,89,2026-02-12 15:56:06.220455+00:00,dt
-Jamalpur-4,Jamaat,Md. Golam Kibria,9312.0,14.0,7,89,2026-02-12 15:56:06.220455+00:00,dt
-Jamalpur-4,AB Party,Md. Abdullah,,14.0,7,89,2026-02-12 15:56:06.220455+00:00,dt
-Jamalpur-4,Islami Andolan Bangladesh,Md. Abdullah Al Qayes,,14.0,7,89,2026-02-12 15:56:06.220455+00:00,dt
+Jamalpur-3,Jamaat,Md. Rashedul Islam Rashed,16823,18,7,153,2026-02-12 15:56:06.220455+00:00,dt
+Jamalpur-3,BNP,Sansila Zebrin,8234,18,7,153,2026-02-12 15:56:06.220455+00:00,dt
+Jamalpur-3,JaPa,Md. Mahmudul Haque Moni,,18,7,153,2026-02-12 15:56:06.220455+00:00,dt
+Jamalpur-3,NCP,Md. Likhon Mia,,18,7,153,2026-02-12 15:56:06.220455+00:00,dt
+Jamalpur-4,BNP,Mohammad Fahim Chowdhury,9657,14,7,89,2026-02-12 15:56:06.220455+00:00,dt
+Jamalpur-4,Jamaat,Md. Golam Kibria,9312,14,7,89,2026-02-12 15:56:06.220455+00:00,dt
+Jamalpur-4,AB Party,Md. Abdullah,,14,7,89,2026-02-12 15:56:06.220455+00:00,dt
+Jamalpur-4,Islami Andolan Bangladesh,Md. Abdullah Al Qayes,,14,7,89,2026-02-12 15:56:06.220455+00:00,dt
 Jamalpur-5,Islami Andolan Bangladesh,Abu Taleb Md. Saifuddin,,,7,159,2026-02-12 15:56:06.220455+00:00,dt
 Jamalpur-5,BNP,Md. Mahmudul Haque Rubel,,,7,159,2026-02-12 15:56:06.220455+00:00,dt
 Jamalpur-5,Jamaat,Mohammad Nuruzzaman,,,7,159,2026-02-12 15:56:06.220455+00:00,dt
@@ -341,14 +341,14 @@ Sylhet-4,Jamaat,Md. Yakub Ali,,,8,169,2026-02-12 15:56:06.220455+00:00,dt
 Sylhet-4,Islami Andolan Bangladesh,Md. Kawsar,,,8,169,2026-02-12 15:56:06.220455+00:00,dt
 Sylhet-4,JaPa,Md. Nur Islam,,,8,169,2026-02-12 15:56:06.220455+00:00,dt
 Sylhet-4,JaPa,Samiran Dewan,,,8,169,2026-02-12 15:56:06.220455+00:00,dt
-Sylhet-5,BNP,Dipen Dewan,3746.0,4.0,8,158,2026-02-12 15:56:06.220455+00:00,dt
-Sylhet-5,Bangladesh Khelafat Majlish,Muhammad Abu Bakar Siddique,12.0,4.0,8,158,2026-02-12 15:56:06.220455+00:00,dt
-Sylhet-5,JaPa,Ashok Talukder,,4.0,8,158,2026-02-12 15:56:06.220455+00:00,dt
-Sylhet-5,Islami Andolan Bangladesh,Md. Jasim Uddin,,4.0,8,158,2026-02-12 15:56:06.220455+00:00,dt
-Sylhet-6,BNP,Saching Pru,6713.0,9.0,8,192,2026-02-12 15:56:06.220455+00:00,dt
-Sylhet-6,NCP,Abu Sayeed Md. Suja Uddin,1203.0,9.0,8,192,2026-02-12 15:56:06.220455+00:00,dt
-Sylhet-6,JaPa,Abu Zafar Mohammad Waliullah,,9.0,8,192,2026-02-12 15:56:06.220455+00:00,dt
-Sylhet-6,Islami Andolan Bangladesh,Md. Abul Kalam Azad,,9.0,8,192,2026-02-12 15:56:06.220455+00:00,dt
+Sylhet-5,BNP,Dipen Dewan,3746,4,8,158,2026-02-12 15:56:06.220455+00:00,dt
+Sylhet-5,Bangladesh Khelafat Majlish,Muhammad Abu Bakar Siddique,12,4,8,158,2026-02-12 15:56:06.220455+00:00,dt
+Sylhet-5,JaPa,Ashok Talukder,,4,8,158,2026-02-12 15:56:06.220455+00:00,dt
+Sylhet-5,Islami Andolan Bangladesh,Md. Jasim Uddin,,4,8,158,2026-02-12 15:56:06.220455+00:00,dt
+Sylhet-6,BNP,Saching Pru,6713,9,8,192,2026-02-12 15:56:06.220455+00:00,dt
+Sylhet-6,NCP,Abu Sayeed Md. Suja Uddin,1203,9,8,192,2026-02-12 15:56:06.220455+00:00,dt
+Sylhet-6,JaPa,Abu Zafar Mohammad Waliullah,,9,8,192,2026-02-12 15:56:06.220455+00:00,dt
+Sylhet-6,Islami Andolan Bangladesh,Md. Abul Kalam Azad,,9,8,192,2026-02-12 15:56:06.220455+00:00,dt
 Moulvibazar-1,CPB,Abdur Rahman,,,8,112,2026-02-12 15:56:06.220455+00:00,dt
 Moulvibazar-1,Jamaat,A. K. M. Fakhruddin Razi,,,8,112,2026-02-12 15:56:06.220455+00:00,dt
 Moulvibazar-1,Islami Andolan Bangladesh,Md. Atiqur Rahman Khan,,,8,112,2026-02-12 15:56:06.220455+00:00,dt
@@ -362,10 +362,10 @@ Moulvibazar-3,JaPa,Md. Arifuzzaman (Didar),,,8,174,2026-02-12 15:56:06.220455+00
 Moulvibazar-3,BNP,Md. Kamruzzaman,,,8,174,2026-02-12 15:56:06.220455+00:00,dt
 Moulvibazar-3,CPB,Sheikh Md. Kamal Hossain,,,8,174,2026-02-12 15:56:06.220455+00:00,dt
 Moulvibazar-3,Islami Andolan Bangladesh,Suman Dewan,,,8,174,2026-02-12 15:56:06.220455+00:00,dt
-Moulvibazar-4,BNP,Khandaker Abu Ashfaq,5689.0,8.0,8,160,2026-02-12 15:56:06.220455+00:00,dt
-Moulvibazar-4,Jamaat,Mohammad Nazrul Islam,5599.0,8.0,8,160,2026-02-12 15:56:06.220455+00:00,dt
-Moulvibazar-4,Islami Andolan Bangladesh,Nurul Islam,,8.0,8,160,2026-02-12 15:56:06.220455+00:00,dt
-Moulvibazar-4,JaPa,Md. Nasir Uddin Molla,,8.0,8,160,2026-02-12 15:56:06.220455+00:00,dt
+Moulvibazar-4,BNP,Khandaker Abu Ashfaq,5689,8,8,160,2026-02-12 15:56:06.220455+00:00,dt
+Moulvibazar-4,Jamaat,Mohammad Nazrul Islam,5599,8,8,160,2026-02-12 15:56:06.220455+00:00,dt
+Moulvibazar-4,Islami Andolan Bangladesh,Nurul Islam,,8,8,160,2026-02-12 15:56:06.220455+00:00,dt
+Moulvibazar-4,JaPa,Md. Nasir Uddin Molla,,8,8,160,2026-02-12 15:56:06.220455+00:00,dt
 Habiganj-1,Jamaat,Md. Abdul Haque,,,8,177,2026-02-12 15:56:06.220455+00:00,dt
 Habiganj-1,BNP,Md. Amanullah Aman,,,8,177,2026-02-12 15:56:06.220455+00:00,dt
 Habiganj-1,Islami Andolan Bangladesh,Md. Jahirul Islam,,,8,177,2026-02-12 15:56:06.220455+00:00,dt
@@ -395,8 +395,8 @@ Patuakhali-1,Khelafat Majlish,Dr. Jahir Uddin Ahmed,,111,1,159,2026-02-12 17:39:
 Patuakhali-2,Jamaat,Md. Nazrul Islam,63352,96,1,114,2026-02-12 17:39:54.449789+00:00,dt
 Patuakhali-2,JaPa,Md. Akbar Hossain,,96,1,114,2026-02-12 17:39:54.449789+00:00,dt
 Patuakhali-2,Islami Andolan Bangladesh,Md. Obaidur Rahman,,96,1,114,2026-02-12 17:39:54.449789+00:00,dt
-Patuakhali-3,Jamaat,Mohammad Fazlul Karim,"93,498",138,1,124,2026-02-12 17:39:54.449789+00:00,dt
-Patuakhali-3,BNP,Md. Hafiz Ibrahim,"1,21,005",138,1,124,2026-02-12 17:39:54.449789+00:00,dt
+Patuakhali-3,Jamaat,Mohammad Fazlul Karim,93498,138,1,124,2026-02-12 17:39:54.449789+00:00,dt
+Patuakhali-3,BNP,Md. Hafiz Ibrahim,121005,138,1,124,2026-02-12 17:39:54.449789+00:00,dt
 Patuakhali-3,JaPa,Advocate Md. Jahangir Alam Ritu,,138,1,124,2026-02-12 17:39:54.449789+00:00,dt
 Patuakhali-4,BNP,"Hafiz Uddin Ahmed, Bir Bikram",151774,119,1,110,2026-02-12 17:39:54.449789+00:00,dt
 Patuakhali-4,JaPa,Md. Kamal Uddin,,119,1,110,2026-02-12 17:39:54.449789+00:00,dt
@@ -431,8 +431,8 @@ Barisal-4,Jamaat,Foyzul Haque,,,1,149,2026-02-12 17:39:54.449789+00:00,dt
 Barisal-4,JaPa,Md. Kamruzzaman Khan,,,1,149,2026-02-12 17:39:54.449789+00:00,dt
 Barisal-4,JaPa,Md. Sabbir Ahmed,,,1,149,2026-02-12 17:39:54.449789+00:00,dt
 Barisal-4,BNP,Rafiqul Islam Jamal,,,1,149,2026-02-12 17:39:54.449789+00:00,dt
-Barisal-5,BNP,Israt Sultana Elen Bhutto," 56,672",63,1,176,2026-02-12 17:39:54.449789+00:00,dt
-Barisal-5,Jamaat,S. M. Niamul Karim,"29,472",63,1,176,2026-02-12 17:39:54.449789+00:00,dt
+Barisal-5,BNP,Israt Sultana Elen Bhutto,56672,63,1,176,2026-02-12 17:39:54.449789+00:00,dt
+Barisal-5,Jamaat,S. M. Niamul Karim,29472,63,1,176,2026-02-12 17:39:54.449789+00:00,dt
 Barisal-5,Islami Andolan Bangladesh,Muhammad Sirajul Islam Siraji,,63,1,176,2026-02-12 17:39:54.449789+00:00,dt
 Barisal-5,JaPa,Md. Nuruddin Sardar,,63,1,176,2026-02-12 17:39:54.449789+00:00,dt
 Barisal-5,JaPa,Syed Razzak Ali,,63,1,176,2026-02-12 17:39:54.449789+00:00,dt
@@ -491,9 +491,9 @@ Comilla-1,Jamaat,Md. Raihan Siraji,145088,139,2,157,2026-02-12 17:39:54.449789+0
 Comilla-1,BNP,Md. Mokarram Hossain Sujan,69407,139,2,157,2026-02-12 17:39:54.449789+00:00,dt
 Comilla-1,Islami Andolan Bangladesh,A. T. M. Golam Mostafa,,139,2,157,2026-02-12 17:39:54.449789+00:00,dt
 Comilla-1,JaPa,Md. Manjum Ali,,139,2,157,2026-02-12 17:39:54.449789+00:00,dt
-Comilla-2,Jamaat,A. T. M. Azharul Islam,"79,590",80,2,94,2026-02-12 17:39:54.449789+00:00,dt
-Comilla-2,BNP,Mohammad Ali Sarkar,"47,994",80,2,94,2026-02-12 17:39:54.449789+00:00,dt
-Comilla-2,JaPa,Anisul Islam Mondol,"16,874",80,2,94,2026-02-12 17:39:54.449789+00:00,dt
+Comilla-2,Jamaat,A. T. M. Azharul Islam,79590,80,2,94,2026-02-12 17:39:54.449789+00:00,dt
+Comilla-2,BNP,Mohammad Ali Sarkar,47994,80,2,94,2026-02-12 17:39:54.449789+00:00,dt
+Comilla-2,JaPa,Anisul Islam Mondol,16874,80,2,94,2026-02-12 17:39:54.449789+00:00,dt
 Comilla-2,Islami Andolan Bangladesh,Md. Ashraf Ali,,80,2,94,2026-02-12 17:39:54.449789+00:00,dt
 Comilla-3,CPB,Kallol Banik,,,2,148,2026-02-12 17:39:54.449789+00:00,dt
 Comilla-3,Ganosamhati Andolon (Saki),Taslima Akhter,,,2,148,2026-02-12 17:39:54.449789+00:00,dt
@@ -501,8 +501,8 @@ Comilla-3,Islami Andolan Bangladesh,Mahmudul Hasan,,,2,148,2026-02-12 17:39:54.4
 Comilla-3,Jamaat,Md. Saiful Alam,,,2,148,2026-02-12 17:39:54.449789+00:00,dt
 Comilla-3,BJP,Mohammad Naim Hasan,,,2,148,2026-02-12 17:39:54.449789+00:00,dt
 Comilla-3,JaPa,Sarkar Mohammad Salauddin,,,2,148,2026-02-12 17:39:54.449789+00:00,dt
-Comilla-4,Jamaat,Md. Mahbubur Rahman (Belal),"74,710",75,2,114,2026-02-12 17:39:54.449789+00:00,dt
-Comilla-4,BNP,Md. Samsuzzaman Samu,"36,298",75,2,114,2026-02-12 17:39:54.449789+00:00,dt
+Comilla-4,Jamaat,Md. Mahbubur Rahman (Belal),74710,75,2,114,2026-02-12 17:39:54.449789+00:00,dt
+Comilla-4,BNP,Md. Samsuzzaman Samu,36298,75,2,114,2026-02-12 17:39:54.449789+00:00,dt
 Comilla-4,JaPa,Golam Mohammad Kader,,75,2,114,2026-02-12 17:39:54.449789+00:00,dt
 Comilla-4,Islami Andolan Bangladesh,Md. Amiruzzaman,,75,2,114,2026-02-12 17:39:54.449789+00:00,dt
 Comilla-5,BNP,Bobby Hajjaj,,,2,140,2026-02-12 17:39:54.449789+00:00,dt
@@ -512,14 +512,14 @@ Comilla-6,JaPa,Abu Naser Shah Md. Mahbubar Rahman,,,2,152,2026-02-12 17:39:54.44
 Comilla-6,Bangladesh Khelafat Majlish,Abu Sahma,,,2,152,2026-02-12 17:39:54.449789+00:00,dt
 Comilla-6,Islami Andolan Bangladesh,Md. Zahid Hossain,,,2,152,2026-02-12 17:39:54.449789+00:00,dt
 Comilla-6,BNP,Mohammad Emdadul Haque Bhorosha,,,2,152,2026-02-12 17:39:54.449789+00:00,dt
-Comilla-7,Jamaat,Md. Golam Rabbani, 175208,152,2,89,2026-02-12 17:39:54.449789+00:00,dt
+Comilla-7,Jamaat,Md. Golam Rabbani,175208,152,2,89,2026-02-12 17:39:54.449789+00:00,dt
 Comilla-7,BNP,Md. Golam Rabbani,114141,152,2,89,2026-02-12 17:39:54.449789+00:00,dt
 Comilla-7,JaPa,S. M. Fakhr Uz Zaman,,152,2,89,2026-02-12 17:39:54.449789+00:00,dt
 Comilla-7,CPB,Md. Abu Helal,,152,2,89,2026-02-12 17:39:54.449789+00:00,dt
 Comilla-7,AB Party,Md. Abdul Baset,,152,2,89,2026-02-12 17:39:54.449789+00:00,dt
 Comilla-7,Islami Andolan Bangladesh,Md. Golzar Hossain,,152,2,89,2026-02-12 17:39:54.449789+00:00,dt
-Comilla-8,Jamaat,Md. Nurul Amin,"71,721",65,2,103,2026-02-12 17:39:54.449789+00:00,dt
-Comilla-8,BNP,Md. Saiful Islam,"70,828",65,2,103,2026-02-12 17:39:54.449789+00:00,dt
+Comilla-8,Jamaat,Md. Nurul Amin,71721,65,2,103,2026-02-12 17:39:54.449789+00:00,dt
+Comilla-8,BNP,Md. Saiful Islam,70828,65,2,103,2026-02-12 17:39:54.449789+00:00,dt
 Comilla-8,AB Party,Md. Sadekul Islam,,65,2,103,2026-02-12 17:39:54.449789+00:00,dt
 Comilla-8,JaPa,Md. Nur Alam Mia,,65,2,103,2026-02-12 17:39:54.449789+00:00,dt
 Comilla-8,Islami Andolan Bangladesh,Sultan Mahmud,,65,2,103,2026-02-12 17:39:54.449789+00:00,dt
@@ -539,8 +539,8 @@ Comilla-11,Islami Andolan Bangladesh,Dr. Md. Akkas Ali Sarkar,,,2,125,2026-02-12
 Comilla-11,BNP,Tasvir Ul Islam,,,2,125,2026-02-12 17:39:54.449789+00:00,dt
 Comilla-11,Jamaat,Md. Mahbubul Alam,,,2,125,2026-02-12 17:39:54.449789+00:00,dt
 Comilla-11,JaPa,Md. Safiur Rahman,,,2,125,2026-02-12 17:39:54.449789+00:00,dt
-Chandpur-1,Jamaat,Md. Mostafizur Rahman,"78,943",130,2,109,2026-02-12 17:39:54.449789+00:00,dt
-Chandpur-1,BNP,Md. Azizur Rahman,"57,947",130,2,109,2026-02-12 17:39:54.449789+00:00,dt
+Chandpur-1,Jamaat,Md. Mostafizur Rahman,78943,130,2,109,2026-02-12 17:39:54.449789+00:00,dt
+Chandpur-1,BNP,Md. Azizur Rahman,57947,130,2,109,2026-02-12 17:39:54.449789+00:00,dt
 Chandpur-1,JaPa,K. M. Fazlul Mondol,,130,2,109,2026-02-12 17:39:54.449789+00:00,dt
 Chandpur-1,Islami Andolan Bangladesh,Md. Hafizur Rahman,,130,2,109,2026-02-12 17:39:54.449789+00:00,dt
 Chandpur-2,BNP,Khandaker Ziaul Islam Mohammad Ali,,,2,155,2026-02-12 17:39:54.449789+00:00,dt
@@ -710,8 +710,8 @@ Chittagong-16,BNP,Md. Shahidul Islam,,,2,114,2026-02-12 17:39:54.449789+00:00,dt
 Chittagong-16,Jamaat,Md. Sarwar Hossain,,,2,114,2026-02-12 17:39:54.449789+00:00,dt
 Chittagong-16,JaPa,Raihan Jamil,,,2,114,2026-02-12 17:39:54.449789+00:00,dt
 Cox's Bazar-1,JaPa,Ashraful Alam,837,6,2,158,2026-02-12 17:39:54.449789+00:00,dt
-Cox's Bazar-1,BNP,Md. Selimuzzaman Mollya,"2,279",6,2,158,2026-02-12 17:39:54.449789+00:00,dt
-Cox's Bazar-1,Jamaat,Muhammad Abdul Hamid Molla,"1,094",6,2,158,2026-02-12 17:39:54.449789+00:00,dt
+Cox's Bazar-1,BNP,Md. Selimuzzaman Mollya,2279,6,2,158,2026-02-12 17:39:54.449789+00:00,dt
+Cox's Bazar-1,Jamaat,Muhammad Abdul Hamid Molla,1094,6,2,158,2026-02-12 17:39:54.449789+00:00,dt
 Cox's Bazar-1,JaPa,M. Anisul Islam,,6,2,158,2026-02-12 17:39:54.449789+00:00,dt
 Cox's Bazar-1,CPB,Nirad Baran Majumdar,,6,2,158,2026-02-12 17:39:54.449789+00:00,dt
 Cox's Bazar-1,JaPa,Md. Kaiyum Ali Khan,,6,2,158,2026-02-12 17:39:54.449789+00:00,dt
@@ -932,8 +932,8 @@ Gazipur-2,Islami Andolan Bangladesh,Ferdous Ahmed Chowdhury,,,3,272,2026-02-12 1
 Gazipur-2,Jamaat,Mohammad Saifur Rahman,,,3,272,2026-02-12 17:39:54.449789+00:00,dt
 Gazipur-2,JaPa,Rezaul Karim,,,3,272,2026-02-12 17:39:54.449789+00:00,dt
 Gazipur-2,JaPa,Syed Shahadat Hossain,,,3,272,2026-02-12 17:39:54.449789+00:00,dt
-Gazipur-3,BNP,Sarwar Alamgir," 53,499",54,3,180,2026-02-12 17:39:54.449789+00:00,dt
-Gazipur-3,Jamaat,Mohammad Nurul Amin,"20,119",54,3,180,2026-02-12 17:39:54.449789+00:00,dt
+Gazipur-3,BNP,Sarwar Alamgir,53499,54,3,180,2026-02-12 17:39:54.449789+00:00,dt
+Gazipur-3,Jamaat,Mohammad Nurul Amin,20119,54,3,180,2026-02-12 17:39:54.449789+00:00,dt
 Gazipur-3,JaPa,Ahmed Kabir,,54,3,180,2026-02-12 17:39:54.449789+00:00,dt
 Gazipur-3,Islami Andolan Bangladesh,Mohammad Zulfikar Ali Mannan,,54,3,180,2026-02-12 17:39:54.449789+00:00,dt
 Gazipur-4,BNP,Mostafa Kamal Pasha,72519,83,3,122,2026-02-12 17:39:54.449789+00:00,dt
@@ -1027,8 +1027,8 @@ Shariatpur-2,JaPa,S. M. Abdul Mannan,,,3,133,2026-02-12 17:39:54.449789+00:00,dt
 Shariatpur-2,BNP,Mainul Islam Khan,,,3,133,2026-02-12 17:39:54.449789+00:00,dt
 Shariatpur-2,Khelafat Majlish,Md. Salah Uddin,,,3,133,2026-02-12 17:39:54.449789+00:00,dt
 Shariatpur-2,Islami Andolan Bangladesh,Mohammad Ali,,,3,133,2026-02-12 17:39:54.449789+00:00,dt
-Shariatpur-3,BNP,Afroza Khanam,"61,778",56,3,110,2026-02-12 17:39:54.449789+00:00,dt
-Shariatpur-3,Bangladesh Khelafat Majlish,Muhammad Saeed Noor,"23,346",56,3,110,2026-02-12 17:39:54.449789+00:00,dt
+Shariatpur-3,BNP,Afroza Khanam,61778,56,3,110,2026-02-12 17:39:54.449789+00:00,dt
+Shariatpur-3,Bangladesh Khelafat Majlish,Muhammad Saeed Noor,23346,56,3,110,2026-02-12 17:39:54.449789+00:00,dt
 Shariatpur-3,JaPa,Abul Bashar Badsha,,56,3,110,2026-02-12 17:39:54.449789+00:00,dt
 Shariatpur-3,Islami Andolan Bangladesh,Samsuddin,,56,3,110,2026-02-12 17:39:54.449789+00:00,dt
 Meherpur-1,Jamaat,Md. Abdul Gafur,14567,15,4,117,2026-02-12 17:39:54.449789+00:00,dt
@@ -1076,8 +1076,8 @@ Jhenaidah-3,Islami Andolan Bangladesh,Md. Idris Ali,,,4,166,2026-02-12 17:39:54.
 Jhenaidah-3,BNP,Mosammat Sabira Sultana,,,4,166,2026-02-12 17:39:54.449789+00:00,dt
 Jhenaidah-3,Jamaat,Mohammad Mosleh Uddin Farid,,,4,166,2026-02-12 17:39:54.449789+00:00,dt
 Jhenaidah-3,AB Party,Ripon Mahmud,,,4,166,2026-02-12 17:39:54.449789+00:00,dt
-Jhenaidah-4,BNP,Anindya Islam Amit,"1,73,023",190,4,117,2026-02-12 17:39:54.449789+00:00,dt
-Jhenaidah-4,Jamaat,Md. Abdul Qader,"1,65,129",190,4,117,2026-02-12 17:39:54.449789+00:00,dt
+Jhenaidah-4,BNP,Anindya Islam Amit,173023,190,4,117,2026-02-12 17:39:54.449789+00:00,dt
+Jhenaidah-4,Jamaat,Md. Abdul Qader,165129,190,4,117,2026-02-12 17:39:54.449789+00:00,dt
 Jhenaidah-4,Islami Andolan Bangladesh,Mohammad Shoaib Hossain,,190,4,117,2026-02-12 17:39:54.449789+00:00,dt
 Jhenaidah-4,JaPa,Md. Khabir Gazi,,190,4,117,2026-02-12 17:39:54.449789+00:00,dt
 Jhenaidah-4,CPB,Md. Rashed Khan,,190,4,117,2026-02-12 17:39:54.449789+00:00,dt
@@ -1118,9 +1118,9 @@ Magura-2,JaPa,S. M. Golam Sarwar,,,4,143,2026-02-12 17:39:54.449789+00:00,dt
 Narail-1,Islami Andolan Bangladesh,Sheikh Atiar Rahman,,,4,110,2026-02-12 17:39:54.449789+00:00,dt
 Narail-1,Jamaat,Sheikh Manjurul Haque (Rahad),,,4,110,2026-02-12 17:39:54.449789+00:00,dt
 Narail-1,BNP,Sheikh Mohammad Zakir Hossain,,,4,110,2026-02-12 17:39:54.449789+00:00,dt
-Narail-2,BNP,Sheikh Faridul Islam,40974, 88,4,147,2026-02-12 17:39:54.449789+00:00,dt
-Narail-2,Jamaat,Mohammad Abdul Wadud Sheikh,33422, 88,4,147,2026-02-12 17:39:54.449789+00:00,dt
-Narail-2,Islami Andolan Bangladesh,Sheikh Jillur Rahman,1509, 88,4,147,2026-02-12 17:39:54.449789+00:00,dt
+Narail-2,BNP,Sheikh Faridul Islam,40974,88,4,147,2026-02-12 17:39:54.449789+00:00,dt
+Narail-2,Jamaat,Mohammad Abdul Wadud Sheikh,33422,88,4,147,2026-02-12 17:39:54.449789+00:00,dt
+Narail-2,Islami Andolan Bangladesh,Sheikh Jillur Rahman,1509,88,4,147,2026-02-12 17:39:54.449789+00:00,dt
 Bagerhat-1,Jamaat,Md. Abdul Alim,,,4,124,2026-02-12 17:39:54.449789+00:00,dt
 Bagerhat-1,Islami Andolan Bangladesh,Md. Omar Faruk,,,4,124,2026-02-12 17:39:54.449789+00:00,dt
 Bagerhat-1,JaPa,Sajan Kumar Mistry,,,4,124,2026-02-12 17:39:54.449789+00:00,dt
@@ -1176,8 +1176,8 @@ Satkhira-1,BNP,Md. Moniruzzaman,,,4,168,2026-02-12 17:39:54.449789+00:00,dt
 Satkhira-2,Islami Andolan Bangladesh,Md. Oli Ullah,21220,28,4,138,2026-02-12 17:39:54.449789+00:00,dt
 Satkhira-2,BNP,Md. Nazrul Islam Mollah,20525,28,4,138,2026-02-12 17:39:54.449789+00:00,dt
 Satkhira-2,Khelafat Majlish,Md. Jahangir Hossain,,28,4,138,2026-02-12 17:39:54.449789+00:00,dt
-Satkhira-3,BNP,Md. Nurul Islam,"82,006",122,4,154,2026-02-12 17:39:54.449789+00:00,dt
-Satkhira-3,Jamaat,Dr. Sultan Ahmed,"75,388",122,4,154,2026-02-12 17:39:54.449789+00:00,dt
+Satkhira-3,BNP,Md. Nurul Islam,82006,122,4,154,2026-02-12 17:39:54.449789+00:00,dt
+Satkhira-3,Jamaat,Dr. Sultan Ahmed,75388,122,4,154,2026-02-12 17:39:54.449789+00:00,dt
 Satkhira-3,JaPa,Abdul Latif Farazi,,122,4,154,2026-02-12 17:39:54.449789+00:00,dt
 Satkhira-3,BJP,Md. Kamruzzaman Liton,,122,4,154,2026-02-12 17:39:54.449789+00:00,dt
 Satkhira-3,Islami Andolan Bangladesh,Md. Mizanur Rahman,,122,4,154,2026-02-12 17:39:54.449789+00:00,dt
@@ -1213,7 +1213,7 @@ Bogra-6,BNP,Md. Aminul Islam,,,5,144,2026-02-12 17:39:54.449789+00:00,dt
 Bogra-6,Islami Andolan Bangladesh,Md. Ibrahim Khalil,,,5,144,2026-02-12 17:39:54.449789+00:00,dt
 Bogra-6,CPB,Md. Sadekul Islam,,,5,144,2026-02-12 17:39:54.449789+00:00,dt
 Bogra-7,BNP,Md. Harunur Rashid,2096,21,5,172,2026-02-12 17:39:54.449789+00:00,dt
-Bogra-7,Jamaat,Md. Nurul Islam,"7,000",21,5,172,2026-02-12 17:39:54.449789+00:00,dt
+Bogra-7,Jamaat,Md. Nurul Islam,7000,21,5,172,2026-02-12 17:39:54.449789+00:00,dt
 Bogra-7,Islami Andolan Bangladesh,Md. Monirul Islam,,21,5,172,2026-02-12 17:39:54.449789+00:00,dt
 Chapai Nawabganj-1,BNP,Md. Mostafizur Rahman,47428,44,5,158,2026-02-12 17:39:54.449789+00:00,dt
 Chapai Nawabganj-1,Jamaat,Md. Mahbubul Alam,30819,44,5,158,2026-02-12 17:39:54.449789+00:00,dt
@@ -1260,22 +1260,22 @@ Rajshahi-3,BNP,Md. Abu Sayeed Chand,49227,42,5,128,2026-02-12 17:39:54.449789+00
 Rajshahi-3,Jamaat,Md. Nazmul Haque,33012,42,5,128,2026-02-12 17:39:54.449789+00:00,dt
 Rajshahi-3,Islami Andolan Bangladesh,Md. Abdus Salam Suruj,,42,5,128,2026-02-12 17:39:54.449789+00:00,dt
 Rajshahi-3,JaPa,Md. Iqbal Hossain,,42,5,128,2026-02-12 17:39:54.449789+00:00,dt
-Rajshahi-4,BNP,Farzana Sharmin," 52,379", 63,5,122,2026-02-12 17:39:54.449789+00:00,dt
-Rajshahi-4,Jamaat,Md. Abul Kalam Azad,"46,310", 63,5,122,2026-02-12 17:39:54.449789+00:00,dt
-Rajshahi-4,Islami Andolan Bangladesh,Md. Abdullahil Baki,, 63,5,122,2026-02-12 17:39:54.449789+00:00,dt
-Rajshahi-4,JaPa,Md. Sahed Ali Jinnah,, 63,5,122,2026-02-12 17:39:54.449789+00:00,dt
-Rajshahi-4,Ganosamhati Andolon (Saki),Md. Sentu Ali,, 63,5,122,2026-02-12 17:39:54.449789+00:00,dt
-Rajshahi-5,BNP,M. Ruhul Quddus Talukder Dulu,"41,653",45,5,132,2026-02-12 17:39:54.449789+00:00,dt
-Rajshahi-5,Jamaat,Md. Yunus Ali,"38,147",45,5,132,2026-02-12 17:39:54.449789+00:00,dt
+Rajshahi-4,BNP,Farzana Sharmin,52379,63,5,122,2026-02-12 17:39:54.449789+00:00,dt
+Rajshahi-4,Jamaat,Md. Abul Kalam Azad,46310,63,5,122,2026-02-12 17:39:54.449789+00:00,dt
+Rajshahi-4,Islami Andolan Bangladesh,Md. Abdullahil Baki,,63,5,122,2026-02-12 17:39:54.449789+00:00,dt
+Rajshahi-4,JaPa,Md. Sahed Ali Jinnah,,63,5,122,2026-02-12 17:39:54.449789+00:00,dt
+Rajshahi-4,Ganosamhati Andolon (Saki),Md. Sentu Ali,,63,5,122,2026-02-12 17:39:54.449789+00:00,dt
+Rajshahi-5,BNP,M. Ruhul Quddus Talukder Dulu,41653,45,5,132,2026-02-12 17:39:54.449789+00:00,dt
+Rajshahi-5,Jamaat,Md. Yunus Ali,38147,45,5,132,2026-02-12 17:39:54.449789+00:00,dt
 Rajshahi-5,Ganosamhati Andolon (Saki),Tahamida Islam Tania,,45,5,132,2026-02-12 17:39:54.449789+00:00,dt
 Rajshahi-5,JaPa,Md. Rakib Uddin (Komol),,45,5,132,2026-02-12 17:39:54.449789+00:00,dt
 Rajshahi-5,Islami Andolan Bangladesh,Mohammad Ali Siddiqui,,45,5,132,2026-02-12 17:39:54.449789+00:00,dt
-Rajshahi-6,BNP,Md. Anwarul Islam,"40,136", 44,5,118,2026-02-12 17:39:54.449789+00:00,dt
-Rajshahi-6,NCP,S. M. Zargis Qadir,, 44,5,118,2026-02-12 17:39:54.449789+00:00,dt
-Rajshahi-6,JaPa,Md. Ashiq Iqbal,, 44,5,118,2026-02-12 17:39:54.449789+00:00,dt
-Rajshahi-6,Islami Andolan Bangladesh,Md. Khalilur Rahman,, 44,5,118,2026-02-12 17:39:54.449789+00:00,dt
-Natore-1,BNP,Md. Abdul Aziz,"67,284",58,5,125,2026-02-12 17:39:54.449789+00:00,dt
-Natore-1,Jamaat,Md. Abdul Hakim,"45,051",58,5,125,2026-02-12 17:39:54.449789+00:00,dt
+Rajshahi-6,BNP,Md. Anwarul Islam,40136,44,5,118,2026-02-12 17:39:54.449789+00:00,dt
+Rajshahi-6,NCP,S. M. Zargis Qadir,,44,5,118,2026-02-12 17:39:54.449789+00:00,dt
+Rajshahi-6,JaPa,Md. Ashiq Iqbal,,44,5,118,2026-02-12 17:39:54.449789+00:00,dt
+Rajshahi-6,Islami Andolan Bangladesh,Md. Khalilur Rahman,,44,5,118,2026-02-12 17:39:54.449789+00:00,dt
+Natore-1,BNP,Md. Abdul Aziz,67284,58,5,125,2026-02-12 17:39:54.449789+00:00,dt
+Natore-1,Jamaat,Md. Abdul Hakim,45051,58,5,125,2026-02-12 17:39:54.449789+00:00,dt
 Natore-1,JaPa,M. Yusuf Ahmed,,58,5,125,2026-02-12 17:39:54.449789+00:00,dt
 Natore-1,Islami Andolan Bangladesh,Md. Emdadullah,,58,5,125,2026-02-12 17:39:54.449789+00:00,dt
 Natore-1,AB Party,Md. Moksedul Momin,,58,5,125,2026-02-12 17:39:54.449789+00:00,dt
@@ -1449,11 +1449,11 @@ Sherpur-1,CPB,Azharul Islam,,,7,144,2026-02-12 17:39:54.449789+00:00,dt
 Sherpur-1,Islami Andolan Bangladesh,Md. Jillur Rahman,,,7,144,2026-02-12 17:39:54.449789+00:00,dt
 Sherpur-1,Bangladesh Khelafat Majlish,Md. Tajul Islam,,,7,144,2026-02-12 17:39:54.449789+00:00,dt
 Sherpur-1,BNP,Syed Emran Saleh,,,7,144,2026-02-12 17:39:54.449789+00:00,dt
-Sherpur-2,BNP,Motahar Hossain Talukder,"11,592",18,7,154,2026-02-12 17:39:54.449789+00:00,dt
+Sherpur-2,BNP,Motahar Hossain Talukder,11592,18,7,154,2026-02-12 17:39:54.449789+00:00,dt
 Sherpur-2,Islami Andolan Bangladesh,Golam Mawla Bhuiyan,,18,7,154,2026-02-12 17:39:54.449789+00:00,dt
 Sherpur-2,Bangladesh Khelafat Majlish,Mohammadullah,,18,7,154,2026-02-12 17:39:54.449789+00:00,dt
 Sherpur-2,JaPa,Md. Emdadul Haque Khan,,18,7,154,2026-02-12 17:39:54.449789+00:00,dt
-Sherpur-3,BNP,M. Iqbal Hossain,"12,358",13,7,126,2026-02-12 17:39:54.449789+00:00,dt
+Sherpur-3,BNP,M. Iqbal Hossain,12358,13,7,126,2026-02-12 17:39:54.449789+00:00,dt
 Sherpur-3,Islami Andolan Bangladesh,Md. Shariful Islam,,13,7,126,2026-02-12 17:39:54.449789+00:00,dt
 Mymensingh-1,JaPa,Abu Md. Musa Sarkar,,,7,143,2026-02-12 17:39:54.449789+00:00,dt
 Mymensingh-1,CPB,Emdadul Haque Millat,,,7,143,2026-02-12 17:39:54.449789+00:00,dt
@@ -1466,7 +1466,7 @@ Mymensingh-2,Jamaat,Md. Matiur Rahman Akand,5184,7,7,174,2026-02-12 17:39:54.449
 Mymensingh-2,Islami Andolan Bangladesh,Mohammad Sirajul Islam,,7,7,174,2026-02-12 17:39:54.449789+00:00,dt
 Mymensingh-2,AB Party,Md. Rafiqul Islam,,7,7,174,2026-02-12 17:39:54.449789+00:00,dt
 Mymensingh-2,Ganosamhati Andolon (Saki),Mohammad Nazrul Islam,,7,7,174,2026-02-12 17:39:54.449789+00:00,dt
-Mymensingh-3,Jamaat,Md. Kamrul Hasan,"21,785",37,7,92,2026-02-12 17:39:54.449789+00:00,dt
+Mymensingh-3,Jamaat,Md. Kamrul Hasan,21785,37,7,92,2026-02-12 17:39:54.449789+00:00,dt
 Mymensingh-3,BNP,Md. Akhtarul Alam,,37,7,92,2026-02-12 17:39:54.449789+00:00,dt
 Mymensingh-3,Islami Andolan Bangladesh,Md. Nure Alam Siddique,,37,7,92,2026-02-12 17:39:54.449789+00:00,dt
 Mymensingh-4,BNP,Dr. Md. Mahabubur Rahman,4413,6,7,177,2026-02-12 17:39:54.449789+00:00,dt
@@ -1489,16 +1489,16 @@ Mymensingh-7,BNP,Mohammad Akhtaruzzaman,,,7,120,2026-02-12 17:39:54.449789+00:00
 Mymensingh-8,BNP,Fakhr Uddin Ahmed,6320,7,7,92,2026-02-12 17:39:54.449789+00:00,dt
 Mymensingh-8,NCP,Zahidul Islam,,7,7,92,2026-02-12 17:39:54.449789+00:00,dt
 Mymensingh-8,Islami Andolan Bangladesh,Md. Mostafa Kamal,,7,7,92,2026-02-12 17:39:54.449789+00:00,dt
-Mymensingh-9,BNP,Barrister Kaiser Kamal,"82,738",65,7,121,2026-02-12 17:39:54.449789+00:00,dt
-Mymensingh-9,Bangladesh Khelafat Majlish,Golam Rabbani,"44,472",65,7,121,2026-02-12 17:39:54.449789+00:00,dt
+Mymensingh-9,BNP,Barrister Kaiser Kamal,82738,65,7,121,2026-02-12 17:39:54.449789+00:00,dt
+Mymensingh-9,Bangladesh Khelafat Majlish,Golam Rabbani,44472,65,7,121,2026-02-12 17:39:54.449789+00:00,dt
 Mymensingh-9,JaPa,Md. Anwar Hossain Khan,,65,7,121,2026-02-12 17:39:54.449789+00:00,dt
 Mymensingh-9,Islami Andolan Bangladesh,Md. Abdul Mannan (Sohag),,65,7,121,2026-02-12 17:39:54.449789+00:00,dt
 Mymensingh-9,CPB,Md. Alkas Uddin Mir,,65,7,121,2026-02-12 17:39:54.449789+00:00,dt
-Mymensingh-10,BNP,Md. Anwarul Haque,"61,962",68,7,111,2026-02-12 17:39:54.449789+00:00,dt
-Mymensingh-10,NCP,Md. Fahim Rahman Khan Pathan,"23,937",68,7,111,2026-02-12 17:39:54.449789+00:00,dt
+Mymensingh-10,BNP,Md. Anwarul Haque,61962,68,7,111,2026-02-12 17:39:54.449789+00:00,dt
+Mymensingh-10,NCP,Md. Fahim Rahman Khan Pathan,23937,68,7,111,2026-02-12 17:39:54.449789+00:00,dt
 Mymensingh-10,Islami Andolan Bangladesh,Abdul Qayyum,,68,7,111,2026-02-12 17:39:54.449789+00:00,dt
 Mymensingh-10,JaPa,A. B. M. Rafiqul Haque Talukder,,68,7,111,2026-02-12 17:39:54.449789+00:00,dt
-Mymensingh-11,BNP,Rafiqul Islam Hilali," 51,165",67,7,105,2026-02-12 17:39:54.449789+00:00,dt
+Mymensingh-11,BNP,Rafiqul Islam Hilali,51165,67,7,105,2026-02-12 17:39:54.449789+00:00,dt
 Mymensingh-11,JaPa,Md. Abul Hossain Talukder,,67,7,105,2026-02-12 17:39:54.449789+00:00,dt
 Mymensingh-11,Jamaat,Md. Khairul Kabir Niyogi,,67,7,105,2026-02-12 17:39:54.449789+00:00,dt
 Mymensingh-11,Islami Andolan Bangladesh,Md. Zakir Hossain,,67,7,105,2026-02-12 17:39:54.449789+00:00,dt
@@ -1513,7 +1513,7 @@ Netrokona-3,Jamaat,A. K. M. Aminul Islam,,,7,149,2026-02-12 17:39:54.449789+00:0
 Netrokona-3,BNP,M. A. Hannan,,,7,149,2026-02-12 17:39:54.449789+00:00,dt
 Netrokona-3,JaPa,Md. Shah Alam,,,7,149,2026-02-12 17:39:54.449789+00:00,dt
 Netrokona-3,Islami Andolan Bangladesh,Hussain Ahmed,,,7,149,2026-02-12 17:39:54.449789+00:00,dt
-Netrokona-4,Jamiat Ulema-e-Islam Bangladesh,Mohammad Junayed Al Habib,"6,745",12,7,147,2026-02-12 17:39:54.449789+00:00,dt
+Netrokona-4,Jamiat Ulema-e-Islam Bangladesh,Mohammad Junayed Al Habib,6745,12,7,147,2026-02-12 17:39:54.449789+00:00,dt
 Netrokona-4,NCP,Ashraf Uddin,,12,7,147,2026-02-12 17:39:54.449789+00:00,dt
 Netrokona-4,JaPa,Adv. Md. Ziaul Haque Mridha,,12,7,147,2026-02-12 17:39:54.449789+00:00,dt
 Netrokona-4,Islami Andolan Bangladesh,Nesar Ahmad,,12,7,147,2026-02-12 17:39:54.449789+00:00,dt
@@ -1565,10 +1565,10 @@ Sylhet-5,BNP,Dipen Dewan,3746,4,8,158,2026-02-12 17:39:54.449789+00:00,dt
 Sylhet-5,Bangladesh Khelafat Majlish,Muhammad Abu Bakar Siddique,12,4,8,158,2026-02-12 17:39:54.449789+00:00,dt
 Sylhet-5,JaPa,Ashok Talukder,,4,8,158,2026-02-12 17:39:54.449789+00:00,dt
 Sylhet-5,Islami Andolan Bangladesh,Md. Jasim Uddin,,4,8,158,2026-02-12 17:39:54.449789+00:00,dt
-Sylhet-6,BNP,Saching Pru," 46,481", 67,8,192,2026-02-12 17:39:54.449789+00:00,dt
-Sylhet-6,NCP,Abu Sayeed Md. Suja Uddin,"8,117", 67,8,192,2026-02-12 17:39:54.449789+00:00,dt
-Sylhet-6,JaPa,Abu Zafar Mohammad Waliullah,, 67,8,192,2026-02-12 17:39:54.449789+00:00,dt
-Sylhet-6,Islami Andolan Bangladesh,Md. Abul Kalam Azad,, 67,8,192,2026-02-12 17:39:54.449789+00:00,dt
+Sylhet-6,BNP,Saching Pru,46481,67,8,192,2026-02-12 17:39:54.449789+00:00,dt
+Sylhet-6,NCP,Abu Sayeed Md. Suja Uddin,8117,67,8,192,2026-02-12 17:39:54.449789+00:00,dt
+Sylhet-6,JaPa,Abu Zafar Mohammad Waliullah,,67,8,192,2026-02-12 17:39:54.449789+00:00,dt
+Sylhet-6,Islami Andolan Bangladesh,Md. Abul Kalam Azad,,67,8,192,2026-02-12 17:39:54.449789+00:00,dt
 Moulvibazar-1,BNP,Md. Abdullah,20979,20,8,112,2026-02-12 17:39:54.449789+00:00,dt
 Moulvibazar-1,Jamaat,A. K. M. Fakhruddin Razi,12400,20,8,112,2026-02-12 17:39:54.449789+00:00,dt
 Moulvibazar-1,CPB,Abdur Rahman,,20,8,112,2026-02-12 17:39:54.449789+00:00,dt

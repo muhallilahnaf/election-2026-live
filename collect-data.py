@@ -77,6 +77,14 @@ df['seat_name'] = df.seat_name.apply(map_seat)
 df['time'] = pd.to_datetime('now', utc=True)
 df['source'] = 'dt'
 
+# clean vote column
+def clean_vote(x):
+    try:
+        return int(str(x).replace(',', '').strip())
+    except:
+        return x
+df['vote'] = df['vote'].apply(clean_vote)
+
 # append to votes_raw.csv
 dfnew = pd.concat([dfraw, df], ignore_index=True)
 
