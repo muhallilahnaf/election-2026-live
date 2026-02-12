@@ -35,6 +35,7 @@ df_latest = dfvpc.merge(latest_time, on=['seat_name', 'time'])
 dfps = df_latest.sort_values(['seat_name', 'vote'], ascending=[True, False]).drop_duplicates('seat_name')
 dfps = dfps.groupby('party')['seat_name'].count().reset_index()
 dfp = pd.merge(dfpc, dfps, how='left', on='party')
+dfp = dfp.rename(columns={'seat_name': 'count'})
 
 # save party-wise data
 dfp.to_csv('data/party_votes.csv', index=False)

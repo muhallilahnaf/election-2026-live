@@ -21,7 +21,7 @@ for i, row in dfd.iterrows():
     count = count - 1
     if count == 0:
         # print('sleeping')
-        sleep(2)
+        sleep(1)
         count = 5
 
 dfr = pd.DataFrame(rstore)
@@ -65,9 +65,10 @@ seat_mapping = {
 }
 
 def map_seat(x):
-    name, number = x.split('-')
-    if name in seat_mapping.keys():
-        return seat_mapping[name] + '-' + number
+    if '-' in x:
+        name, number = x.split('-')
+        if name in seat_mapping.keys():
+            return seat_mapping[name] + '-' + number
     return x
 
 df['seat_name'] = df.seat_name.apply(map_seat)
