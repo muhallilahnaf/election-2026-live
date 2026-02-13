@@ -1,12 +1,15 @@
 import requests
 import pandas as pd
 
-dfraw = pd.read_csv('data/seat_votes_pa.csv')
+dfraw = pd.read_csv('data/votes_raw_pa.csv')
 
+# fetch data
 res = requests.get('https://election.prothomalo.com/election-result-ajax')
 if res.status_code == 200:
     data = res.json()
     try:
+
+        # extract data
         seats = data['resultData']['win_nearest_candidates']
         store = []
         for seat_no, seat in seats.items():
@@ -14,6 +17,7 @@ if res.status_code == 200:
                 nearest = seat['nearest']
                 store.append((
                     nearest['area_name'],
+                    nearest['area_no'],
                     nearest['candidates_name'],
                     nearest['party'],
                     nearest['vote_cast'],
@@ -23,12 +27,17 @@ if res.status_code == 200:
                 win = seat['win']
                 store.append((
                     win['area_name'],
+                    win['area_no'],
                     win['candidates_name'],
                     win['party'],
                     win['vote_cast'],
                     win['jote']
                 ))
-        df = pd.DataFrame(store, columns=['seat', 'name', 'party_bn', 'vote', 'jote'])
+
+        # create datafrane
+        df = pd.DataFrame(store, columns=['seat_bn', 'seat_no', 'name', 'party_bn', 'vote', 'jote'])
+        
+        # map party names
         party_mapping = {
             'bkm': 'Bangladesh Khelafat Mojlish',
             'bnp': 'BNP',
@@ -39,18 +48,42 @@ if res.status_code == 200:
             'ncp': 'NCP',
             'sontontro': 'Independent',
             'bjai': 'Jamaat',
+            'abp': 'AB Party',
+            'bifront': 'Bangladesh Islami Front',
+            'gop': 'GOP (Nuru)',
+            'bijp': 'BJP',
+            'bbwp': 'Revolutionary Workers Party of Bangladesh',
+            'bdp': 'Bangladesh Development Party',
+            'ldp':'LDP',
         }
         def map_party(x):
             if x in party_mapping.keys():
                 return party_mapping[x]
             return x
         df['party'] = df.party_bn.apply(map_party)
-        df = df[['seat', 'name', 'party', 'vote']]
-        df['time'] = pd.Timestamp.utcnow()
-        df['source'] = 'pa'
-        # append to seat_votes_pa.csv
-        dfnew = pd.concat([dfraw, df], ignore_index=True)
+
+        # map alliance names
+        def map_jote(x):
+            if x == 'bjai_jote':
+                return 'Jamaat-NCP'
+            if x == 'bnp_jote':
+                return 'BNP'
+            return x
+        df['alliance'] = df.jote.apply(map_jote)
+
+        # merge with seat data to get seat name and voter numbers
+        dfs = pd.read_csv('data/seat_voters_2026.csv')
+        dfm = pd.merge(df, dfs, how='left', on='seat_no')
+
+        # drop redundant columns
+        dfm = dfm.drop(columns=['seat_bn', 'party_bn', 'jote'])
+
+        # add timestamp
+        dfm['time'] = pd.Timestamp.utcnow()
+
+        # append to votes_raw_pa.csv
+        dfnew = pd.concat([dfraw, dfm], ignore_index=True)
         # save
-        dfnew.to_csv('data/seat_votes_pa.csv', index=False)
+        dfnew.to_csv('data/votes_raw_pa.csv', index=False)
     except Exception as e:
         print(e)
