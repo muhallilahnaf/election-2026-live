@@ -44,5 +44,30 @@ dfps = dfps.groupby('party')['seat'].count().reset_index()
 dfp = pd.merge(dfpc, dfps, how='left', on='party')
 dfp = dfp.rename(columns={'seat': 'count'})
 
+# add alliance data
+alliance_mapping = {
+    'Bangladesh Khelafat Mojlish': 'Jamaat-NCP',
+    'BNP': 'BNP',
+    'Ganosamhati Andolon (Saki)': 'BNP',
+    'Islami Andolan Bangladesh': 'no alliance',
+    'Jamiat Ulema-e-Islam Bangladesh': 'BNP',
+    'Khelafat Mojlish': 'Jamaat-NCP',
+    'NCP': 'Jamaat-NCP',
+    'Independent': 'no alliance',
+    'Jamaat': 'Jamaat-NCP',
+    'AB Party': 'Jamaat-NCP',
+    'Bangladesh Islami Front': 'no alliance',
+    'GOP (Nuru)': 'BNP',
+    'BJP': 'BNP',
+    'Revolutionary Workers Party of Bangladesh': 'BNP',
+    'Bangladesh Development Party': 'Jamaat-NCP',
+    'LDP': 'Jamaat-NCP'
+}
+def map_alliance(x):
+    if x in alliance_mapping.keys():
+        return alliance_mapping[x]
+    return 'no alliance'
+dfp['alliance'] = dfp.party.apply(map_alliance)
+
 # save party-wise data
 dfp.to_csv('data/party_votes_pa.csv', index=False)
