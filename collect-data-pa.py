@@ -63,13 +63,29 @@ if res.status_code == 200:
         df['party'] = df.party_bn.apply(map_party)
 
         # map alliance names
-        def map_jote(x):
-            if x == 'bjai_jote':
-                return 'Jamaat-NCP'
-            if x == 'bnp_jote':
-                return 'BNP'
-            return x
-        df['alliance'] = df.jote.apply(map_jote)
+        alliance_mapping = {
+            'bkm': 'Jamaat-NCP',
+            'bnp': 'BNP',
+            'gonoa': 'BNP',
+            'iab': 'no alliance',
+            'juib': 'BNP',
+            'km': 'Jamaat-NCP',
+            'ncp': 'Jamaat-NCP',
+            'sontontro': 'no alliance',
+            'bjai': 'Jamaat-NCP',
+            'abp': 'Jamaat-NCP',
+            'bifront': 'no alliance',
+            'gop': 'BNP',
+            'bijp': 'BNP',
+            'bbwp': 'BNP',
+            'bdp': 'Jamaat-NCP',
+            'ldp':'Jamaat-NCP',
+        }
+        def map_alliance(x):
+            if x in alliance_mapping.keys():
+                return alliance_mapping[x]
+            return 'no alliance'
+        df['alliance'] = df.party_bn.apply(map_alliance)
 
         # merge with seat data to get seat name and voter numbers
         dfs = pd.read_csv('data/seat_voters_2026.csv')
