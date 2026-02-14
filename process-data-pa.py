@@ -32,7 +32,10 @@ def get_total_vote_pc(row):
     except:
         return 0
     
-dfpc = dfvc.groupby('party').agg({'vote': 'sum', 'voters': 'sum'}).reset_index()
+dfpc = dfvc.groupby('party').agg(
+    vote=('vote', 'sum'), 
+    voters=('voters', 'sum'), 
+    seat_contested=('vote', 'count')).reset_index()
 dfpc['avg_vote_pc'] = dfpc.apply(get_vote_pc, axis=1)
 dfpc['total_vote_pc'] = dfpc.apply(get_total_vote_pc, axis=1)
 

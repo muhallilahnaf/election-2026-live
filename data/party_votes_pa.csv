@@ -1,17 +1,17 @@
-party,vote,voters,avg_vote_pc,total_vote_pc,count,alliance
-AB Party,187560,1275015.0,14.71,0.15,,Jamaat-NCP
-BJP,105543,406567.0,25.96,0.09,1.0,BNP
-BNP,36453458,115914909.0,31.45,29.75,208.0,BNP
-Bangladesh Development Party,124249,773191.0,16.07,0.1,,Jamaat-NCP
-Bangladesh Islami Front,194873,1640640.0,11.88,0.16,,no alliance
-Bangladesh Khelafat Mojlish,1227713,6759929.0,18.16,1.0,2.0,Jamaat-NCP
-GOP (Nuru),201672,1185940.0,17.01,0.16,1.0,BNP
-Ganosamhati Andolon (Saki),95342,289674.0,32.91,0.08,1.0,BNP
-Independent,2293779,11382757.0,20.15,1.87,7.0,no alliance
-Islami Andolan Bangladesh,337061,1701837.0,19.81,0.28,1.0,no alliance
-Jamaat,22756998,87224538.0,26.09,18.57,69.0,Jamaat-NCP
-Jamiat Ulema-e-Islam Bangladesh,348987,1929250.0,18.09,0.28,,BNP
-Khelafat Mojlish,474820,2528799.0,18.78,0.39,1.0,Jamaat-NCP
-LDP,229249,1690132.0,13.56,0.19,,Jamaat-NCP
-NCP,2151569,10003140.0,21.51,1.76,6.0,Jamaat-NCP
-Revolutionary Workers Party of Bangladesh,30963,333320.0,9.29,0.03,,BNP
+party,vote,voters,seat_contested,avg_vote_pc,total_vote_pc,count,alliance
+AB Party,187560,1275015.0,3,14.71,0.15,,Jamaat-NCP
+BJP,105543,406567.0,1,25.96,0.08,1.0,BNP
+BNP,36453458,119719132.0,281,30.45,28.86,208.0,BNP
+Bangladesh Development Party,124249,773191.0,2,16.07,0.1,,Jamaat-NCP
+Bangladesh Islami Front,194873,1640640.0,4,11.88,0.15,,no alliance
+Bangladesh Khelafat Mojlish,1227713,7216111.0,16,17.01,0.97,2.0,Jamaat-NCP
+GOP (Nuru),201672,1185940.0,3,17.01,0.16,1.0,BNP
+Ganosamhati Andolon (Saki),95342,289674.0,1,32.91,0.08,1.0,BNP
+Independent,2293779,12866834.0,32,17.83,1.82,7.0,no alliance
+Islami Andolan Bangladesh,337061,1701837.0,4,19.81,0.27,1.0,no alliance
+Jamaat,22756998,88270642.0,209,25.78,18.01,69.0,Jamaat-NCP
+Jamiat Ulema-e-Islam Bangladesh,348987,1929250.0,4,18.09,0.28,,BNP
+Khelafat Mojlish,474820,2528799.0,6,18.78,0.38,1.0,Jamaat-NCP
+LDP,229249,1690132.0,4,13.56,0.18,,Jamaat-NCP
+NCP,2151569,10821000.0,23,19.88,1.7,6.0,Jamaat-NCP
+Revolutionary Workers Party of Bangladesh,30963,333320.0,1,9.29,0.02,,BNP
